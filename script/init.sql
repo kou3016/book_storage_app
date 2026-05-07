@@ -1,11 +1,11 @@
 USE book_app;
 
-CREATE TABLE book(
+CREATE TABLE books(
     id int(11) not null primary key auto_increment,
     title varchar(255) not null,
     author varchar(255) not null,
     volumes int(11) null,
-    pulisher varchar(255) null,
+    publisher varchar(255) null,
     isbn varchar(255) null,
     genre varchar(255) null,
     status varchar(255) null,
@@ -16,18 +16,20 @@ CREATE TABLE book(
 
 CREATE TABLE reading_log(
     id int(11) not null primary key auto_increment,
-    foreign key book_id (id) references book(id),
+    book_id int not null,
     memo varchar(255) null,
     reading_time int(11) null,
-    reading_data timestamp not null default current_timestamp,
-    created_at timestamp not null default current_timestamp
+    reading_date timestamp not null default current_timestamp,
+    created_at timestamp not null default current_timestamp,
+    constraint fk_reading_log_book foregin key (book_id) references books(id)
 );
 
 CREATE TABLE reviews(
-    id int(11) not null primary key auto_increment,
-    foreign key book_id (id) references book(id),
+    id int not null primary key auto_increment,
+    book_id int not null,
     contents varchar(255) null,
-    rating int(11) null,
+    rating int null,
     created_at timestamp not null default current_timestamp,
-    updated_at timestamp null default current_timestamp on update current_timestamp
+    updated_at timestamp null default current_timestamp on update current_timestamp,
+    constraint fk_reviews_book foreign key (book_id) references books(id)
 );

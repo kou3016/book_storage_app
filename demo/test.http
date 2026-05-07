@@ -1,0 +1,13 @@
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+  "title": "Spring Boot入門",
+  "author": "山田太郎",
+  "volumes": 1,
+  "publisher": "技術書出版社",
+  "isbn": "9781234567890",
+  "genre": "Tech",
+  "status": "reading",
+  "totalReadingTime": 120
+}
