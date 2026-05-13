@@ -7,8 +7,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import org.springframework.dao.EmptyResultDataAccessException;
 
-
-//@RestController
 @Controller
 @RequestMapping("/books")
 public class BookController {
@@ -18,7 +16,7 @@ public class BookController {
         this.bookService = bookService;
     }
 
-    // 本データの登録
+    // データの登録
     @GetMapping("/register")
     public String showRegisterForm(Model model) {
         model.addAttribute("book", new Book());
@@ -31,21 +29,21 @@ public class BookController {
         return "redirect:/books";
     }
 
-    // 本データの削除
-    @GetMapping("/delete/{id}")
+    // データの削除
+    @PostMapping("/delete/{id}")
     public String deleteById(@PathVariable Integer id, RedirectAttributes redirectAttributes) {
         try {
             bookService.deleteById(id);
-            redirectAttributes.addFlashAttribute("successMessage", "Deleting the data is completed.");
+            redirectAttributes.addFlashAttribute("successMessage", "Deleted book id=" + id);
         } catch (EmptyResultDataAccessException e) {
-            redirectAttributes.addFlashAttribute("errorMessage", "Not find the id.");
+            redirectAttributes.addFlashAttribute("errorMessage", "Book not found: id=" + id);
         } catch (Exception e) {
-            redirectAttributes.addFlashAttribute("errorMessage", "Deleting the data is not completed.");
+            redirectAttributes.addFlashAttribute("errorMessage", "Failed to delete book id=" + id);
         }
-        return "book/delete";
+        return "redirect:/books";
     }
 
-    // 本データの更新
+    // データの更新
     @PutMapping("/{id}")
     @ResponseStatus(HttpStatus.OK)
     public Book update(@PathVariable Integer id, @RequestBody Book req) {
