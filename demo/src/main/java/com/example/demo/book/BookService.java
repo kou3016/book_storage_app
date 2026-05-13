@@ -4,6 +4,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.server.ResponseStatusException;
 import java.util.List;
+import org.springframework.transaction.annotation.Transactional;
+import java.util.Optional;
 
 @Service
 public class BookService {
@@ -41,9 +43,15 @@ public class BookService {
         return bookRepository.save(book);
     }
 
-
+    // 一覧取得
     @Transactional
     public List<Book> getAllBooks() {
         return bookRepository.findAll();
+    }
+
+    // 詳細取得
+    @Transactional
+    public Optional<Book> getById(Integer id) {
+        return bookRepository.findById(id);
     }
 }

@@ -1,13 +1,39 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>Book List</title>
 </head>
 <body>
   <h1>Book List</h1>
-  <ul>
-    <li th:each="b : ${books}" th:text="${b.title}">title</li>
-  </ul>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <!--
+        <th>ID</th>
+      -->
+        <th>Title</th>
+        <th>Author</th>
+        <th>Publisher</th>
+        <th>Status</th>
+        <th>Created at</th>
+        <th>Updated at</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr th:each="b : ${books}">
+        <td th:text="${b.title}">title</td>
+        <td th:text="${b.author}">author</td>
+        <td th:text="${b.publisher}">publisher</td>
+        <td th:text="${b.status}">status</td>
+        <td th:text="${b.createdAt}">created at</td>
+        <td th:text="${b.updatedAt}">updated at</td>
+        <td>
+          <a th:href="@{/books/detail/{id}(id=${b.id})}">詳細</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </body>
 </html>

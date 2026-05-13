@@ -60,9 +60,12 @@ public class Book {
     public void setPublisher(String publisher) { this.publisher = publisher; }
     public String getIsbn() { return isbn; }
     public void setIsbn(String isbn) { this.isbn = isbn; }
+    public String getGenre() { return genre; }
+    public void setGenre(String genre) { this.genre = genre; }
     public String getStatus() { return status; }
     public void setStatus(String status) { this.status = status; }
-    public void getTotalReadingTime(Integer totalReadingTime) { this.totalReadingTime = totalReadingTime; }
+    public Integer getTotalReadingTime() { return totalReadingTime; }
+    public void setTotalReadingTime(Integer totalReadingTime) { this.totalReadingTime = totalReadingTime; }
     public LocalDateTime getCreatedAt() { return createdAt; }
     public LocalDateTime getUpdatedAt() { return updatedAt; }
 }

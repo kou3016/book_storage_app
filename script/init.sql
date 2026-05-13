@@ -1,3 +1,5 @@
+SET NAMES utf8mb4;
+
 USE book_app;
 
 CREATE TABLE books(
