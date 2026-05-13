@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Register Book</title>
+</head>
+<body>
+  <h1>Register Book</h1>
+
+  <form th:action="@{/books/register}" method="post">
+    <div>
+      <label for="title">Title</label>
+      <input id="title" name="title" type="text" required />
+    </div>
+
+    <div>
+      <label for="author">Author</label>
+      <input id="author" name="author" type="text" required />
+    </div>
+
+    <div>
+      <label for="volumes">Volumes</label>
+      <input id="volumes" name="volumes" type="number" min="1" />
+    </div>
+
+    <div>
+      <label for="publisher">Publisher</label>
+      <input id="publisher" name="publisher" type="text" />
+    </div>
+
+    <div>
+      <label for="isbn">ISBN</label>
+      <input id="isbn" name="isbn" type="text" />
+    </div>
+
+    <div>
+      <label for="genre">Genre</label>
+      <input id="genre" name="genre" type="text" />
+    </div>
+
+    <div>
+      <label for="status">Status</label>
+      <select id="status" name="status">
+        <option value="">Select</option>
+        <option value="unread">Unread</option>
+        <option value="reading">Reading</option>
+        <option value="finished">Finished</option>
+      </select>
+    </div>
+
+    <div>
+      <label for="totalReadingTime">Total Reading Time (min)</label>
+      <input id="totalReadingTime" name="totalReadingTime" type="number" min="0" />
+    </div>
+
+    <div style="margin-top: 12px;">
+      <button type="submit">Register</button>
+      <a th:href="@{/}">Back to Home</a>
+    </div>
+  </form>
+</body>
+</html>

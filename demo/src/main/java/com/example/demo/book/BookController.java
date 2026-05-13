@@ -17,10 +17,16 @@ public class BookController {
     }
 
     // 本データの登録
-    @PostMapping
-    @ResponseStatus(HttpStatus.CREATED)
-    public Book create(@RequestBody Book book) {
-        return bookService.create(book);
+    @GetMapping("/register")
+    public String showRegisterForm(Model model) {
+        model.addAttribute("book", new Book());
+        return "book/register";
+    }
+
+    @PostMapping("/register")
+    public String register(@ModelAttribute Book book) {
+        bookService.create(book);
+        return "redirect:/books";
     }
 
     // 本データの削除
