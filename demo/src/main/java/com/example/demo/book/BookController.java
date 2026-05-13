@@ -4,6 +4,8 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.ui.Model;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
+import org.springframework.dao.EmptyResultDataAccessException;
 
 
 //@RestController
@@ -30,10 +32,17 @@ public class BookController {
     }
 
     // 本データの削除
-    @DeleteMapping("/{id}")
-    @ResponseStatus(HttpStatus.NO_CONTENT)
-    public void delete(@PathVariable Integer id) {
-        bookService.deleteById(id);
+    @GetMapping("/delete/{id}")
+    public String deleteById(@PathVariable Integer id, RedirectAttributes redirectAttributes) {
+        try {
+            bookService.deleteById(id);
+            redirectAttributes.addFlashAttribute("successMessage", "Deleting the data is completed.");
+        } catch (EmptyResultDataAccessException e) {
+            redirectAttributes.addFlashAttribute("errorMessage", "Not find the id.");
+        } catch (Exception e) {
+            redirectAttributes.addFlashAttribute("errorMessage", "Deleting the data is not completed.");
+        }
+        return "book/delete";
     }
 
     // 本データの更新

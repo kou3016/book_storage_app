@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8" />
+  <title>Book List</title>
+</head>
+<body>
+    <h1>Delete Book</h1>
+    <a th:href="@{/books/delete/{id}(id=${books.id})}"
+        onclick="return confirm('本当に削除しますか？');">削除</a>
+    <div th:if="${successMessage}">
+        <p th:text="${successMessage}"></p>
+    </div>
+    <!-- 削除対象が見つからなかった場合やその他のエラーが発生した場合に、エラーメッセージを表示 -->
+    <div th:if="${errorMessage}">
+        <p th:text="${errorMessage}"></p>
+    </div>
+</body>
+</html>

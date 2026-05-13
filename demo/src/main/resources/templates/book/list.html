@@ -31,12 +31,11 @@
         <td th:text="${b.updatedAt}">updated at</td>
         <td>
           <a th:href="@{/books/detail/{id}(id=${b.id})}">詳細</a>
+          <a th:href="@{/books/update/{id}(id=${b.id})}">編集</a>
+          <a th:href="@{/books/delete/{id}(id=${b.id})}">削除</a>
         </td>
       </tr>
     </tbody>
   </table>
-    <div style="margin-top: 12px;">
-      <a th:href="@{/}">Back to Home</a>
-    </div>
 </body>
 </html>
