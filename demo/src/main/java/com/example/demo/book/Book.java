@@ -49,9 +49,9 @@ public class Book {
     private List<Review> reviews = new ArrayList<>();
 
     public Integer getId() { return id; }
-    public void setId(Integer id) {this.id = id; }
+    public void setId(Integer id) { this.id = id; }
     public String getTitle() {return title; }
-    public void setTitle(String title) {this.title = title; }
+    public void setTitle(String title) { this.title = title; }
     public String getAuthor() { return author; }
     public void setAuthor(String author) { this.author = author; }
     public Integer getVolumes() { return volumes; }
@@ -59,7 +59,7 @@ public class Book {
     public String getPublisher() {return publisher; }
     public void setPublisher(String publisher) { this.publisher = publisher; }
     public String getIsbn() { return isbn; }
-    public void setId(String isbn) { this.isbn = isbn; }
+    public void setIsbn(String isbn) { this.isbn = isbn; }
     public String getStatus() { return status; }
     public void setStatus(String status) { this.status = status; }
     public void getTotalReadingTime(Integer totalReadingTime) { this.totalReadingTime = totalReadingTime; }
