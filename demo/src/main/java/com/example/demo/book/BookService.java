@@ -38,6 +38,7 @@ public class BookService {
         book.setVolumes(req.getVolumes());
         book.setPublisher(req.getPublisher());
         book.setIsbn(req.getIsbn());
+        book.setGenre(req.getGenre());
         book.setStatus(req.getStatus());
 
         return bookRepository.save(book);

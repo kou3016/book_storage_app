@@ -17,12 +17,14 @@ public class BookController {
     }
 
     // データの登録
+    // UI出力
     @GetMapping("/register")
     public String showRegisterForm(Model model) {
         model.addAttribute("book", new Book());
         return "book/register";
     }
 
+    // 入力処理
     @PostMapping("/register")
     public String register(@ModelAttribute Book book) {
         bookService.create(book);
@@ -44,10 +46,18 @@ public class BookController {
     }
 
     // データの更新
-    @PutMapping("/{id}")
-    @ResponseStatus(HttpStatus.OK)
-    public Book update(@PathVariable Integer id, @RequestBody Book req) {
-        return bookService.update(id, req);
+    // UI出力
+    @GetMapping("/detail/update/{id}")
+    public String showUpgradeForm(@PathVariable Integer id, Model model) {
+        model.addAttribute("book", bookService.getById(id).orElseThrow());
+        return "book/update";
+    }
+
+    // 入力処理
+    @PostMapping("/detail/update/{id}")
+    public String update(@PathVariable Integer id, @ModelAttribute Book req) {
+        bookService.update(id, req);
+        return "redirect:/books/detail/{id}";
     }
 
     // 一覧取得

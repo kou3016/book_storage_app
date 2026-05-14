@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8" />
+  <title>Update form</title>
+</head>
+<body>
+    <form th:action="@{/books/detail/update/{id}(id=${book.id})}" method="post">
+        <div>
+            <label for="title">Title</label>
+            <input id="title" name="title" type="text" th:value="${book.title}"/>
+        </div>
+
+        <div>
+            <label for="author">Author</label>
+            <input id="author" name="author" type="text" th:value="${book.author}"/>
+        </div>
+
+        <div>
+            <label for="volumes">Volumes</label>
+            <input id="volumes" name="volumes" type="number" th:value="${book.volumes}"/>
+        </div>
+
+        <div>
+            <label for="publisher">Publisher</label>
+            <input id="publisher" name="publisher" type="text" th:value="${book.publisher}"/>
+        </div>
+
+        <div>
+            <label for="isbn">ISBN</label>
+            <input id="isbn" name="isbn" type="text" th:value="${book.isbn}"/>
+        </div>
+
+        <div>
+            <label for="genre">Genre</label>
+            <input id="genre" name="genre" type="text" th:value="${book.genre}"/>
+        </div>
+
+        <div>
+            <label for="status">Status</label>
+            <select id="status" name="status">
+                <option value="">Select</option>
+                <option value="unread" th:selected="${book.status == 'unread'}">Unread</option>
+                <option value="reading" th:selected="${book.status == 'reading'}">Reading</option>
+                <option value="finished" th:selected="${book.status == 'finished'}">Finished</option>
+            </select>
+        </div>
+
+        <div style="margin-top: 12px;">
+            <button type="submit">Register</button>
+            <a th:href="@{/books/detail/{id}(id=${book.id})}">Back to Detail</a>
+        </div>
+    </form>
+</body>
+</html>

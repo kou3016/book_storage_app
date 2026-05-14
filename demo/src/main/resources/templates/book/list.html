@@ -34,8 +34,6 @@
         <td th:text="${b.updatedAt}">updated at</td>
         <td>
           <a th:href="@{/books/detail/{id}(id=${b.id})}">Detail</a>
-          <a th:href="@{/books/update/{id}(id=${b.id})}">Update</a>
-          |
           <form th:action="@{/books/delete/{id}(id=${b.id})}" method="post" style="display: inline;">
             <button type="submit" onclick="return confirm('Delete this book?');">Delete</button>
           </form>
