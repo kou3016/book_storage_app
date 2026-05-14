@@ -12,7 +12,44 @@
 
   <p><a th:href="@{/books/register}">Register New Book</a></p>
 
-  <table border="1">
+  <form th:action="@{/books/search}" method="get">
+    <input type="text" name="id" placeholder="input the id">
+    <button type="submit">search</button>
+  </form>
+  
+  <table border="1" th:if="${book != null}">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Publisher</th>
+        <th>Status</th>
+        <th>Created At</th>
+        <th>Updated At</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td th:text="${book.title}">title</td>
+        <td th:text="${book.author}">author</td>
+        <td th:text="${book.publisher}">publisher</td>
+        <td th:text="${book.status}">status</td>
+        <td th:text="${book.createdAt}">created</td>
+        <td th:text="${book.updatedAt}">updated</td>
+        <td>
+          <a th:href="@{/books/detail/{id}(id=${book.id})}">Detail</a>
+          <form th:action="@{/books/delete/{id}(id=${book.id})}" method="post" style="display: inline;">
+            <button type="submit" onclick="return confirm('Delete this book?');">Delete</button>
+          </form>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p th:if="${searched} and !${book}">can't find any books</p>
+
+  <table border="1" th:if="${book == null}">
     <thead>
       <tr>
         <th>Title</th>
@@ -41,5 +78,8 @@
       </tr>
     </tbody>
   </table>
+
+  <a th:href="@{/books}">Back to List</a>
+
 </body>
 </html>

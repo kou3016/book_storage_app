@@ -6,6 +6,8 @@ import org.springframework.ui.Model;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import org.springframework.dao.EmptyResultDataAccessException;
+import org.springframework.web.bind.annotation.RequestParam;
+
 
 @Controller
 @RequestMapping("/books")
@@ -64,6 +66,7 @@ public class BookController {
     @GetMapping
     public String showLists(Model model) {
         model.addAttribute("books", bookService.getAllBooks());
+        model.addAttribute("searched", false);
         return "book/list";
     }
 
@@ -72,5 +75,13 @@ public class BookController {
     public String detailBook(@PathVariable Integer id, Model model) {
         model.addAttribute("book", bookService.getById(id).orElse(null));
         return "book/detail";
+    }
+
+    // 検索処理
+    @GetMapping("/search")
+    public String search(@RequestParam Integer id, Model model) {
+        model.addAttribute("book", bookService.getById(id).orElse(null));
+        model.addAttribute("searched", true);
+        return "book/list";
     }
 }
