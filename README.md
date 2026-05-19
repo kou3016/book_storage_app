@@ -27,6 +27,7 @@ Spring Boot + MySQL で作成した本管理アプリです。
 
 ```bash
 docker compose up -d
+docker exec -it book_shelves mysql -uuser -pbookapp --default-character-set=utf8mb4 book_app
 ```
 
 ### 2. DB 初期化
@@ -37,8 +38,6 @@ docker compose up -d
 ```bash
 docker compose down -v
 docker compose up -d
-docker exec -it book_shelves mysql -uuser -pbookapp --default-character-set=utf8mb4 book_app
-
 ```
 
 ### 3. アプリ起動
@@ -46,7 +45,7 @@ docker exec -it book_shelves mysql -uuser -pbookapp --default-character-set=utf8
 `demo` ディレクトリで実行:
 
 ```powershell
-cd C:\Users\kshoj\Developments\book_storage_app\demo
+cd C:\Users\~~~\book_storage_app\demo
 .\gradlew.bat bootRun
 ```
 
@@ -73,12 +72,6 @@ cd C:\Users\kshoj\Developments\book_storage_app\demo
 - `type=id` : ID検索
 - `type=title` : タイトル前方一致
 - `type=author` : 著者前方一致
-
-## Notes
-
-- `book` テーブルのカラム名に `pulisher`（typo）がある場合、Entity の `@Column(name = "pulisher")` で対応が必要です。
-- `gradlew` 実行時に `.gradle` ロックエラーが出る場合は、ロックファイル削除やターミナル再起動を実施してください。
-- 文字化けが出る場合は UTF-8 設定（`chcp 65001` など）を確認してください。
 
 ## Useful Commands
 
