@@ -73,6 +73,8 @@ public class BookService {
             }
             case "title" -> bookRepository.findByTitleStartingWith(keyword);
             case "author" -> bookRepository.findByAuthorStartingWith(keyword);
+            case "publisher" -> bookRepository.findByPublisherStartingWith(keyword);
+            case "status" -> bookRepository.findByStatus(keyword);
             default -> List.of();
         };
     }

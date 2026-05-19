@@ -27,12 +27,16 @@ public class Review {
 
     public Integer getId() { return id; }
     public void setId(Integer id) { this.id = id; }
+
     public Book getBook() { return book; }
     public void setBook(Book book) { this.book = book; }
+
     public String getContents() { return contents; }
     public void setContents(String contents) { this.contents = contents; }
+
     public Integer getRating() { return rating; }
     public void setRating(Integer rating) {this.rating = rating;}
+    
     public LocalDateTime getCreatedAt() { return createdAt; }
     public LocalDateTime getUpdatedAt() { return updatedAt; }
 }

@@ -50,22 +50,31 @@ public class Book {
 
     public Integer getId() { return id; }
     public void setId(Integer id) { this.id = id; }
+
     public String getTitle() {return title; }
     public void setTitle(String title) { this.title = title; }
+
     public String getAuthor() { return author; }
     public void setAuthor(String author) { this.author = author; }
+
     public Integer getVolumes() { return volumes; }
     public void setVolumes(Integer volumes) { this.volumes = volumes; }
+
     public String getPublisher() {return publisher; }
     public void setPublisher(String publisher) { this.publisher = publisher; }
+    
     public String getIsbn() { return isbn; }
     public void setIsbn(String isbn) { this.isbn = isbn; }
+
     public String getGenre() { return genre; }
     public void setGenre(String genre) { this.genre = genre; }
+
     public String getStatus() { return status; }
     public void setStatus(String status) { this.status = status; }
+
     public Integer getTotalReadingTime() { return totalReadingTime; }
     public void setTotalReadingTime(Integer totalReadingTime) { this.totalReadingTime = totalReadingTime; }
+    
     public LocalDateTime getCreatedAt() { return createdAt; }
     public LocalDateTime getUpdatedAt() { return updatedAt; }
 }

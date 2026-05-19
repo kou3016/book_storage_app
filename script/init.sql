@@ -23,7 +23,7 @@ CREATE TABLE reading_log(
     reading_time int(11) null,
     reading_date timestamp not null default current_timestamp,
     created_at timestamp not null default current_timestamp,
-    constraint fk_reading_log_book foregin key (book_id) references books(id)
+    constraint fk_reading_log_book foreign key (book_id) references books(id)
 );
 
 CREATE TABLE reviews(
