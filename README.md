@@ -49,6 +49,8 @@ cd C:\Users\~~~\book_storage_app\demo
 .\gradlew.bat bootRun
 ```
 
+※ 自身のディレクトリ構造に合わせてください
+
 ## Access URLs
 
 - Book List: `http://localhost:8080/books`
