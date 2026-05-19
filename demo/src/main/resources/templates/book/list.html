@@ -13,7 +13,12 @@
   <p><a th:href="@{/books/register}">Register New Book</a></p>
 
   <form th:action="@{/books/search}" method="get">
-    <input type="text" name="id" placeholder="input the id">
+    <select name="type">
+      <option value="id">ID</option>
+      <option value="title">Title</option>
+      <option value="author">Author</option>
+    </select>
+    <input type="text" name="keyword" placeholder="input the id">
     <button type="submit">search</button>
   </form>
   
@@ -47,7 +52,7 @@
     </tbody>
   </table>
 
-  <p th:if="${searched} and !${book}">can't find any books</p>
+  <p th:if="${searched and #lists.isEmpty(books)}">can't find any books</p>
 
   <table border="1" th:if="${book == null}">
     <thead>

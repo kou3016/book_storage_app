@@ -56,4 +56,25 @@ public class BookService {
         return bookRepository.findById(id);
     }
 
+    // 検索機能
+    public List<Book> search(String type, String keyword) {
+        if(keyword == null || keyword.isBlank()) {
+            return bookRepository.findAll();
+        }
+
+        return switch (type) {
+            case "id" -> {
+                try {
+                    Integer id = Integer.valueOf(keyword);
+                    yield bookRepository.findById(id).map(List::of).orElse(List.of());
+                } catch (NumberFormatException e) {
+                    yield List.of();
+                } 
+            }
+            case "title" -> bookRepository.findByTitleStartingWith(keyword);
+            case "author" -> bookRepository.findByAuthorStartingWith(keyword);
+            default -> List.of();
+        };
+    }
+
 }

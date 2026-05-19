@@ -79,8 +79,8 @@ public class BookController {
 
     // 検索処理
     @GetMapping("/search")
-    public String search(@RequestParam Integer id, Model model) {
-        model.addAttribute("book", bookService.getById(id).orElse(null));
+    public String search(@RequestParam String type, @RequestParam String keyword, Model model) {
+        model.addAttribute("books", bookService.search(type, keyword));
         model.addAttribute("searched", true);
         return "book/list";
     }
