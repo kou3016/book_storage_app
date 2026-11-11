@@ -1,0 +1,1794 @@
+{
+  "query": "ミステリー",
+  "search_parameters": {
+    "langRestrict": "ja",
+    "printType": "books",
+    "orderBy": "relevance",
+    "maxResults": 20
+  },
+  "response": {
+    "kind": "books#volumes",
+    "totalItems": 469,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "hjw4EAAAQBAJ",
+        "etag": "8L2Gl6oNf4o",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/hjw4EAAAQBAJ",
+        "volumeInfo": {
+          "title": "ミステリーの人間学　英国古典探偵小説を読む",
+          "authors": [
+            "廣野由美子"
+          ],
+          "publisher": "岩波書店",
+          "publishedDate": "2009-05-20",
+          "description": "読者を謎解きに導く巧みなプロット．犯罪にいたる人間の内面への緻密な洞察．19世紀前半ごろ誕生した探偵小説は，文学に共通する「人間を描く」というテーマに鋭く迫る試みでもある．ディケンズ，コリンズ，ドイル，クリスティーなど，英国の代表的なミステリー作品を取り上げ，探偵小説の系譜，作品の魅力などを読み解く．",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000098278300100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 158,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=hjw4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=hjw4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=hjw4EAAAQBAJ&pg=PT6&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=hjw4EAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hjw4EAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1056,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 950,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=hjw4EAAAQBAJ&rdid=book-hjw4EAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1056000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 950000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6_%E8%8B%B1%E5%9B%BD%E5%8F%A4%E5%85%B8-sample-epub.acsm?id=hjw4EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6_%E8%8B%B1%E5%9B%BD%E5%8F%A4%E5%85%B8-sample-pdf.acsm?id=hjw4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=hjw4EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "廣野由美子. 1 <b>ミステリー</b>と文学<b>ミステリー</b>とは何か <b>ミステリー</b>「<b>ミステリー</b>」から探偵小説へフォースター. <b>ミステリー</b>と探偵小説、推理小説は、通常ほぼ同義に用いられている。犯人捜しに重点を置いたものが探偵小説または推理小説で、怪奇趣味が濃厚な&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "UvIqEAAAQBAJ",
+        "etag": "ByYd8Pt7X0k",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UvIqEAAAQBAJ",
+        "volumeInfo": {
+          "title": "おれって本当にハードボイルド探偵なの？ 会話形式によるミステリー・エッセイ集",
+          "authors": [
+            "木村二郎"
+          ],
+          "publisher": "扶桑社",
+          "description": "海外ミステリーの研究家・翻訳家にして、『ヴェニスを見て死ね』の私立探偵ジョー・ヴェニス・シリーズで作家としても活躍する著者が贈る、軽妙洒脱なミステリー論集。サム・スペイド、フィリップ・マーロウからキンジー・ミルホーンまで、さまざまな私立探偵の実像に迫り、最先端のアメリカ・ミステリー諸作を語り、「ハードボイルド」の真実を解明する！ 日本人は「ハードボイルド」を曲解している…アメリカ人ですら本当の意味がわかっていないのだから！ ハードボイルドにまつわる世間の誤解を払拭し、その実相を明らかにする注目の評論をはじめ、誰もが知っているアメリカの私立探偵から異色の作品までを語りつくす、ミステリー・ファンには見逃せないエッセイ集。全編会話だけで構成され、笑えて楽しめる珠玉の１冊。【電子オリジナル版】 本書で取りあげる作家： ダシール・ハメット レイモンド・チャンドラー ミッキー・スピレイン アール・スタンリー・ガードナー エド・マクベイン ローレンス・ブロック ロバート・B・パーカー スー・グラフトン ロジャー・L・サイモン ビル・プロンジーニ マイクル・コリンズ シャロン・マコーン ジョー・ゴアズ マーク・ショア スチュアート・カミンスキー J・C・S・スミス ジョン・ミナハン ガブリエル・クラフト 等々…",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000094409600100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 141,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=UvIqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=UvIqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=UvIqEAAAQBAJ&pg=PA10&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=UvIqEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UvIqEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 880,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 792,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=UvIqEAAAQBAJ&rdid=book-UvIqEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 880000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 792000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%8A%E3%82%8C%E3%81%A3%E3%81%A6%E6%9C%AC%E5%BD%93%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%89%E3%83%9C%E3%82%A4%E3%83%AB-sample-epub.acsm?id=UvIqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%8A%E3%82%8C%E3%81%A3%E3%81%A6%E6%9C%AC%E5%BD%93%E3%81%AB%E3%83%8F%E3%83%BC%E3%83%89%E3%83%9C%E3%82%A4%E3%83%AB-sample-pdf.acsm?id=UvIqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=UvIqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリ</b>文庫 Valediction ( 1984 )『告別』ハヤカワ・<b>ミステリ</b>文庫 A Catskill Eagle ( 1985 )『キャッツキルの鷲』ハヤカワ・<b>ミステリ</b>文庫 Taming a Sea - Horse ( 1986 )『海馬を馴らす』ハヤカワ・<b>ミステリ</b>文庫 Pale Kings and Princes ( 1987 )&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "TVlWDwAAQBAJ",
+        "etag": "cr5WPRzefKo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/TVlWDwAAQBAJ",
+        "volumeInfo": {
+          "title": "本格ミステリ漫画ゼミ",
+          "authors": [
+            "福井健太"
+          ],
+          "publisher": "東京創元社",
+          "publishedDate": "2018-04-27",
+          "description": "少年・少女漫画、ＳＦ、児童向けも網羅し、ミステリ漫画の名作を800点以上紹介 ミステリ漫画史を辿る史上初のブックガイド！ 個性的な名探偵や謎解きをビジュアルで描く本格ミステリ漫画は、多くのミステリ作家やファンを育ててきた。その歴史を概観し、魅力的な作家と作品を紹介することが本書の目的である。 乱歩作品、ホームズ、ルパンなどのコミカライズから、『金田一少年の事件簿』『名探偵コナン』『Q．E．D．証明終了』『スパイラル～推理の絆～』『DEATH NOTE』などオリジナルまで。ミステリ漫画はこんなにも面白い！ 『Webミステリーズ！』に連載されたコラムを大幅に加筆・改稿。本格ミステリ大賞受賞の書評家が贈る、ミステリ漫画史を辿る史上初のブックガイド！",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9784488015435"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "4488015433"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 224,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=TVlWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=TVlWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=TVlWDwAAQBAJ&pg=PA35&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=TVlWDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TVlWDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1629,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1466,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=TVlWDwAAQBAJ&rdid=book-TVlWDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1629000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1466000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9C%AC%E6%A0%BC%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E6%BC%AB%E7%94%BB%E3%82%BC%E3%83%9F-sample-epub.acsm?id=TVlWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9C%AC%E6%A0%BC%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E6%BC%AB%E7%94%BB%E3%82%BC%E3%83%9F-sample-pdf.acsm?id=TVlWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=TVlWDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>が面白い!』(ぶんか社)の文庫版にあたる『浅田次郎<b>ミステリー</b>傑作選』『北村薫<b>ミステリー</b>傑作選』『高橋克彦<b>ミステリー</b>傑作選』は、様々な媒体から同じ原作者の短篇を集めたものだ。秋田文庫の『コミック東野圭吾<b>ミステリー</b>傑作選』『コミック&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "MLaMEQAAQBAJ",
+        "etag": "RBk6JghGVYI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MLaMEQAAQBAJ",
+        "volumeInfo": {
+          "title": "マーベル・コミックのすべて",
+          "authors": [
+            "ダグラス・ウォーク",
+            "上杉隼人"
+          ],
+          "publisher": "作品社",
+          "publishedDate": "2025-08-06",
+          "description": "〈マーベル・コミック、ぜんぶ読んでみた！〉 世界で唯一!? マーベル・コミックの“ほぼ”すべて ――2万7000冊（推計80万ページ）以上を読破した著者による、 初心者・マニアも必携の、作品宇宙の完全ガイド!! ＊ 唯一無二のガイドが、世界最大の物語の読み方を伝授。 ●「ＮＹタイムズ」年間トップブックに選定。「フォーブス」「ウォール・ストリート・ジャーナル」「スペクテイター」など各紙誌絶賛。 ●数多くの関連作品の翻訳を手掛けてきた訳者による、詳細な用語註・索引付。 ●さらに、 貴重な巻末附録「マーベル・ストーリー要約集」で、60年の歴史を一気にたどる！ ＊ 時代ごとのアメリカをうつす膨大な作品群は、現代文化の巨大な山としてそびえ立っている。 そんなマーベル・コミックについて、 ◆興味はあるけど、どこから手をつければいいの？ ◆なんで「スパイダーマン」だけで、何種類もあるの？ ◆マーベルの世界は全部繋がってるの？ ◆ＭＣＵ（映画作品）の元ネタは？ これからどうなっていくの？ ――これらの疑問、この一冊にすべてお任せください！ ＊ 【目次】 1 驚異［マーベル］の山 2 どこから始めるか、いかに混乱を楽しむか 3 奇妙な呪い（ＦＡＱ よくある質問） 4 すべての場所に至る交差点 5 間奏 マーベルのモンスターたち 6 旋回し続けるスパイダーマン 7 間奏 スタン・リー、ジャック・カービー、スティーヴ・ディッコ 8 シャン・チーの上昇と前進 9 間奏 ベトナム戦争の時代 10 Ｘ─ＭＥＮ、ミュータントの比喩 11 間奏 音のダイヤモンド 12 ソーの雷とロキの嘘 13 間奏 マーベル・シネマティック・ユニバース誕生以前 14 ブラックパンサーと王たちがすること 15 間奏 マーベルに登場したアメリカ大統領 16 鉄人愛国者［アイアン・パトリオット］法 17 間奏 1965年3月 18 偉大なる破壊者 19 間奏 リンダ・カーター 20 善良なことをしないといけない 21 次の世代に伝えること 謝辞 附録 マーベル・ストーリー要約集 註／訳者解説／索引",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000202842400100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 469,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MLaMEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MLaMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=MLaMEQAAQBAJ&pg=PA2095&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=MLaMEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MLaMEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 6930,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 6237,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=MLaMEQAAQBAJ&rdid=book-MLaMEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 6930000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 6237000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB_%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-sample-epub.acsm?id=MLaMEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB_%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6-sample-pdf.acsm?id=MLaMEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=MLaMEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>』 Journey into <b>Mystery</b> 以下のタイトル参照『ジャーニー・イントゥ・<b>ミステリー</b>〈 56 〉』 Journey into <b>Mystery</b> # 56 464 『ジャーニー・イントゥ・<b>ミステリー</b>〈 58 〉』 Journey into <b>Mystery</b> # 58 『ジャーニー・イントゥ・<b>ミステリー</b>&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "X92eEQAAQBAJ",
+        "etag": "4aQkDNOiwQg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/X92eEQAAQBAJ",
+        "volumeInfo": {
+          "title": "日本ミステリ新世紀MAP　現代ミステリ25年の歩みと31人の作家たち",
+          "authors": [
+            "若林踏"
+          ],
+          "publisher": "実業之日本社",
+          "publishedDate": "2026-01-25",
+          "description": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※この商品は紙の書籍のページを画像にした電子書籍です。文字だけを拡大することはできません。 探検したいあなたへ。 2000年から2025年までのミステリの潮流を、 社会の変遷とともにナビゲート！ 伊坂幸太郎、東川篤哉、青崎有吾…… 同時代にデビューした作家たちの軌跡を辿る保存版！ 〈DEBUT AUTHORS〉 2000 年から2025 年までにデビューした作家たちの軌跡を解説！ 伊坂幸太郎・三津田信三・米澤穂信・西尾維新・北山猛邦・東川篤哉・東山彰良・辻村深月・道尾秀介・深町秋生・ 海堂尊・湊かなえ・中山七里・月村了衛・矢樹純・芦沢央・青崎有吾・浅倉秋成・白井智之・井上真偽・呉勝浩・ 澤村伊智・佐藤究・逸木裕・斜線堂有紀・阿津川辰海・今村昌弘・方丈貴恵・五十嵐律人・新川帆立・潮谷験…… 日本ミステリー年表2000-2025収録！",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000209891200100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 272,
+          "printType": "BOOK",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.5.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=X92eEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=X92eEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=X92eEQAAQBAJ&pg=PA246&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=X92eEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X92eEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2530,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 2277,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=X92eEQAAQBAJ&rdid=book-X92eEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2530000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 2277000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%97%A5%E6%9C%AC%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E6%96%B0%E4%B8%96%E7%B4%80MAP_%E7%8F%BE%E4%BB%A3%E3%83%9F-sample-epub.acsm?id=X92eEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%97%A5%E6%9C%AC%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E6%96%B0%E4%B8%96%E7%B4%80MAP_%E7%8F%BE%E4%BB%A3%E3%83%9F-sample-pdf.acsm?id=X92eEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=X92eEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>大賞終了ムが到来·文芸書:片山恭一『世界の中心で、愛をさ主なデビュー作家けぶ』 2 47 日本<b>ミステリ</b>年表 2000-2025 国内の状況 2002. 出版界の動向「トピック「トピック<b>ミステリ</b>界の動向・第 1 回文学フリマ開催文学賞・文藝春秋〈本格<b>ミステリ</b>&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "4tbjAAAAMAAJ",
+        "etag": "zJyk2ZbY/ao",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4tbjAAAAMAAJ",
+        "volumeInfo": {
+          "title": "ザ・ベストミステリーズ",
+          "subtitle": "推理小說代表作選集",
+          "publishedDate": "2005",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UOM:39015053812551"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 578,
+          "printType": "BOOK",
+          "categories": [
+            "Detective and mystery stories, Japanese"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.5.1.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4tbjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4tbjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=4tbjAAAAMAAJ&q=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=4tbjAAAAMAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E3%82%B6_%E3%83%99%E3%82%B9%E3%83%88%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%82%BA.html?hl=&id=4tbjAAAAMAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=4tbjAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリ</b> Best100 』(フィールドワイ)から、村上貴史編『名探偵ベスト 101 』(新書館)、日本<b>ミステリー</b>界を包括的に捉えようとした友清哲監修『 1 億人のための<b>ミステリー</b>!』(ランダムハウス講談社)、メフィスト賞以後に重点を置いた D ・ C ・ L 編&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "yEJT0AEACAAJ",
+        "etag": "XXdbLXdb/ek",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yEJT0AEACAAJ",
+        "volumeInfo": {
+          "title": "『このミステリーがすごい!』公式ミステリー読書ノート",
+          "authors": [
+            "『このミステリーがすごい!』編集部"
+          ],
+          "publishedDate": "2023-12-06",
+          "description": "老舗ミステリーランキングブック『このミステリーがすごい!』から、ミステリーの「読書ノート」が誕生です! 殺人や誘拐、騙し合い、密室、タイムスリップ、どんでん返し、特殊設定。感想を書くも良し。物語のポイントを書くも良し。犯人やトリックを書くも良し。手に取ったきっかけや好きな登場人物・台詞を書くも良し。自由に書いて、読んだ本の思い出を残しましょう! 受験や就職活動、仕事のサブノートとしても役立つ一冊です! 「ミステリーチャート」や、もっとミステリーを楽しめる「ミステリーコラム」付き。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "429904956X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784299049568"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yEJT0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yEJT0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=yEJT0AEACAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=yEJT0AEACAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E3%81%93%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%81%8C%E3%81%99%E3%81%94%E3%81%84_%E5%85%AC%E5%BC%8F.html?hl=&id=yEJT0AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=yEJT0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "ミステリー小説のランキングブック『このミステリーがすごい! 』から読書ノートが誕生! ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "uotNEQAAQBAJ",
+        "etag": "98jt+ousa9Y",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/uotNEQAAQBAJ",
+        "volumeInfo": {
+          "title": "ゲーム作りの教科書",
+          "subtitle": "ゲームヅクリノキョウカショ",
+          "authors": [
+            "川上大典",
+            "飯田和敏",
+            "メタルユーキ（齋藤幹雄）",
+            "タシロハヤト",
+            "利波創造",
+            "有川光太"
+          ],
+          "publisher": "三才ブックス",
+          "publishedDate": "2025-02-21",
+          "description": "ゲームクリエイターが教える技術＆ノウハウ ゲームクリエイターたちが、各自の知識と経験を活かし、ゲーム制作の基本を入門者向けに解説。企画書の作り方、恋愛SLGのデザイン・マーケティング、ADVの進行・ディレクション、ミステリーゲームのトリック、運営型ゲームのトラブルシューティングなど、ゲーム開発のノウハウが多数得られる一冊。 【講義内容】 ●企画書とゲーム制作の流れ 川上大典：『ワールドチェイン』『アトリエオンライン』他 ●あたらしいビデオゲームのために 飯田和敏：『アクアノートの休日』『巨人のドシン』他 ●恋愛シミュレーションゲームのゲームデザイン メタルユーキ（齋藤幹雄）：『ときめきメモリアル』シリーズ他 ●ADVパートの作り方 タシロハヤト：、『君が望む永遠』『マブラヴ』シリーズ他 ●ミステリーゲームの作り方 利波創造：『THE推理』『THE鑑識官』シリーズ他 ●ディスコミュニケーションの倒し方 有川光太：『ワールドフリッパー』『オクトパストラベラー 大陸の覇者』他",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:SANSAGP0000000001620"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 196,
+          "printType": "BOOK",
+          "categories": [
+            "Games & Activities"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=uotNEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=uotNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=uotNEQAAQBAJ&pg=PA136&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=uotNEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uotNEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2200,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1980,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=uotNEQAAQBAJ&rdid=book-uotNEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2200000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1980000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B2%E3%83%BC%E3%83%A0%E4%BD%9C%E3%82%8A%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-sample-epub.acsm?id=uotNEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B2%E3%83%BC%E3%83%A0%E4%BD%9C%E3%82%8A%E3%81%AE%E6%95%99%E7%A7%91%E6%9B%B8-sample-pdf.acsm?id=uotNEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=uotNEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>はふたつに大別できる。本格<b>ミステリー</b>と、それに含まれない<b>ミステリー</b>、つまり変格<b>ミステリー</b>だ。本格<b>ミステリー</b>とは、新本格<b>ミステリー</b>の作家の皆さんのように、謎解き要素を重視する<b>ミステリー</b>作品のことを指す。一方、変格<b>ミステリー</b>は&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "0F03EQAAQBAJ",
+        "etag": "Uie0aMjAiXY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/0F03EQAAQBAJ",
+        "volumeInfo": {
+          "title": "週刊文春ミステリーベスト10　2024【文春eーBooks】",
+          "authors": [
+            "週刊文春ミステリーベスト10班"
+          ],
+          "publisher": "文藝春秋",
+          "description": "これがなくちゃ年が越せない！ 人気の週刊文春「ミステリーベスト10」2024年版の電子版をお届けします。 今年で48回目を迎えた 「ミステリーベスト10」 。 国内部門では、今年のミステリー各賞を総なめにした話題作が２位にダブルスコアで戴冠。海外部門では……あの作家が帰ってきた！ 全国のミステリー通、書店員が選んだ珠玉の20冊。 年末年始に読みたいミステリー小説がきっと見つかる。 【主な内容】 国内部門／海外部門 各ベストテンの発表 １位作家への著者インタビュー トップ10作品のあらすじ＆熱烈推薦コメントほか",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:1692162400000000000R"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 79,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=0F03EQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=0F03EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=0F03EQAAQBAJ&printsec=frontcover&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=0F03EQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0F03EQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 100,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 100,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=0F03EQAAQBAJ&rdid=book-0F03EQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 100000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 100000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E9%80%B1%E5%88%8A%E6%96%87%E6%98%A5%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%99%E3%82%B9%E3%83%8810_2-sample-epub.acsm?id=0F03EQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E9%80%B1%E5%88%8A%E6%96%87%E6%98%A5%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%99%E3%82%B9%E3%83%8810_2-sample-pdf.acsm?id=0F03EQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=0F03EQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "これがなくちゃ年が越せない！ 人気の週刊文春「ミステリーベスト10」2024年版の電子版をお届けします。 今年で48回目を迎えた 「ミステリーベスト10」 。 ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "A_ubDwAAQBAJ",
+        "etag": "GpwzETQIVHQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/A_ubDwAAQBAJ",
+        "volumeInfo": {
+          "title": "ミステリ国の人々",
+          "authors": [
+            "有栖川有栖"
+          ],
+          "publisher": "日経BP",
+          "publishedDate": "2017-05-11",
+          "description": "紹介 ミステリ小説という「国」には作家が造形した様々な「人々」が住んでいる。誰もが知る名探偵、事件の鍵を握る意外な人物、憎めない脇役、不可解だけれど目が離せない人……そんな人たちを通して、ミステリを読むおもしろさが何倍にも膨らむ「ツボ」を刺激してくれる、ミステリファン垂涎、読まず嫌いの小説ファンには目からウロコのエッセイ集。 ホームズ、ルパン、エラリー、金田一耕助という直球もあれば、明智小五郎の妻・文代といった変化球も織り交ぜつつ、本格ミステリの古典とされる『グリーン家殺人事件』やジョン・ディクスン・カーの密室モノ、ハードボイルドではロス・マクドナルド、ミステリの日本三大奇書とされる『ドグラ・マグラ』『黒死館殺人事件』『虚無への供物』まで目配りをきかせた人選は、格好のミステリ国へのパスポートになっている。 本書の最大の魅力は、古今東西の名編に、「有栖川有栖」がどのような読書体験を得られたかという個人的な経験が色濃く反映されていること。当然そこには作家だからこそ影響を受けた人物造形やトリックといった栄養分も含まれており、著者のファンはもとよりミステリファンにはたまらないエピソードばかりである。エッセイ集とはいえ1話読み切りスタイルでは必ずしもなく、取り上げたそれぞれの作品と登場人物が相互に響き合う連関性を保ち、読み進めていくうちにいつの間にか読者は、作品や登場人物を離れた「ミステリ国」そのものの奥深さに引き込まれていくだろう。作家ならではの読みが冴える待望のミステリガイド!",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000044122700100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 208,
+          "printType": "BOOK",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=A_ubDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=A_ubDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=A_ubDwAAQBAJ&pg=PT5&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=A_ubDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A_ubDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1650,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1485,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=A_ubDwAAQBAJ&rdid=book-A_ubDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1650000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1485000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E5%9B%BD%E3%81%AE%E4%BA%BA%E3%80%85-sample-epub.acsm?id=A_ubDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E5%9B%BD%E3%81%AE%E4%BA%BA%E3%80%85-sample-pdf.acsm?id=A_ubDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=A_ubDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>と呼ぶことはすっかり定着し、年齢によっては「推理小説という言葉はあまり遣ったことがない」という方もいらっしゃるだろう。しかし、<b>ミステリー</b>というのは推理小説以外の意味でもよく遣われる使用範囲の広い言葉で、徳川埋蔵金や UFO の謎&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "ep7XDAAAQBAJ",
+        "etag": "qXcEVo+jqaM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ep7XDAAAQBAJ",
+        "volumeInfo": {
+          "title": "華夜叉　巻之七　鬼灯夜",
+          "authors": [
+            "田辺真由美"
+          ],
+          "publisher": "秋田書店",
+          "publishedDate": "1996-03-01",
+          "description": "永遠の愛を誓ったはずなのに……。なぜに人間の心ははかくも移ろいやすきものなのでしょうか!?",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000013848800700701900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 200,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "bf4204d9c643d799_A",
+            "imageBubbleVersion": "bf4204d9c643d799_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ep7XDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ep7XDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=ep7XDAAAQBAJ&pg=PA54&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=ep7XDAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ep7XDAAAQBAJ",
+          "seriesInfo": {
+            "kind": "books#volume_series_info",
+            "bookDisplayNumber": "7",
+            "volumeSeries": [
+              {
+                "seriesId": "oEX4GgAAABBZXM",
+                "seriesBookType": "COLLECTED_EDITION",
+                "orderNumber": 7
+              }
+            ]
+          }
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 528,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 475,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=ep7XDAAAQBAJ&rdid=book-ep7XDAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 528000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 475000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E8%8F%AF%E5%A4%9C%E5%8F%89_%E5%B7%BB%E4%B9%8B%E4%B8%83_%E9%AC%BC%E7%81%AF%E5%A4%9C-sample-epub.acsm?id=ep7XDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E8%8F%AF%E5%A4%9C%E5%8F%89_%E5%B7%BB%E4%B9%8B%E4%B8%83_%E9%AC%BC%E7%81%AF%E5%A4%9C-sample-pdf.acsm?id=ep7XDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ep7XDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>ボニータ No.18 40 ひゃつきやこうねん 5 百鬼夜行 1991 年<b>ミステリー</b>ボニータ No.20 40 6 初恋白狐変<b>ミステリー</b>ボニータ No.21 40 おとど 7 狐ノ大臣ほたるび 8 蛍火いざよい 9 十六夜<b>ミステリー</b>ボニータ No.22 <b>ミステリー</b>ボニータ No.24&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "imhatAEACAAJ",
+        "etag": "7YKFYGffF+8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/imhatAEACAAJ",
+        "volumeInfo": {
+          "title": "『このミステリーがすごい!』大賞作家書き下ろしBook Vol.19",
+          "subtitle": "",
+          "authors": [
+            "『このミステリーがすごい!』編集部"
+          ],
+          "publishedDate": "2017-12",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4800278937"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784800278937"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 248,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=imhatAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=imhatAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=imhatAEACAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=imhatAEACAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E3%81%93%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%81%8C%E3%81%99%E3%81%94%E3%81%84_%E5%A4%A7%E8%B3%9E.html?hl=&id=imhatAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=imhatAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "tqi9DwAAQBAJ",
+        "etag": "aQw4p4WI3P0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/tqi9DwAAQBAJ",
+        "volumeInfo": {
+          "title": "「カルラ舞う！」式 開運巡礼",
+          "authors": [
+            "永久保貴一",
+            "ほしの"
+          ],
+          "publisher": "秋田書店",
+          "publishedDate": "2015-08-12",
+          "description": "心にゆとりがないと感じるときは…? 大切な「おもてなし」の前に考えることとは…? 「不当な扱い」を受けていると感じるときは…？ 対人関係にストレスを感じる現代人に捧げる最良の1冊!! 開運は難しくない!!",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000067938500100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 166,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "036b8a7f77c4c611_A",
+            "imageBubbleVersion": "036b8a7f77c4c611_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=tqi9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=tqi9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=tqi9DwAAQBAJ&pg=PA2&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=tqi9DwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tqi9DwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 880,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 792,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=tqi9DwAAQBAJ&rdid=book-tqi9DwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 880000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 792000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%AB%E3%83%AB%E3%83%A9%E8%88%9E%E3%81%86_%E5%BC%8F_%E9%96%8B%E9%81%8B%E5%B7%A1%E7%A4%BC-sample-epub.acsm?id=tqi9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%AB%E3%83%AB%E3%83%A9%E8%88%9E%E3%81%86_%E5%BC%8F_%E9%96%8B%E9%81%8B%E5%B7%A1%E7%A4%BC-sample-pdf.acsm?id=tqi9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=tqi9DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... (<b>ミステリー</b>ボニータ 2012 年 11 月号掲載) 008 第 2 回熊野三社(<b>ミステリー</b>ボニータ 2013 年 1 月号掲載) 016 第 3 回情けはひとの為ならず(<b>ミステリー</b>ボニータ 2013 年 3 月号掲載) 024 第 4 回諏訪大社(<b>ミステリー</b>ボニータ 2013 年 6 月号掲載) 036 第&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "PBf_DAAAQBAJ",
+        "etag": "nZDA36UXH3A",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/PBf_DAAAQBAJ",
+        "volumeInfo": {
+          "title": "十津川警部ミステリースペシャル　十津川警部　鳴門の愛と死",
+          "authors": [
+            "中西ゆか",
+            "西村京太郎"
+          ],
+          "publisher": "実業之日本社",
+          "description": "ある日、警視庁捜査一課・十津川のもとに、１冊の本が送られてきた。それは十津川が１年前に担当した、有名女優殺人事件の真相を告発する内容の本だった。女優と交友があったどの人物にも完璧なアリバイがあり、迷宮入りとなりつつある事件だったが、十津川は本に挑発され、再捜査に乗り出すのだった――。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000028295300100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 203,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "5f0aedd3181da0f9_A",
+            "imageBubbleVersion": "5f0aedd3181da0f9_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=PBf_DAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=PBf_DAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=PBf_DAAAQBAJ&printsec=frontcover&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=PBf_DAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PBf_DAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 330,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 297,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=PBf_DAAAQBAJ&rdid=book-PBf_DAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 330000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 297000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%8D%81%E6%B4%A5%E5%B7%9D%E8%AD%A6%E9%83%A8%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%B7-sample-epub.acsm?id=PBf_DAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%8D%81%E6%B4%A5%E5%B7%9D%E8%AD%A6%E9%83%A8%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%9A%E3%82%B7-sample-pdf.acsm?id=PBf_DAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=PBf_DAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "ある日、警視庁捜査一課・十津川のもとに、1冊の本が送られてきた。それは十津川が1年前に担当した、有名女優殺人事件の真相を告発する内容の本だった。女優と交友があっ ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "fimrBQAAQBAJ",
+        "etag": "7vuzrrdqty0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/fimrBQAAQBAJ",
+        "volumeInfo": {
+          "title": "ベストセラー殺人事件",
+          "authors": [
+            "吉村達也"
+          ],
+          "publisher": "講談社",
+          "publishedDate": "1998-09-15",
+          "description": "出版界の裏のウラまでよくわかる読者必読の業界ミステリー！！ 推理作家・朝比奈耕作の担当になった美人編集者の恩田沙英。だが彼女の周囲では６人のベストセラー作家が謎の失踪を遂げていた。その沙英が朝比奈を招いた山荘は悪魔の館。そこには彼女が採集した人体標本箱が飾ってあったのだ。第７の標本となる前に、朝比奈は館から脱出できるのか？ ※「私の標本箱」改題（講談社文庫）",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000023850100100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 289,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=fimrBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=fimrBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=fimrBQAAQBAJ&pg=PT6&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=fimrBQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fimrBQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 765,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 765,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=fimrBQAAQBAJ&rdid=book-fimrBQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 765000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 765000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-sample-epub.acsm?id=fimrBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%99%E3%82%B9%E3%83%88%E3%82%BB%E3%83%A9%E3%83%BC%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6-sample-pdf.acsm?id=fimrBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=fimrBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>》なのです。しかしながら、そういう意味で<b>ミステリー</b>という単語を使ってしまいますと、極端な話、すべてのエンターテイメント系小説がその定義に含まれてしまうことになりはしないでしょうか。そして《狭い意味での<b>ミステリー</b>》を&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "-DnFEAAAQBAJ",
+        "etag": "HaRYihTMs50",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/-DnFEAAAQBAJ",
+        "volumeInfo": {
+          "title": "My GARDEN No.107",
+          "authors": [
+            "マルモ出版"
+          ],
+          "publisher": "マルモ出版",
+          "publishedDate": "2023-06-14",
+          "description": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 『マイガーデン』は、美しい写真とスタイリッシュな編集・デザインで提供するビジュアル・ガーデ二ング情報誌です。植物を生かした庭づくりの提案や、園芸を愛する方のこだわりや知的好奇心にお応えします。またガーデンデザインの専門家を志す人のために役立つノウ・ハウを、事例を通してより具体的に提供します。植物を身近な住空間に取り入れてお洒落に楽しみたい人など、様々なライフスタイルに合ったガーデニングの総合情報誌です。 MyGARDEN : Each issue contains magnificent photographs and fascinating articles that capture the imaginations of gardeners everywhere and provide instructions on plants and flowers of all kinds, include information for roses to dealing with pests and weeds, etc, within infomation about OPEN GARDEN .MyGARDEN inspires you to create unique gardens through creative new plants and stylish outdoor living spaces, innovative plans and flowers, the best tools and techniques.",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000065096405905901900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 124,
+          "printType": "BOOK",
+          "categories": [
+            "Gardening"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=-DnFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-DnFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=-DnFEAAAQBAJ&pg=PA75&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=-DnFEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-DnFEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1400,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1260,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=-DnFEAAAQBAJ&rdid=book--DnFEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1400000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1260000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/My_GARDEN_No_107-sample-epub.acsm?id=-DnFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/My_GARDEN_No_107-sample-pdf.acsm?id=-DnFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=-DnFEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>ローズ」というバラがあるので一緒に見に行きませんか、とお誘いをうけました。えっ、バラが<b>ミステリー</b>?バラは世界中で研究され、育種も進んでいて、バラほど<b>ミステリー</b>と縁遠い植物はないと思っていたので、はたしてバラにどんな<b>ミステリー</b>&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "pWuzCgAAQBAJ",
+        "etag": "FdluEonl9z4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/pWuzCgAAQBAJ",
+        "volumeInfo": {
+          "title": "さとり世代探偵のゆるやかな日常（新潮文庫nex）",
+          "authors": [
+            "九頭竜正志"
+          ],
+          "publisher": "新潮社",
+          "publishedDate": "2015-05-01",
+          "description": "大学生になった僕はやりたいことが特にない。幼馴染の灯影院（ほかげいん）に流されてうっかり「探偵同好会」を始めたら、ヤツのもっともらしい無茶推理に振り回される日々がやってきた。所詮「休講の真相」を推理する程度の素人探偵だった僕らは、やがて招かれた孤島で殺人事件にまで巻き込まれ――。軽やかなタッチで紡がれる会話から、現代の空気感があふれ出すユル～い日常ミステリー登場！",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000033955900100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 216,
+          "printType": "BOOK",
+          "categories": [
+            "Young Adult Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=pWuzCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pWuzCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=pWuzCgAAQBAJ&pg=PT13&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=pWuzCgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pWuzCgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 770,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 693,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=pWuzCgAAQBAJ&rdid=book-pWuzCgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 770000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 693000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%95%E3%81%A8%E3%82%8A%E4%B8%96%E4%BB%A3%E6%8E%A2%E5%81%B5%E3%81%AE%E3%82%86%E3%82%8B%E3%82%84%E3%81%8B%E3%81%AA-sample-epub.acsm?id=pWuzCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%81%95%E3%81%A8%E3%82%8A%E4%B8%96%E4%BB%A3%E6%8E%A2%E5%81%B5%E3%81%AE%E3%82%86%E3%82%8B%E3%82%84%E3%81%8B%E3%81%AA-sample-pdf.acsm?id=pWuzCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=pWuzCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>系のドラマや映画や漫画とかは好き」「その程度で<b>ミステリー</b>サークルを作ろうっていうのか?」「え?俺、別に宇宙人には興味ないけど?」「そっちの<b>ミステリー</b>サークルじゃねえよ!」「おそらく全国の<b>ミステリー</b>好きの大学生たちは、田んぼや&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wKF-zwEACAAJ",
+        "etag": "6ycTbu6Os+g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wKF-zwEACAAJ",
+        "volumeInfo": {
+          "title": "陥穽の円舞曲",
+          "subtitle": "最新ベスト・ミステリー",
+          "authors": [
+            "日本推理作家協会"
+          ],
+          "publishedDate": "2022-11",
+          "description": "ミステリーの最前線で驚きと興奮が響き渡る!豪華15作家による珠玉のアンソロジー!",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4334914985"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784334914981"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=wKF-zwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=wKF-zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=wKF-zwEACAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=wKF-zwEACAAJ&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E9%99%A5%E7%A9%BD%E3%81%AE%E5%86%86%E8%88%9E%E6%9B%B2.html?hl=&id=wKF-zwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wKF-zwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "ミステリーの最前線で驚きと興奮が響き渡る!豪華15作家による珠玉のアンソロジー!"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vbu2AwAAQBAJ",
+        "etag": "j+sAXHK1MBI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vbu2AwAAQBAJ",
+        "volumeInfo": {
+          "title": "「民」富論",
+          "authors": [
+            "堂免信義"
+          ],
+          "publisher": "株式会社朝日新聞出版",
+          "description": "なぜ、現代日本では、景気拡大と不況が同時進行するのか。いくらがんばって貯蓄し倹約しても、どうして、日本の消費者は「よい暮らし」ができないのか。従来の経済学の教科書では、この難問は永遠に解けない。ミステリーだらけの日本経済の謎を、東京大学理学部出身の異色エンジニアが奇想天外の「超・経済学」の観点で解明。「貯蓄が投資を生むのではなく、投資が貯蓄を生む」「倹約や貯蓄は日本をダメにする」「財政赤字は国民への贈与だ」など。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:02273195006210010001"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Business & Economics"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.3",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vbu2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vbu2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=vbu2AwAAQBAJ&pg=PA16&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=vbu2AwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vbu2AwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 792,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 713,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=vbu2AwAAQBAJ&rdid=book-vbu2AwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 792000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 713000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%B0%91_%E5%AF%8C%E8%AB%96-sample-epub.acsm?id=vbu2AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%B0%91_%E5%AF%8C%E8%AB%96-sample-pdf.acsm?id=vbu2AwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vbu2AwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリー</b>であることは変わらず、例年代に財政出動が効果を発揮しなかった原因、新世紀に入っていっの間にか景気拡大に転じ ... <b>ミステリー</b>はもう一つあったのです。四世紀の幕開けとともに発生した景気拡大<b>ミステリー</b>は、むしろ、第二<b>ミステリー</b>と&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "WvIOEAAAQBAJ",
+        "etag": "LKcamrUatBc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/WvIOEAAAQBAJ",
+        "volumeInfo": {
+          "title": "書きたい人のためのミステリ入門（新潮新書）",
+          "authors": [
+            "新井久幸"
+          ],
+          "publisher": "新潮社",
+          "publishedDate": "2020-12-17",
+          "description": "読むと書くとは表裏一体。書き手の視点を知れば、ミステリは飛躍的に面白くなる。長年、新人賞の下読みを担当し、伊坂幸太郎氏、道尾秀介氏、米澤穂信氏らと伴走してきた編集長が、ミステリの〈お約束〉を徹底的に解説。フェアな書き方、アンフェアな書き方とは？ 望ましい伏線の張り方は？ 複雑な話だから長編向き？ 「人間が書けている」とは？ なぜ新人賞のハウツーを信じてはいけない？ 読むほどにミステリの基礎体力が身につく入門書。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000088627600100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 120,
+          "printType": "BOOK",
+          "categories": [
+            "Crafts & Hobbies"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.1.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=WvIOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=WvIOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=WvIOEAAAQBAJ&pg=PT11&dq=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=WvIOEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WvIOEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 836,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 752,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=WvIOEAAAQBAJ&rdid=book-WvIOEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 836000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 752000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9B%B8%E3%81%8D%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA-sample-epub.acsm?id=WvIOEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9B%B8%E3%81%8D%E3%81%9F%E3%81%84%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA-sample-pdf.acsm?id=WvIOEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=WvIOEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ミステリ</b>」とあった。ということは、「狭義」の<b>ミステリ</b>も存在するのだろうか?そもそも、「<b>ミステリ</b>」ってなんだ?初めは、そこから考えてみることにしたい。<b>ミステリ</b>の「三種の神器」とは?こういう場合のセオリーで、まず辞書の記述を見てみる。【<b>ミステリー</b>】&nbsp;..."
+        }
+      }
+    ]
+  }
+}

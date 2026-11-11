@@ -1,0 +1,187 @@
+{
+  "rss": {
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+    "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+    "@xmlns:dcterms": "http://purl.org/dc/terms/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "@version": "2.0",
+    "channel": {
+      "title": "9784167741013 - 国立国会図書館サーチ OpenSearch",
+      "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784167741013",
+      "description": "Search results for isbn=9784167741013",
+      "language": "ja",
+      "openSearch:totalResults": "1",
+      "openSearch:startIndex": "1",
+      "openSearch:itemsPerPage": "200",
+      "item": {
+        "title": "カラフル",
+        "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009081448",
+        "description": "<p>文藝春秋,2007,978-4-16-774101-3<p><ul><li>タイトル：カラフル</li><li>タイトル（読み）：カラフル</li><li>責任表示：森絵都 著</li><li>シリーズ名：文春文庫</li><li>シリーズ名（読み）：ブンシュン ブンコ</li><li>NDC(9)：913.6</li></ul>",
+        "author": "森, 絵都, 1968-,森絵都 著",
+        "category": [
+          "図書",
+          "紙"
+        ],
+        "guid": {
+          "@isPermaLink": "true",
+          "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009081448"
+        },
+        "pubDate": "Mon, 17 Mar 2025 22:53:43 +0900",
+        "dc:title": "カラフル",
+        "dcndl:titleTranscription": "カラフル",
+        "dc:creator": "森, 絵都, 1968-",
+        "dcndl:creatorTranscription": "モリ, エト, 1968-",
+        "dcndl:seriesTitle": "文春文庫",
+        "dcndl:seriesTitleTranscription": "ブンシュン ブンコ",
+        "dc:publisher": "文藝春秋",
+        "dcndl:publicationPlace": "JP",
+        "dc:date": {
+          "@xsi:type": "dcterms:W3CDTF",
+          "#text": "2007"
+        },
+        "dcterms:issued": "2007.9",
+        "dcndl:price": "505円",
+        "dc:extent": "259p",
+        "dc:identifier": [
+          {
+            "@xsi:type": "dcndl:ISBN",
+            "#text": "978-4-16-774101-3"
+          },
+          {
+            "@xsi:type": "dcndl:NDLBibID",
+            "#text": "000009081448"
+          },
+          {
+            "@xsi:type": "dcndl:JPNO",
+            "#text": "21285197"
+          }
+        ],
+        "dc:subject": [
+          {
+            "@xsi:type": "dcndl:NDLC",
+            "#text": "KH372"
+          },
+          {
+            "@xsi:type": "dcndl:NDC9",
+            "#text": "913.6"
+          }
+        ],
+        "rdfs:seeAlso": [
+          {
+            "@rdf:resource": "https://www.library.city.sapporo.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006700446593"
+          },
+          {
+            "@rdf:resource": "https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1100680312"
+          },
+          {
+            "@rdf:resource": "https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000193490"
+          },
+          {
+            "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=2155466&ctg=1"
+          },
+          {
+            "@rdf:resource": "https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"
+          },
+          {
+            "@rdf:resource": "https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107303419"
+          },
+          {
+            "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1107063454"
+          },
+          {
+            "@rdf:resource": "https://www.library.city.kawasaki.jp/bookdetail?num=620332&ctg=1"
+          },
+          {
+            "@rdf:resource": "https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=1324106"
+          },
+          {
+            "@rdf:resource": "https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001101749662"
+          },
+          {
+            "@rdf:resource": "https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009917039177"
+          },
+          {
+            "@rdf:resource": "https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/2063558/"
+          },
+          {
+            "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000011486180"
+          },
+          {
+            "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000700280592"
+          },
+          {
+            "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1101446607"
+          },
+          {
+            "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811000681"
+          },
+          {
+            "@rdf:resource": "http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1102917297"
+          },
+          {
+            "@rdf:resource": "https://library.pref.yamaguchi.lg.jp//wo/opc_srh/srh_detail/1000463717/"
+          },
+          {
+            "@rdf:resource": "https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100144388"
+          },
+          {
+            "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000183485"
+          },
+          {
+            "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009081448"
+          },
+          {
+            "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=1420653"
+          },
+          {
+            "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=1526337"
+          },
+          {
+            "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=2997489"
+          },
+          {
+            "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=4169737"
+          },
+          {
+            "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=4364126"
+          },
+          {
+            "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=4364127"
+          },
+          {
+            "@rdf:resource": "https://mina.ndl.go.jp/books/R100000049-I026942252"
+          },
+          {
+            "@rdf:resource": "https://mina.ndl.go.jp/books/R100000049-I032154357"
+          },
+          {
+            "@rdf:resource": "https://mediaarts-db.artmuseums.go.jp/id/M962091"
+          },
+          {
+            "@rdf:resource": "https://www.library.pref.osaka.jp/bibj/?B16468354"
+          },
+          {
+            "@rdf:resource": "https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00175731"
+          },
+          {
+            "@rdf:resource": "https://cir.nii.ac.jp/crid/1970867909904647823"
+          },
+          {
+            "@rdf:resource": "https://www.books.or.jp/book-details/1677410100000000000H"
+          },
+          {
+            "@rdf:resource": "https://www.books.or.jp/book-details/90357800000000275113"
+          },
+          {
+            "@rdf:resource": "https://www.books.or.jp/book-details/9784167741013"
+          }
+        ],
+        "dc:description": "2007"
+      }
+    }
+  }
+}

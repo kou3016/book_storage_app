@@ -1,0 +1,223 @@
+[
+  {
+    "onix": {
+      "RecordReference": "9784757442764",
+      "NotificationType": "03",
+      "ProductIdentifier": {
+        "ProductIDType": "15",
+        "IDValue": "9784757442764"
+      },
+      "DescriptiveDetail": {
+        "ProductComposition": "00",
+        "ProductForm": "BA",
+        "ProductFormDetail": "B108",
+        "Measure": [
+          {
+            "MeasureType": "01",
+            "Measurement": "210",
+            "MeasureUnitCode": "mm"
+          },
+          {
+            "MeasureType": "02",
+            "Measurement": "148",
+            "MeasureUnitCode": "mm"
+          },
+          {
+            "MeasureType": "03",
+            "Measurement": "21",
+            "MeasureUnitCode": "mm"
+          }
+        ],
+        "TitleDetail": {
+          "TitleType": "01",
+          "TitleElement": {
+            "TitleElementLevel": "01",
+            "TitleText": {
+              "collationkey": "リアライズ エイブンカイシャク エンシュウキュウジュウキュウ ハッテンレベル",
+              "content": "Realize 英文「解釈」演習99［発展レベル］"
+            }
+          }
+        },
+        "Contributor": [
+          {
+            "SequenceNumber": "1",
+            "ContributorRole": [
+              "A01"
+            ],
+            "PersonName": {
+              "collationkey": "ヤマザキ タツナリ",
+              "content": "山崎 竜成"
+            }
+          }
+        ],
+        "Language": [
+          {
+            "LanguageRole": "01",
+            "LanguageCode": "jpn",
+            "CountryCode": "JP"
+          }
+        ],
+        "Subject": [
+          {
+            "MainSubject": "",
+            "SubjectSchemeIdentifier": "78",
+            "SubjectCode": "7082"
+          },
+          {
+            "SubjectSchemeIdentifier": "79",
+            "SubjectCode": "22"
+          },
+          {
+            "SubjectSchemeIdentifier": "C9",
+            "SubjectCode": "GF06"
+          }
+        ],
+        "Audience": [
+          {
+            "AudienceCodeType": "22",
+            "AudienceCodeValue": "00"
+          }
+        ]
+      },
+      "CollateralDetail": {
+        "SupportingResource": [
+          {
+            "ResourceContentType": "01",
+            "ContentAudience": "01",
+            "ResourceMode": "03",
+            "ResourceVersion": [
+              {
+                "ResourceForm": "02",
+                "ResourceVersionFeature": [
+                  {
+                    "ResourceVersionFeatureType": "01",
+                    "FeatureValue": "D502"
+                  },
+                  {
+                    "ResourceVersionFeatureType": "04",
+                    "FeatureValue": "9784757442764.jpg"
+                  }
+                ],
+                "ResourceLink": "https://cover.openbd.jp/9784757442764.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "PublishingDetail": {
+        "Imprint": {
+          "ImprintIdentifier": [
+            {
+              "ImprintIDType": "24",
+              "IDValue": "0132"
+            },
+            {
+              "ImprintIDType": "19",
+              "IDValue": "7574"
+            }
+          ],
+          "ImprintName": "株式会社アルク"
+        },
+        "Publisher": {
+          "PublishingRole": "01",
+          "PublisherIdentifier": [
+            {
+              "PublisherIDType": "24",
+              "IDValue": "0132"
+            },
+            {
+              "PublisherIDType": "19",
+              "IDValue": "7574"
+            }
+          ],
+          "PublisherName": "株式会社アルク"
+        },
+        "PublishingDate": [
+          {
+            "PublishingDateRole": "01",
+            "Date": "20251031"
+          },
+          {
+            "PublishingDateRole": "09",
+            "Date": "20250930"
+          },
+          {
+            "PublishingDateRole": "11",
+            "Date": "20251029"
+          }
+        ]
+      },
+      "ProductSupply": {
+        "MarketPublishingDetail": {
+          "MarketPublishingStatus": "00",
+          "MarketPublishingStatusNote": "1;1"
+        },
+        "SupplyDetail": {
+          "ReturnsConditions": {
+            "ReturnsCodeType": "04",
+            "ReturnsCode": "03"
+          },
+          "ProductAvailability": "99",
+          "Price": [
+            {
+              "PriceType": "03",
+              "PriceAmount": "2000",
+              "CurrencyCode": "JPY"
+            }
+          ]
+        }
+      }
+    },
+    "hanmoto": {
+      "genshomei": "",
+      "han": "",
+      "datezeppan": "",
+      "toji": "",
+      "zaiko": 11,
+      "genrecodetrc": 20,
+      "ndccode": "",
+      "kankoukeitai": "",
+      "sonotatokkijikou": "",
+      "jushoujouhou": "",
+      "furokusonota": "",
+      "dokushakakikomi": "",
+      "zasshicode": "",
+      "hatsubai": "",
+      "hatsubaiyomi": "",
+      "hastameshiyomi": true,
+      "author": [
+        {
+          "listseq": 1,
+          "dokujikubun": ""
+        }
+      ],
+      "datemodified": "2026-08-06 16:12:42",
+      "datecreated": "2025-07-24 16:17:48",
+      "hanmotoinfo": {
+        "name": "株式会社アルク",
+        "yomi": "アルク",
+        "url": "",
+        "twitter": "",
+        "facebook": "",
+        "toritsugitorikyo": "",
+        "toritsugisonota": "",
+        "eigyoudaihyousha": "",
+        "phoneshoten": "",
+        "facsimileshoten": "",
+        "emailshoten": ""
+      },
+      "hankeidokuji": "A5判",
+      "dateshuppan": ""
+    },
+    "summary": {
+      "isbn": "9784757442764",
+      "title": "Realize 英文「解釈」演習99［発展レベル］",
+      "volume": "",
+      "series": "",
+      "publisher": "株式会社アルク",
+      "pubdate": "20251031",
+      "cover": "https://cover.openbd.jp/9784757442764.jpg",
+      "author": "山崎竜成／著"
+    }
+  }
+]

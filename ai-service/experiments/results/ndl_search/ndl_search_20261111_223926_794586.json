@@ -1,0 +1,29 @@
+{
+  "query": "英文解釈　難関",
+  "search_parameters": {
+    "any": "英文解釈　難関",
+    "cnt": 20
+  },
+  "response": {
+    "rss": {
+      "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+      "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+      "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+      "@xmlns:dcterms": "http://purl.org/dc/terms/",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "@version": "2.0",
+      "channel": {
+        "title": "英文解釈　難関 - 国立国会図書館サーチ OpenSearch",
+        "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?any=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%80%80%E9%9B%A3%E9%96%A2&cnt=20",
+        "description": "Search results for any=英文解釈　難関 cnt=20",
+        "language": "ja",
+        "openSearch:totalResults": "0",
+        "openSearch:startIndex": "1",
+        "openSearch:itemsPerPage": "20"
+      }
+    }
+  }
+}

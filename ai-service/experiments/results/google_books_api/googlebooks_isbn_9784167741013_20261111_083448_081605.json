@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xMMeNwAACAAJ",
+      "etag": "AuCN7niYE6g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xMMeNwAACAAJ",
+      "volumeInfo": {
+        "title": "カラフル",
+        "authors": [
+          "森絵都"
+        ],
+        "publishedDate": "2007-09",
+        "description": "生前の罪で輪廻サイクルから外されたぼく。だが天使業界の抽選に当たり、自殺を図った少年の体へホームステイ。新生活が始まった",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4167741016"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784167741013"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xMMeNwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xMMeNwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=xMMeNwAACAAJ&dq=isbn:9784167741013&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=xMMeNwAACAAJ&dq=isbn:9784167741013&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB.html?hl=&id=xMMeNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xMMeNwAACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "生前の罪で輪廻サイクルから外されたぼく。だが天使業界の抽選に当たり、自殺を図った少年の体へホームステイ。新生活が始まった"
+      }
+    }
+  ]
+}

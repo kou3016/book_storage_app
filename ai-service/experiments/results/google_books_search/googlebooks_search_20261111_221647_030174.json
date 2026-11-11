@@ -1,0 +1,1438 @@
+{
+  "query": "小説",
+  "search_parameters": {
+    "langRestrict": "ja",
+    "printType": "books",
+    "orderBy": "relevance",
+    "maxResults": 20
+  },
+  "response": {
+    "kind": "books#volumes",
+    "totalItems": 434,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "ELxQDwAAQBAJ",
+        "etag": "oT9/hc6CpWw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/ELxQDwAAQBAJ",
+        "volumeInfo": {
+          "title": "〈小説家になろう〉で書こう",
+          "authors": [
+            "新紀元社編集部",
+            "桜雲社"
+          ],
+          "publisher": "新紀元社",
+          "description": "もうすぐアイディアが降臨しそうな人へ。本気で作家になりたい人のための“小説家になろう”使いこなしガイドブック登場!創作の基礎知識やアイディアのまとめ方、読者を引き込む文章テクニック解説も！！",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000048742200100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 269,
+          "printType": "BOOK",
+          "categories": [
+            "Young Adult Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=ELxQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=ELxQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=ELxQDwAAQBAJ&pg=PT110&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=ELxQDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ELxQDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1870,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1683,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=ELxQDwAAQBAJ&rdid=book-ELxQDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1870000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1683000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B0%8F%E8%AA%AC%E5%AE%B6%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86_%E3%81%A7%E6%9B%B8%E3%81%93%E3%81%86-sample-epub.acsm?id=ELxQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B0%8F%E8%AA%AC%E5%AE%B6%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86_%E3%81%A7%E6%9B%B8%E3%81%93%E3%81%86-sample-pdf.acsm?id=ELxQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=ELxQDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>賞に応募するこれは、“<b>小説</b>賞に応募→作家デビュー”という、これまでの作家になるための方法とさほど変わらないやり方で、この場合の<b>小説</b>賞とは、〈<b>小説</b>家になろう〉の作品のみを募集対象としているわけではない、一般的な<b>小説</b>賞のことです。ここで気&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "2LVfzgEACAAJ",
+        "etag": "H2uc6SV8OGM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2LVfzgEACAAJ",
+        "volumeInfo": {
+          "title": "小説こころ",
+          "subtitle": "",
+          "authors": [
+            "夏目漱石"
+          ],
+          "publishedDate": "2021-03",
+          "description": "「読んでない」とは言えない日本人の教養",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "486651356X"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784866513560"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 396,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2LVfzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2LVfzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=2LVfzgEACAAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=2LVfzgEACAAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E5%B0%8F%E8%AA%AC%E3%81%93%E3%81%93%E3%82%8D.html?hl=&id=2LVfzgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=2LVfzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "「読んでない」とは言えない日本人の教養"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "alI1EAAAQBAJ",
+        "etag": "BZ32NWtW50g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/alI1EAAAQBAJ",
+        "volumeInfo": {
+          "title": "マナーはいらない　小説の書きかた講座",
+          "authors": [
+            "三浦しをん"
+          ],
+          "publisher": "集英社",
+          "publishedDate": "2020-11-10",
+          "description": "作家・三浦しをんが「小説」を真正面から考えた――。「小説を書くのは自由な行い」。だがしかし、「ここを踏まえると、もっと自由に文章で表現できるようになるかもだぜ！」。長編・短編を問わず、小説を「書く人」「書きたい人」へ贈る小説の書きかた講座。人称、構成、推敲など基本のキから、タイトルのつけ方や取材方法まで、本書タイトルにあやかって「コース仕立て」でお届けする大充実の全二十四皿。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000086587800100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 160,
+          "printType": "BOOK",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.3.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=alI1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=alI1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=alI1EAAAQBAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=alI1EAAAQBAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%9E%E3%83%8A%E3%83%BC%E3%81%AF%E3%81%84%E3%82%89%E3%81%AA%E3%81%84_%E5%B0%8F%E8%AA%AC%E3%81%AE%E6%9B%B8%E3%81%8D.html?hl=&id=alI1EAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=alI1EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "作家・三浦しをんが「小説」を真正面から考えた――。「小説を書くのは自由な行い」。だがしかし、「ここを踏まえると、もっと自由に文章で表現できるようになるかもだぜ！ ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bbPpM_qjAW8C",
+        "etag": "v1VMSnA+Z4U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bbPpM_qjAW8C",
+        "volumeInfo": {
+          "title": "可観小説",
+          "subtitle": "後編",
+          "authors": [
+            "青地礼幹"
+          ],
+          "publishedDate": "1936",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10811020010"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 506,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.14.16.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=bbPpM_qjAW8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=bbPpM_qjAW8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=bbPpM_qjAW8C&pg=PP487&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=bbPpM_qjAW8C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bbPpM_qjAW8C"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=bbPpM_qjAW8C&rdid=book-bbPpM_qjAW8C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E5%8F%AF%E8%A6%B3%E5%B0%8F%E8%AA%AC.epub?id=bbPpM_qjAW8C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E5%8F%AF%E8%A6%B3%E5%B0%8F%E8%AA%AC.pdf?id=bbPpM_qjAW8C&hl=&output=pdf&sig=ACfU3U35OsE-yEGMI7ti04LDg0CN5nAs9A&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bbPpM_qjAW8C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>には大小さまの本がある。多くの寫本は、内容に左まで相違がなくとも、寫字の大小と紙數の多寡とによつて、製本の便宜上卷數を異にするものであるが、これはその外に、記事に甚だしい精粗があるのである。外題も亦それと共にいろくになつてゐる。可觀<b>小説</b>&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "iBmtiavGzEcC",
+        "etag": "rHwuxOggA/Q",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/iBmtiavGzEcC",
+        "volumeInfo": {
+          "title": "小説の相貌",
+          "subtitle": "「読みの共振運動論」の試み",
+          "authors": [
+            "古閑章"
+          ],
+          "publisher": "図書出版　南方新社",
+          "publishedDate": "2004-03",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4861240093"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784861240096"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 386,
+          "printType": "BOOK",
+          "categories": [
+            "Japanese literature"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.4.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=iBmtiavGzEcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=iBmtiavGzEcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=iBmtiavGzEcC&pg=PA49&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=iBmtiavGzEcC&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E5%B0%8F%E8%AA%AC%E3%81%AE%E7%9B%B8%E8%B2%8C.html?hl=&id=iBmtiavGzEcC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B0%8F%E8%AA%AC%E3%81%AE%E7%9B%B8%E8%B2%8C-sample-pdf.acsm?id=iBmtiavGzEcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=iBmtiavGzEcC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>であると判断するのなら、世の<b>小説</b>はほとんど未完<b>小説</b>になってしまうだろう。「浮雲」が同時代の読み手に与えた感動は、<b>小説</b>の大団円とはほど遠い、さりげない(終)からもたらされる意外性であり、時にまた自然性だったはずである。第三篇発表時点&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "uNgcenVZ330C",
+        "etag": "uMcc/RsxHhM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/uNgcenVZ330C",
+        "volumeInfo": {
+          "title": "一日本人 :小説",
+          "publishedDate": "1925",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810315394"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 570,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.10.13.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=uNgcenVZ330C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=uNgcenVZ330C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=uNgcenVZ330C&pg=PA421&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=uNgcenVZ330C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uNgcenVZ330C"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=uNgcenVZ330C&rdid=book-uNgcenVZ330C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E4%B8%80%E6%97%A5%E6%9C%AC%E4%BA%BA_%E5%B0%8F%E8%AA%AC.epub?id=uNgcenVZ330C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E4%B8%80%E6%97%A5%E6%9C%AC%E4%BA%BA_%E5%B0%8F%E8%AA%AC.pdf?id=uNgcenVZ330C&hl=&output=pdf&sig=ACfU3U1jOksinvbgyZrAR0Jw2Y6UCUra1A&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=uNgcenVZ330C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>家は、美人の顔だちや、きもの、縞柄や色合などについて、精細に叙述してゐるではないか。けれど彼は、女のきものなぞは、何を見てもみんな同じやうに見えた。敎師が新調の洋服を着てこやろが、色變りのネクタイをしてこやろが、外のものが気がついて&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "m0UZsICtLaIC",
+        "etag": "Tcpd5nGxfIo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/m0UZsICtLaIC",
+        "volumeInfo": {
+          "title": "盲目 :小説",
+          "subtitle": "",
+          "publishedDate": "1915",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810299151"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 404,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.14.15.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=m0UZsICtLaIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=m0UZsICtLaIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=m0UZsICtLaIC&pg=PA8&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=m0UZsICtLaIC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m0UZsICtLaIC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=m0UZsICtLaIC&rdid=book-m0UZsICtLaIC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E7%9B%B2%E7%9B%AE_%E5%B0%8F%E8%AA%AC.epub?id=m0UZsICtLaIC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E7%9B%B2%E7%9B%AE_%E5%B0%8F%E8%AA%AC.pdf?id=m0UZsICtLaIC&hl=&output=pdf&sig=ACfU3U2XXttJmyN6H8BVVeFB9KH_y8-j_A&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=m0UZsICtLaIC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>家たる今日の君に、空想なくねんせんはなし SA 家たりし僕の十年前の話をするのが厭なんだ。しゃっぱいはなしきせうせつまた君も商賣だ。僕の話を聞けば<b>小説</b>にしたくなるだらう、又しても好いと思ふけんゐかんがぼくいぎりすせうせつよだらう、する&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vOBH62wdK9MC",
+        "etag": "a+41Hyoyvm0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vOBH62wdK9MC",
+        "volumeInfo": {
+          "title": "現代長篇小説全集",
+          "publishedDate": "1937",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810348802"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 462,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.10.13.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vOBH62wdK9MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vOBH62wdK9MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=vOBH62wdK9MC&pg=PA99&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=vOBH62wdK9MC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vOBH62wdK9MC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=vOBH62wdK9MC&rdid=book-vOBH62wdK9MC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E7%8F%BE%E4%BB%A3%E9%95%B7%E7%AF%87%E5%B0%8F%E8%AA%AC%E5%85%A8%E9%9B%86.epub?id=vOBH62wdK9MC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E7%8F%BE%E4%BB%A3%E9%95%B7%E7%AF%87%E5%B0%8F%E8%AA%AC%E5%85%A8%E9%9B%86.pdf?id=vOBH62wdK9MC&hl=&output=pdf&sig=ACfU3U1Z8AASr4rl89VNnYPvDmqeoD2-pQ&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vOBH62wdK9MC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>さつかくうなわめや、また極度の眠気に錯覺を起した数百人の労働者が、狂氣した猛獸のやうに唸り喚く數十の輪轉と機に鐵棒を振りあげて躍りかかつていつたといふ西歐の<b>小説</b>等―――。くつかく――俺達も錯覺でも起すかな――やが高木が、ひびきのない嗄れ&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "OfttjwEACAAJ",
+        "etag": "gG405zYoS8g",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/OfttjwEACAAJ",
+        "volumeInfo": {
+          "title": "例外小説論",
+          "subtitle": "「事件」としての小説",
+          "authors": [
+            "佐々木敦"
+          ],
+          "publishedDate": "2016-02-25",
+          "description": "「例外小説」とは何か―?それは「前衛小説」ではなく、「純文学とエンタテインメントを越境した小説」でもない。例外小説とは“これは小説なのか?”という疑問/問い/思索を喚起する「小説という事件」なのである。円城塔、伊坂幸太郎、阿部和重、古川日出男、奥泉光、保坂和志、磯崎憲一郎、山下澄人など、各紙誌に掲載された32人の「例外小説家」の61作の「例外小説」評を収録。作品における、形式的構造と偶然的現実のトポロジカルな相互含有の交点を見出すことで、文芸評価の新たな地平を拓く。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4022630418"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784022630414"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 371,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=OfttjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=OfttjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=OfttjwEACAAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=OfttjwEACAAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E4%BE%8B%E5%A4%96%E5%B0%8F%E8%AA%AC%E8%AB%96.html?hl=&id=OfttjwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=OfttjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "「例外小説」とは何か―?それは「前衛小説」ではなく、「純文学とエンタテインメントを越境した小説」でもない。例外小説とは“これは小説なのか ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "2hJSHSjjEo8C",
+        "etag": "Z8dk6+4Dmzg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/2hJSHSjjEo8C",
+        "volumeInfo": {
+          "title": "日本小説年表 :全",
+          "publishedDate": "1906",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810302012"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 328,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.11.11.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=2hJSHSjjEo8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=2hJSHSjjEo8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=2hJSHSjjEo8C&pg=PP10&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=2hJSHSjjEo8C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2hJSHSjjEo8C"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=2hJSHSjjEo8C&rdid=book-2hJSHSjjEo8C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E6%97%A5%E6%9C%AC%E5%B0%8F%E8%AA%AC%E5%B9%B4%E8%A1%A8_%E5%85%A8.epub?id=2hJSHSjjEo8C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E6%97%A5%E6%9C%AC%E5%B0%8F%E8%AA%AC%E5%B9%B4%E8%A1%A8_%E5%85%A8.pdf?id=2hJSHSjjEo8C&hl=&output=pdf&sig=ACfU3U03NvzpJ9zuFHMracg3M-7Ap-BLcg&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=2hJSHSjjEo8C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>に。其種類頗る多く。蒐集上遺漏なきを期したれども。淺學紀元二千五百六十六年三月十五日事情かくの如きを以て。缺點を ... <b>小説</b>史』。<b>小説</b>家の傳記に加ふるに浄瑠璃作者。狂言作者。狂歌師。歌謠の作者に至る傳記を蒐集せる『戯作者傳集成&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "K0KqaajqXy0C",
+        "etag": "ONx/L1+3PQw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/K0KqaajqXy0C",
+        "volumeInfo": {
+          "title": "叛逆 :長編小説",
+          "publishedDate": "1925",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810313987"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 492,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.12.11.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=K0KqaajqXy0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=K0KqaajqXy0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=K0KqaajqXy0C&pg=PT3&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=K0KqaajqXy0C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K0KqaajqXy0C"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=K0KqaajqXy0C&rdid=book-K0KqaajqXy0C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E5%8F%9B%E9%80%86_%E9%95%B7%E7%B7%A8%E5%B0%8F%E8%AA%AC.epub?id=K0KqaajqXy0C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E5%8F%9B%E9%80%86_%E9%95%B7%E7%B7%A8%E5%B0%8F%E8%AA%AC.pdf?id=K0KqaajqXy0C&hl=&output=pdf&sig=ACfU3U2Dwpv3klEJp12vGV4yYwNqXPKmBw&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=K0KqaajqXy0C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>愛は科學小說世界事實物語赤白内| IC |罪形逆磨浪剛罰價一五 O 人 111 )價一‧六 O 永の「の-1 111 價 1‧七 O 郵 111 遠始?秋イ動「男ン氏原氏原氏同史譯著價一五 O 一三.黒の價一‧五 O . 1 111 長篇<b>小説</b>ワアレンカ・オレソウ價一‧六 O 一五 198 顯&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "rYXIVFPLKR4C",
+        "etag": "YSHwbadbQiE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rYXIVFPLKR4C",
+        "volumeInfo": {
+          "title": "乳姉妹 :家庭小説",
+          "subtitle": "前編",
+          "publishedDate": "1904",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810261154"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 286,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.16.10.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rYXIVFPLKR4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rYXIVFPLKR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=rYXIVFPLKR4C&pg=PP12&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=rYXIVFPLKR4C&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rYXIVFPLKR4C"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=rYXIVFPLKR4C&rdid=book-rYXIVFPLKR4C&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E4%B9%B3%E5%A7%89%E5%A6%B9_%E5%AE%B6%E5%BA%AD%E5%B0%8F%E8%AA%AC.epub?id=rYXIVFPLKR4C&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E4%B9%B3%E5%A7%89%E5%A6%B9_%E5%AE%B6%E5%BA%AD%E5%B0%8F%E8%AA%AC.pdf?id=rYXIVFPLKR4C&hl=&output=pdf&sig=ACfU3U16FbqlSvzQlHVxrx97oQNB21Rxxw&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rYXIVFPLKR4C&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>が評判の絶頂に達しましたのは、後篇の時でございますから、そ以上は座談の要點でありますが、私が別に蛇足を加へて置ますのは、小上かて設はが座最覽談文空會當ましたが、その際に餘興として非常の喝采を博しました三木赤林の兩合堂で慈善音楽會が&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FfMU9RhiboUC",
+        "etag": "MvI8x/OqNsQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FfMU9RhiboUC",
+        "volumeInfo": {
+          "title": "新生 :小説",
+          "subtitle": "第2卷",
+          "publishedDate": "1919",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810278693"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 474,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.12.12.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FfMU9RhiboUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FfMU9RhiboUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=FfMU9RhiboUC&pg=PA799&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=FfMU9RhiboUC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FfMU9RhiboUC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=FfMU9RhiboUC&rdid=book-FfMU9RhiboUC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E6%96%B0%E7%94%9F_%E5%B0%8F%E8%AA%AC.epub?id=FfMU9RhiboUC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E6%96%B0%E7%94%9F_%E5%B0%8F%E8%AA%AC.pdf?id=FfMU9RhiboUC&hl=&output=pdf&sig=ACfU3U1SCSOVcJu-LykSvD0FEvf70pCgfA&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FfMU9RhiboUC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "T8vmEAAAQBAJ",
+        "etag": "h7jDWfK4SqY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/T8vmEAAAQBAJ",
+        "volumeInfo": {
+          "title": "朝日文庫時代小説アンソロジー　母ごころ",
+          "authors": [
+            "中島　要",
+            "高田　在子",
+            "志川　節子",
+            "永井　紗耶子",
+            "坂井　希久子",
+            "藤原　緋沙子"
+          ],
+          "publisher": "朝日新聞出版",
+          "publishedDate": "2023-12-07",
+          "description": "絵師の千鶴は、駿河屋惣兵衛の依頼で妾お仙の亡くなった母の似絵を描くことに。目の前にいない人を描くのは初めてで、千鶴はお仙に母のことを尋ねるが……（永井紗耶子「母の顔」）。第一線の女性作家らが「母」をテーマに織りなす珠玉の６編。文庫オリジナル。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:02265130111210010000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 166,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.3.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=T8vmEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=T8vmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=T8vmEAAAQBAJ&printsec=frontcover&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=T8vmEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T8vmEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 902,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 812,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=T8vmEAAAQBAJ&rdid=book-T8vmEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 902000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 812000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9C%9D%E6%97%A5%E6%96%87%E5%BA%AB%E6%99%82%E4%BB%A3%E5%B0%8F%E8%AA%AC%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8-sample-epub.acsm?id=T8vmEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E6%9C%9D%E6%97%A5%E6%96%87%E5%BA%AB%E6%99%82%E4%BB%A3%E5%B0%8F%E8%AA%AC%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%82%B8-sample-pdf.acsm?id=T8vmEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=T8vmEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "絵師の千鶴は、駿河屋惣兵衛の依頼で妾お仙の亡くなった母の似絵を描くことに。目の前にいない人を描くのは初めてで、千鶴はお仙に母のことを尋ねるが……（永井紗耶子「母 ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "b_4gEQAAQBAJ",
+        "etag": "iNnYNigJY88",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/b_4gEQAAQBAJ",
+        "volumeInfo": {
+          "title": "小説　野性時代　第２５１号　２０２４年１０月号",
+          "authors": [
+            "小説野性時代編集部"
+          ],
+          "publisher": "KADOKAWA",
+          "description": "【新連載】 森沢明夫——ハレーション まぶしい空、エメラルドグリーンの海……。 拓海にとって一生忘れられない夏の日が始まる。 【読切】 降田天——初恋 日本推理作家協会賞受賞・狩野雷太シリーズ新作短編！ 二人の中学生の罪を「落としの狩野」は見破れるか？ 【追悼】 大崎善生 ＫＡＤＯＫＡWＡ全作品紹介 随想 谷川浩司 谷村志穂 未発表絶筆——リヴァプールのパレット 末期の癌に侵された僕は、少年時代と四十代で訪れた イギリスの出来事を、ビートルズの曲とともに鮮やかに思い出す。 【連載】 梶よう子——雷電 朝井まかて——グロリア・ソサエテ 伊吹有喜——銀の神話 荻原浩——我らが緑の大地 伊東潤——天地震撼 信玄と家康 最終回 佐藤正午——熟柿 赤川次郎——三世代探偵団 愛と哀しみへの逃走 恩田陸——産土ヘイズ 【読み物】 Book Review 物語は。 吉田大助 滝沢志郎『月花美人』 第45回 横溝正史ミステリ＆ホラー大賞 応募要項",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04000000A17365100000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": false
+          },
+          "pageCount": 332,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.2",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=b_4gEQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=b_4gEQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=b_4gEQAAQBAJ&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=b_4gEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b_4gEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 385,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 346,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=b_4gEQAAQBAJ&rdid=book-b_4gEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 385000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 346000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=b_4gEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "【新連載】 森沢明夫——ハレーション まぶしい空、エメラルドグリーンの海……。 拓海にとって一生忘れられない夏の日が始まる。 【読切】 降田天——初恋 ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "d6VTRZVUrrcC",
+        "etag": "yC62VrBLcYo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/d6VTRZVUrrcC",
+        "volumeInfo": {
+          "title": "怪異小説集 :/(B",
+          "subtitle": "全/(B",
+          "publishedDate": "1927",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10811235149"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 1106,
+          "printType": "BOOK",
+          "categories": [
+            "Ghost stories, Japanese"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.13.10.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=d6VTRZVUrrcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=d6VTRZVUrrcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=d6VTRZVUrrcC&pg=PP44&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=d6VTRZVUrrcC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d6VTRZVUrrcC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=d6VTRZVUrrcC&rdid=book-d6VTRZVUrrcC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E6%80%AA%E7%95%B0%E5%B0%8F%E8%AA%AC%E9%9B%86_B.epub?id=d6VTRZVUrrcC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=d6VTRZVUrrcC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>の類、いづれも前述の怪異<b>小説</b>の幾つかを其の中に収録してゐる。其の舶載されて渡来したのも、相當に古い世であらう。物の怪を信じた平安朝の氣弱な士女等は此等の傳說に好奇の眼を見張り、戰慄を禁じ得なかつたのである。「源氏物語」にも、タ顔の&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "18NCEgio2ZMC",
+        "etag": "Xy/zuV1wl+M",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/18NCEgio2ZMC",
+        "volumeInfo": {
+          "title": "京本通俗小説",
+          "subtitle": "",
+          "publishedDate": "1954",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10812783204"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 124,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.12.11.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=18NCEgio2ZMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=18NCEgio2ZMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "zh-CN",
+          "previewLink": "http://books.google.co.jp/books?id=18NCEgio2ZMC&pg=PP11&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=18NCEgio2ZMC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=18NCEgio2ZMC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=18NCEgio2ZMC&rdid=book-18NCEgio2ZMC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E4%BA%AC%E6%9C%AC%E9%80%9A%E4%BF%97%E5%B0%8F%E8%AA%AC.epub?id=18NCEgio2ZMC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E4%BA%AC%E6%9C%AC%E9%80%9A%E4%BF%97%E5%B0%8F%E8%AA%AC.pdf?id=18NCEgio2ZMC&hl=&output=pdf&sig=ACfU3U3I0zHieYmHMhCgWsG2Ut7pgMUUCw&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=18NCEgio2ZMC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "rQ0oDwAAQBAJ",
+        "etag": "TqgUjaN+G+o",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/rQ0oDwAAQBAJ",
+        "volumeInfo": {
+          "title": "僕は小説が書けない",
+          "authors": [
+            "中村　航",
+            "中田　永一"
+          ],
+          "publisher": "KADOKAWA",
+          "publishedDate": "2017-06-17",
+          "description": "なぜか不幸を招き寄せてしまう体質と、家族とのぎくしゃくした関係に悩む高校1年生の光太郎。先輩・七瀬の強引な勧誘で廃部寸前の文芸部に入ると、部の存続をかけて部誌に小説を書くことに。強烈なふたりのOBがたたかわす小説論、2泊3日の夏合宿、迫り来る文化祭。個性的な部のメンバーに囲まれて小説の書き方を学ぶ光太郎はやがて、自分だけの物語を探しはじめる——。ふたりの人気作家が合作した青春小説の決定版!!",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04105612A06915500000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 165,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.3.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=rQ0oDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=rQ0oDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=rQ0oDwAAQBAJ&printsec=frontcover&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=rQ0oDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rQ0oDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 616,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 554,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=rQ0oDwAAQBAJ&rdid=book-rQ0oDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 616000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 554000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%83%95%E3%81%AF%E5%B0%8F%E8%AA%AC%E3%81%8C%E6%9B%B8%E3%81%91%E3%81%AA%E3%81%84-sample-epub.acsm?id=rQ0oDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%83%95%E3%81%AF%E5%B0%8F%E8%AA%AC%E3%81%8C%E6%9B%B8%E3%81%91%E3%81%AA%E3%81%84-sample-pdf.acsm?id=rQ0oDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=rQ0oDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "なぜか不幸を招き寄せてしまう体質と、家族とのぎくしゃくした関係に悩む高校1年生の光太郎。先輩・七瀬の強引な勧誘で廃部寸前の文芸部に入ると、部の存続をかけて部誌に ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "d0mJr2f43bYC",
+        "etag": "lOyPg19noY4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/d0mJr2f43bYC",
+        "volumeInfo": {
+          "title": "筆記小説大觀",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10812376609"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 98,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.7.7.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=d0mJr2f43bYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=d0mJr2f43bYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "zh-CN",
+          "previewLink": "http://books.google.co.jp/books?id=d0mJr2f43bYC&pg=PP77&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=d0mJr2f43bYC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d0mJr2f43bYC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=d0mJr2f43bYC&rdid=book-d0mJr2f43bYC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E7%AD%86%E8%A8%98%E5%B0%8F%E8%AA%AC%E5%A4%A7%E8%A7%80.epub?id=d0mJr2f43bYC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E7%AD%86%E8%A8%98%E5%B0%8F%E8%AA%AC%E5%A4%A7%E8%A7%80.pdf?id=d0mJr2f43bYC&hl=&output=pdf&sig=ACfU3U087BzDwV-tx76vQLfIGTdDE8CG_w&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=d0mJr2f43bYC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "7kL3yVnUFEwC",
+        "etag": "JVBLz846HKY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/7kL3yVnUFEwC",
+        "volumeInfo": {
+          "title": "うづまき :小説",
+          "publishedDate": "1910",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "KEIO:10810269929"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 222,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.14.11.0.full.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=7kL3yVnUFEwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=7kL3yVnUFEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=7kL3yVnUFEwC&pg=PA177&dq=%E5%B0%8F%E8%AA%AC&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=7kL3yVnUFEwC&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7kL3yVnUFEwC"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FREE",
+          "isEbook": true,
+          "buyLink": "https://play.google.com/store/books/details?id=7kL3yVnUFEwC&rdid=book-7kL3yVnUFEwC&rdot=1&source=gbs_api"
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "ALL_PAGES",
+          "embeddable": true,
+          "publicDomain": true,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false,
+            "downloadLink": "http://books.google.co.jp/books/download/%E3%81%86%E3%81%A5%E3%81%BE%E3%81%8D_%E5%B0%8F%E8%AA%AC.epub?id=7kL3yVnUFEwC&hl=&output=epub&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "downloadLink": "http://books.google.co.jp/books/download/%E3%81%86%E3%81%A5%E3%81%BE%E3%81%8D_%E5%B0%8F%E8%AA%AC.pdf?id=7kL3yVnUFEwC&hl=&output=pdf&sig=ACfU3U2VImKO9VMsozn0KyeBxcBG3kaZSw&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=7kL3yVnUFEwC&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>小説</b>は六十回乃至八十回も反せいさく復し、精讀したといふ。うごすきかうふく久せうせつぜひそのうちじゅくごくみしょいづくろ『そんなに豪らい<b>小説</b>なら是非其内熟讀して見よう。何れ専ほんはじめたんごう門家好のする本で、始は澤山賣れなかつたのだらう&nbsp;..."
+        }
+      }
+    ]
+  }
+}

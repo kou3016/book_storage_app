@@ -1,0 +1,1380 @@
+{
+  "query": "ミステリー",
+  "search_parameters": {
+    "any": "ミステリー",
+    "cnt": 20
+  },
+  "response": {
+    "rss": {
+      "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+      "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+      "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+      "@xmlns:dcterms": "http://purl.org/dc/terms/",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "@version": "2.0",
+      "channel": {
+        "title": "ミステリー - 国立国会図書館サーチ OpenSearch",
+        "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?any=%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC&cnt=20",
+        "description": "Search results for any=ミステリー cnt=20",
+        "language": "ja",
+        "openSearch:totalResults": "51373",
+        "openSearch:startIndex": "1",
+        "openSearch:itemsPerPage": "20",
+        "item": [
+          {
+            "title": "亜愛一郎の事件簿",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000128-IB16213401",
+            "description": "<p>秋田書店,2002,<p><ul><li>タイトル：亜愛一郎の事件簿</li><li>タイトル（読み）：ア アイイチロウ ノ ジケンボ</li><li>責任表示：服部あゆみ∥作画,泡坂妻夫∥原作,たまいまきこ∥作画,真雲啓∥作画</li><li>シリーズ名：サスペリアミステリーふろく ; 15巻7号</li><li>シリーズ名（読み）：サスペリア ミステリー フロク ; 001500-000007</li></ul>",
+            "author": "服部/あゆみ,泡坂/妻夫,たまい/まきこ,真雲/啓,服部あゆみ∥作画,泡坂妻夫∥原作,たまいまきこ∥作画,真雲啓∥作画",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000128-IB16213401"
+            },
+            "pubDate": "Sun, 1 Mar 2026 12:13:39 +0900",
+            "dc:title": "亜愛一郎の事件簿",
+            "dcndl:titleTranscription": "ア アイイチロウ ノ ジケンボ",
+            "dc:creator": [
+              "服部/あゆみ",
+              "泡坂/妻夫",
+              "たまい/まきこ",
+              "真雲/啓"
+            ],
+            "dcndl:creatorTranscription": [
+              "ハットリ アユミ",
+              "アワサカ ツマオ",
+              "タマイ マキコ",
+              "マグモ ケイ"
+            ],
+            "dcndl:seriesTitle": "サスペリアミステリーふろく ; 15巻7号",
+            "dcndl:seriesTitleTranscription": "サスペリア ミステリー フロク ; 001500-000007",
+            "dc:publisher": "秋田書店",
+            "dcndl:publicationPlace": "JA",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2002"
+            },
+            "dcterms:issued": "2002.6",
+            "dcndl:price": "[記載なし]",
+            "dc:extent": "96p ; 18cm",
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://www.library.pref.osaka.jp/bibj/?B16213401"
+            },
+            "dc:description": "2002"
+          },
+          {
+            "title": "アーカイブ室新聞",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000039-I11613856",
+            "description": "<p>(122),国立天文台,2009-01-23,<p><ul><li>タイトル：アーカイブ室新聞</li><li>責任表示：中桐正夫</li></ul>",
+            "author": "中桐正夫",
+            "category": [
+              "電子書籍・電子雑誌",
+              "デジタル"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000039-I11613856"
+            },
+            "pubDate": "Thu, 9 Jan 2025 07:20:48 +0900",
+            "dc:title": "アーカイブ室新聞",
+            "dcndl:volume": "(122)",
+            "dc:publisher": "国立天文台",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2009-01-23"
+            },
+            "dcterms:issued": "2009-01-23",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLJP",
+              "#text": "info:ndljp/pid/11613856"
+            },
+            "dc:description": [
+              "PMCミステリー、深い井戸の底から引き上げられたなぞの物体",
+              "2009-01-23"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://dl.ndl.go.jp/pid/11613856"
+            }
+          },
+          {
+            "title": "ジェネシス/アーカイヴ1967-75",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009012006",
+            "description": "<p>東芝EMI,1998,<p><ul><li>タイトル：ジェネシス/アーカイヴ1967-75</li><li>タイトル（読み）：アーカイヴ 1967 75 アーカイブ 1967 75</li></ul>",
+            "author": null,
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009012006"
+            },
+            "pubDate": "Sat, 25 Aug 2007 08:59:59 +0900",
+            "dc:title": "ジェネシス/アーカイヴ1967-75",
+            "dcndl:titleTranscription": "アーカイヴ 1967 75 アーカイブ 1967 75",
+            "dc:publisher": "東芝EMI",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1998"
+            },
+            "dcterms:issued": "1998.7",
+            "dc:extent": "録音ディスク 4枚",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "VJCP-36072"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000009012006"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "dc:description": [
+              "収録方式: 一部ライヴ収録",
+              "ジャンル: 洋楽ロック&ポップス",
+              "1998"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009012006"
+            }
+          },
+          {
+            "title": "アーサー・C.クラークのミステリー・ワールド",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001825310",
+            "description": "<p>角川書店,1986,4-04-841009-1<p><ul><li>タイトル：アーサー・C.クラークのミステリー・ワールド</li><li>タイトル（読み）：アーサー シー クラーク ノ ミステリー ワールド</li><li>責任表示：サイモン・ウェルフェア, ジョン・フェアリー 著,南山宏 訳</li></ul>",
+            "author": "Welfare, Simon,Fairley, John,南山, 宏, 1936-,サイモン・ウェルフェア, ジョン・フェアリー 著,南山宏 訳",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001825310"
+            },
+            "pubDate": "Thu, 8 Jan 1987 09:00:00 +0900",
+            "dc:title": "アーサー・C.クラークのミステリー・ワールド",
+            "dcndl:titleTranscription": "アーサー シー クラーク ノ ミステリー ワールド",
+            "dc:creator": [
+              "Welfare, Simon",
+              "Fairley, John",
+              "南山, 宏, 1936-"
+            ],
+            "dcndl:creatorTranscription": "ミナミヤマ, ヒロシ, 1936-",
+            "dc:publisher": "角川書店",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1986"
+            },
+            "dcterms:issued": "1986.10",
+            "dcndl:price": "2500円",
+            "dc:extent": "270p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-04-841009-1"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-04-841009-1"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000001825310"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "87002750"
+              }
+            ],
+            "dc:subject": [
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "M19"
+              },
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "404"
+              }
+            ],
+            "dc:description": [
+              "原タイトル: Arthur C.Clarke's mysterious world",
+              "1986"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=637725&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100434684"
+              },
+              {
+                "@rdf:resource": "https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100146556"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190234032"
+              },
+              {
+                "@rdf:resource": "https://www.library-archives.pref.fukui.lg.jp/wo/opc_srh/srh_detail/1103305431/"
+              },
+              {
+                "@rdf:resource": "https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"
+              },
+              {
+                "@rdf:resource": "http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100064523"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009610141699"
+              },
+              {
+                "@rdf:resource": "https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0272174/"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kyoto.jp/bib/?B10476268"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.osaka.jp/bib/?B10368487"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000070055105"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000842243"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100629970"
+              },
+              {
+                "@rdf:resource": "https://www2.hplibra.pref.hiroshima.jp/bib/?B10962440"
+              },
+              {
+                "@rdf:resource": "https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100438103"
+              },
+              {
+                "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810000068"
+              },
+              {
+                "@rdf:resource": "https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103095793"
+              },
+              {
+                "@rdf:resource": "https://www.lib.pref.miyazaki.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100509913"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001825310"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/12589666"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1970023484855313595"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784048410090"
+              }
+            ]
+          },
+          {
+            "title": "アーサー・C・クラークスペシャル",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484929562658",
+            "description": "<p>NHK出版,2020,9784142231096<p><ul><li>タイトル：アーサー・C・クラークスペシャル</li><li>タイトル（読み）：アーサー C クラーク スペシャル</li><li>責任表示：瀬名秀明著 ; 日本放送協会, NHK出版編集</li><li>NDC(10)：930.278</li><li>NDC(9)：930.278</li></ul>",
+            "author": "瀬名, 秀明,日本放送協会,日本放送出版協会,瀬名秀明著 ; 日本放送協会, NHK出版編集",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484929562658"
+            },
+            "pubDate": "Fri, 25 Sep 2026 11:13:32 +0900",
+            "dc:title": "アーサー・C・クラークスペシャル",
+            "dcndl:titleTranscription": "アーサー C クラーク スペシャル",
+            "dc:creator": [
+              "瀬名, 秀明",
+              "日本放送協会",
+              "日本放送出版協会"
+            ],
+            "dcndl:creatorTranscription": [
+              "セナ, ヒデアキ",
+              "ニホン ホウソウ キョウカイ",
+              "ニホン ホウソウ シュッパン キョウカイ"
+            ],
+            "dc:publisher": "NHK出版",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2020"
+            },
+            "dcterms:issued": "2020.3",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "9784142231096"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "9784142231096"
+              },
+              {
+                "@xsi:type": "dcndl:NIIBibID",
+                "#text": "BC05826345"
+              }
+            ],
+            "dc:subject": [
+              "Clarke,Arthur Charles",
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "930.278"
+              },
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "930.278"
+              },
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "930.28"
+              }
+            ],
+            "dc:description": [
+              "Eテレ 2020年3月 月曜日",
+              "アーサー・C・クラークとSFをめぐる略年譜: p42-43",
+              "2020"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009920749636"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001012134"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1970023484929562658"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784142231096"
+              }
+            ]
+          },
+          {
+            "title": "EARTH ARK-1986,9.20日本武道館に於ける実況録音-",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008912843",
+            "description": "<p>BMGファンハウス,1986,<p><ul><li>タイトル：EARTH ARK-1986,9.20日本武道館に於ける実況録音-</li><li>タイトル（読み）：アース アーク</li></ul>",
+            "author": null,
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008912843"
+            },
+            "pubDate": "Tue, 14 Aug 2007 08:59:59 +0900",
+            "dc:title": "EARTH ARK-1986,9.20日本武道館に於ける実況録音-",
+            "dcndl:titleTranscription": "アース アーク",
+            "dc:publisher": "BMGファンハウス",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1986"
+            },
+            "dcterms:issued": "1986.12",
+            "dc:extent": "録音ディスク 2枚",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "R25H-1003"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000008912843"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "dc:description": [
+              "収録時間: 42分31秒/42分41秒",
+              "ジャンル: 邦楽ポップス",
+              "1986"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008912843"
+            }
+          },
+          {
+            "title": "アースマインド : 地球は人類の廃棄を意図し始めた 地球ミステリー",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002083268",
+            "description": "<p>教育社,1991,4-315-51169-2<p><ul><li>タイトル：アースマインド : 地球は人類の廃棄を意図し始めた 地球ミステリー</li><li>タイトル（読み）：アース マインド</li><li>責任表示：ポール・デヴェロー [ほか]著,青木日出夫 訳</li></ul>",
+            "author": "Devereux, Paul,青木, 日出夫, 1936-2006,ポール・デヴェロー [ほか]著,青木日出夫 訳",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002083268"
+            },
+            "pubDate": "Sat, 26 Jan 2013 07:03:03 +0900",
+            "dc:title": "アースマインド : 地球は人類の廃棄を意図し始めた 地球ミステリー",
+            "dcndl:titleTranscription": "アース マインド",
+            "dc:creator": [
+              "Devereux, Paul",
+              "青木, 日出夫, 1936-2006"
+            ],
+            "dcndl:creatorTranscription": "アオキ, ヒデオ, 1936-2006",
+            "dc:publisher": "教育社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1991"
+            },
+            "dcterms:issued": "1991.1",
+            "dcndl:price": "1800円 (税込)",
+            "dc:extent": "306p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-315-51169-2"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-315-51169-2"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000002083268"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "91017903"
+              }
+            ],
+            "dc:subject": [
+              "地球",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "ME21"
+              },
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "450.4"
+              }
+            ],
+            "dc:description": [
+              "発売: 教育社出版サービス (東京)",
+              "1991"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.library.pref.hokkaido.jp/wo/opc_srh/"
+              },
+              {
+                "@rdf:resource": "https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100095893"
+              },
+              {
+                "@rdf:resource": "https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010222654"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.pref.yamagata.jp/winj/opac/switch-detail-iccap.do?bibid=1100227677"
+              },
+              {
+                "@rdf:resource": "https://www1.library.pref.gunma.jp/winj/opac/switch-detail-iccap.do?bibid=1100155867"
+              },
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=682862&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.chiba.lg.jp//licsxp-iopac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000494298"
+              },
+              {
+                "@rdf:resource": "https://catalog.library.metro.tokyo.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1101749328"
+              },
+              {
+                "@rdf:resource": "https://www.klnet.pref.kanagawa.jp/winj/opac/switch-detail-iccap.do?bibid=1100416839"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190389736"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.kawasaki.jp/bookdetail?num=995427&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=201249"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010216974/"
+              },
+              {
+                "@rdf:resource": "https://www.lib.pref.yamanashi.jp/licsxp-opac/WOpacMnuTopInitAction.do"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.nagano.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010192963"
+              },
+              {
+                "@rdf:resource": "http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1110002096"
+              },
+              {
+                "@rdf:resource": "http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1100601927"
+              },
+              {
+                "@rdf:resource": "https://www.shiga-pref-library.jp/wo/opc_srh/srh_detail/0574787/"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.osaka.jp/bib/?B10094917"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000227720"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000000090416"
+              },
+              {
+                "@rdf:resource": "http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1100160445"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1100054510"
+              },
+              {
+                "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1005010144178"
+              },
+              {
+                "@rdf:resource": "https://www2.hplibra.pref.hiroshima.jp/bib/?B11036733"
+              },
+              {
+                "@rdf:resource": "http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1100388887"
+              },
+              {
+                "@rdf:resource": "https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1100288280"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1104050066"
+              },
+              {
+                "@rdf:resource": "https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1100270586"
+              },
+              {
+                "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009810916641"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kumamoto.jp/winj/opac/switch-detail-iccap.do?bibid=1129045997"
+              },
+              {
+                "@rdf:resource": "https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1103159816"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002083268"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/13629036"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784315511697"
+              }
+            ]
+          },
+          {
+            "title": "アースマインド : 地球ミステリー : 地球は人類の廃棄を意図し始めた",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484870694954",
+            "description": "<p>教育社,1991,4315511692<p><ul><li>タイトル：アースマインド : 地球ミステリー : 地球は人類の廃棄を意図し始めた</li><li>タイトル（読み）：アース マインド : チキュウ ミステリー : チキュウ ワ ジンルイ ノ ハイキ オ イト シハジメタ</li><li>責任表示：ポール・デヴェロー, ジョン・スティール, デヴィッド・クブリン著 ; 青木日出夫訳</li></ul>",
+            "author": "Devereux, Paul,Steele, John,Kubrin, D.,青木, 日出夫,ポール・デヴェロー, ジョン・スティール, デヴィッド・クブリン著 ; 青木日出夫訳",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000136-I1970023484870694954"
+            },
+            "pubDate": "Fri, 25 Sep 2026 11:13:32 +0900",
+            "dc:title": "アースマインド : 地球ミステリー : 地球は人類の廃棄を意図し始めた",
+            "dcndl:titleTranscription": "アース マインド : チキュウ ミステリー : チキュウ ワ ジンルイ ノ ハイキ オ イト シハジメタ",
+            "dc:creator": [
+              "Devereux, Paul",
+              "Steele, John",
+              "Kubrin, D.",
+              "青木, 日出夫"
+            ],
+            "dcndl:creatorTranscription": "アオキ, ヒデオ",
+            "dc:publisher": "教育社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1991"
+            },
+            "dcterms:issued": "1991",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4315511692"
+              },
+              {
+                "@xsi:type": "dcndl:NIIBibID",
+                "#text": "BN0591363X"
+              }
+            ],
+            "dc:subject": [
+              "地球",
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "450.4"
+              }
+            ],
+            "dc:description": [
+              "発売: 教育社出版サービス",
+              "1991"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://cir.nii.ac.jp/crid/1970023484870694954"
+            }
+          },
+          {
+            "title": "嗚呼、青春の昭和プロ野球 : 心震えた名場面とその舞台裏 : 永久保存版",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034195910",
+            "description": "<p>宝島社,2025,978-4-299-07000-5<p><ul><li>タイトル：嗚呼、青春の昭和プロ野球 : 心震えた名場面とその舞台裏 : 永久保存版</li><li>タイトル（読み）：アア セイシュン ノ ショウワ プロヤキュウ : ココロ フルエタ メイバメン ト ソノ ブタイウラ : エイキュウ ホゾンバン</li><li>責任表示：別冊宝島編集部 編</li><li>NDC(10)：783.7</li></ul>",
+            "author": "宝島社,別冊宝島編集部 編",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034195910"
+            },
+            "pubDate": "Tue, 19 Aug 2025 23:18:03 +0900",
+            "dc:title": "嗚呼、青春の昭和プロ野球 : 心震えた名場面とその舞台裏 : 永久保存版",
+            "dcndl:titleTranscription": "アア セイシュン ノ ショウワ プロヤキュウ : ココロ フルエタ メイバメン ト ソノ ブタイウラ : エイキュウ ホゾンバン",
+            "dc:creator": "宝島社",
+            "dcndl:creatorTranscription": "タカラジマシャ",
+            "dc:publisher": "宝島社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2025"
+            },
+            "dcterms:issued": "2025.8",
+            "dcndl:price": "1300円",
+            "dc:extent": "111p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-299-07000-5"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "034195910"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24151934"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34760936"
+              }
+            ],
+            "dc:subject": [
+              "野球--日本--歴史--昭和後期",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "KD962"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "783.7"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "文献あり",
+              "2025"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1125022341"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000051887"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034195910"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971712744935991839"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784299070005"
+              }
+            ]
+          },
+          {
+            "title": "エルヴィス・プレスリー/アーティスト・オブ・ザ・センチュリー",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009028228",
+            "description": "<p>BMGファンハウス,1999,<p><ul><li>タイトル：エルヴィス・プレスリー/アーティスト・オブ・ザ・センチュリー</li><li>タイトル（読み）：アーティスト オブ ザ センチュリー</li></ul>",
+            "author": null,
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009028228"
+            },
+            "pubDate": "Tue, 28 Aug 2007 08:59:59 +0900",
+            "dc:title": "エルヴィス・プレスリー/アーティスト・オブ・ザ・センチュリー",
+            "dcndl:titleTranscription": "アーティスト オブ ザ センチュリー",
+            "dc:publisher": "BMGファンハウス",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1999"
+            },
+            "dcterms:issued": "1999.11",
+            "dc:extent": "録音ディスク 3枚",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "BVCM-37078"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000009028228"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "dc:description": [
+              "収録方式: [3]13) /ライヴ収録, 収録時間: 66分10秒/69分47秒/72分54秒",
+              "ジャンル: 洋楽ロック&ポップス",
+              "1999"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009028228"
+            }
+          },
+          {
+            "title": "エルヴィス・プレスリー/アーティスト・オブ・ザ・センチュリー(デラックス・エディション)",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009024738",
+            "description": "<p>BMGファンハウス,1999,<p><ul><li>タイトル：エルヴィス・プレスリー/アーティスト・オブ・ザ・センチュリー(デラックス・エディション)</li><li>タイトル（読み）：アーティスト オブ ザ センチュリー デラックス エディション</li></ul>",
+            "author": null,
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009024738"
+            },
+            "pubDate": "Tue, 28 Aug 2007 08:59:59 +0900",
+            "dc:title": "エルヴィス・プレスリー/アーティスト・オブ・ザ・センチュリー(デラックス・エディション)",
+            "dcndl:titleTranscription": "アーティスト オブ ザ センチュリー デラックス エディション",
+            "dc:publisher": "BMGファンハウス",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1999"
+            },
+            "dcterms:issued": "1999.8",
+            "dc:extent": "録音ディスク 3枚",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "BVCZ-37001"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000009024738"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "dc:description": [
+              "収録方式: [3]13) /ライヴ収録, 収録時間: 66分10秒/69分47秒/72分54秒",
+              "ジャンル: 洋楽ロック&ポップス",
+              "1999"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009024738"
+            }
+          },
+          {
+            "title": "アートでアソボウ! : わくわく工作あそび",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033942462",
+            "description": "<p>いかだ社,2025,978-4-87051-618-2<p><ul><li>タイトル：アートでアソボウ! : わくわく工作あそび</li><li>タイトル（読み）：アート デ アソボウ : ワクワク コウサクアソビ</li><li>責任表示：吉田未希子 著</li><li>NDC(10)：754.9</li></ul>",
+            "author": "吉田, 未希子, 1965-,吉田未希子 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I033942462"
+            },
+            "pubDate": "Fri, 7 Mar 2025 00:56:11 +0900",
+            "dc:title": "アートでアソボウ! : わくわく工作あそび",
+            "dcndl:titleTranscription": "アート デ アソボウ : ワクワク コウサクアソビ",
+            "dc:creator": "吉田, 未希子, 1965-",
+            "dcndl:creatorTranscription": "ヨシダ, ミキコ, 1965-",
+            "dcndl:edition": "図書館版",
+            "dc:publisher": "いかだ社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2025"
+            },
+            "dcterms:issued": "2025.4",
+            "dcndl:price": "2800円",
+            "dc:extent": "63p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-87051-618-2"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "033942462"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24088692"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34709320"
+              }
+            ],
+            "dc:subject": [
+              "工作",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y6"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "754.9"
+              }
+            ],
+            "dcndl:genre": "児童図書",
+            "dcndl:genreTranscription": "ジドウ トショ",
+            "dc:description": [
+              "出版",
+              "2025"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1120243621"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.miyagi.jp/winj/opac/switch-detail-iccap.do?bibid=1102607271"
+              },
+              {
+                "@rdf:resource": "https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009921160980"
+              },
+              {
+                "@rdf:resource": "https://www.library.fcs.ed.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001120342980"
+              },
+              {
+                "@rdf:resource": "https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000936482"
+              },
+              {
+                "@rdf:resource": "https://www.lib.pref.saitama.jp/winj/opac/switch-detail-iccap.do?bibid=1198511321"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001730141/"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.gifu.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1190886312"
+              },
+              {
+                "@rdf:resource": "https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000890909"
+              },
+              {
+                "@rdf:resource": "http://opac1.library.pref.mie.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113766918"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120658681"
+              },
+              {
+                "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812827278"
+              },
+              {
+                "@rdf:resource": "https://www.ehimetosyokan.jp/winj/opac/switch-detail-iccap.do?bibid=1120107333"
+              },
+              {
+                "@rdf:resource": "https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110624279"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I033942462"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971713287182608519"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784870516182"
+              }
+            ]
+          },
+          {
+            "title": "アートな時間 映画 ヘイトフル・エイト : 西部劇+密室ミステリー 刺激的なタランティーノ節",
+            "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I027112354",
+            "description": "<p><p><ul><li>タイトル：アートな時間 映画 ヘイトフル・エイト : 西部劇+密室ミステリー 刺激的なタランティーノ節</li><li>タイトル（読み）：アート ナ ジカン エイガ ヘイトフル ・ エイト : セイブゲキ+ミッシツ ミステリー シゲキテキ ナ タランティーノセツ</li><li>責任表示：野島 孝一</li></ul>",
+            "author": "野島 孝一,野島 孝一",
+            "category": [
+              "記事",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R000000004-I027112354"
+            },
+            "pubDate": "Wed, 24 Feb 2016 20:56:06 +0900",
+            "dc:title": "アートな時間 映画 ヘイトフル・エイト : 西部劇+密室ミステリー 刺激的なタランティーノ節",
+            "dcndl:titleTranscription": "アート ナ ジカン エイガ ヘイトフル ・ エイト : セイブゲキ+ミッシツ ミステリー シゲキテキ ナ タランティーノセツ",
+            "dc:creator": "野島 孝一",
+            "dcndl:publicationPlace": "JP",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLBibID",
+              "#text": "027112354"
+            },
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "ZD1"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R000000004-I027112354"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1523951029683220480"
+              }
+            ],
+            "dc:description": "掲載誌：エコノミスト 9(通号 4438) p.104"
+          },
+          {
+            "title": "アートな時間 ブラックボックス 音声分析捜査 : 新型機の墜落原因は何か リアルさを追求したミステリー",
+            "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I031914045",
+            "description": "<p><p><ul><li>タイトル：アートな時間 ブラックボックス 音声分析捜査 : 新型機の墜落原因は何か リアルさを追求したミステリー</li><li>タイトル（読み）：アート ナ ジカン ブラックボックス オンセイ ブンセキ ソウサ : シンガタキ ノ ツイラク ゲンイン ワ ナニ カ リアル サ オ ツイキュウ シタ ミステリー</li><li>責任表示：野島 孝一</li></ul>",
+            "author": "野島 孝一,野島 孝一",
+            "category": [
+              "記事",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R000000004-I031914045"
+            },
+            "pubDate": "Tue, 18 Jan 2022 19:16:20 +0900",
+            "dc:title": "アートな時間 ブラックボックス 音声分析捜査 : 新型機の墜落原因は何か リアルさを追求したミステリー",
+            "dcndl:titleTranscription": "アート ナ ジカン ブラックボックス オンセイ ブンセキ ソウサ : シンガタキ ノ ツイラク ゲンイン ワ ナニ カ リアル サ オ ツイキュウ シタ ミステリー",
+            "dc:creator": "野島 孝一",
+            "dcndl:publicationPlace": "JP",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLBibID",
+              "#text": "031914045"
+            },
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "ZD1"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R000000004-I031914045"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1520010381337640064"
+              }
+            ],
+            "dc:description": "掲載誌：エコノミスト 4(通号 4731) p.92-93"
+          },
+          {
+            "title": "アート・ブレイキー&ジ・アフロ・ドラム・アンサンブル/ジ・アフリカン・ビート",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008993740",
+            "description": "<p>東芝EMI,1994,<p><ul><li>タイトル：アート・ブレイキー&ジ・アフロ・ドラム・アンサンブル/ジ・アフリカン・ビート</li><li>タイトル（読み）：アート ブレイキーアンド ジ アフロ ドラム アンサンブル ジ アフリカン ビート</li></ul>",
+            "author": null,
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008993740"
+            },
+            "pubDate": "Thu, 23 Aug 2007 08:59:59 +0900",
+            "dc:title": "アート・ブレイキー&ジ・アフロ・ドラム・アンサンブル/ジ・アフリカン・ビート",
+            "dcndl:titleTranscription": "アート ブレイキーアンド ジ アフロ ドラム アンサンブル ジ アフリカン ビート",
+            "dc:publisher": "東芝EMI",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1994"
+            },
+            "dcterms:issued": "1994.1",
+            "dc:extent": "録音ディスク 1枚",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "TOCJ-4097"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000008993740"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "dc:description": [
+              "収録年月: 62.1",
+              "ジャンル: ジャズ&フュージョン",
+              "1994"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000008993740"
+            }
+          },
+          {
+            "title": "アート・ブレイキー時代",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029994662",
+            "description": "<p>ユニバーサルミュージック,2019,<p><ul><li>タイトル：アート・ブレイキー時代</li><li>タイトル（読み）：アート ブレイキー ジダイ</li><li>責任表示：アート・ブレイキー</li></ul>",
+            "author": "アート・ブレイキー",
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I029994662"
+            },
+            "pubDate": "Tue, 4 Feb 2020 00:37:28 +0900",
+            "dc:title": "アート・ブレイキー時代",
+            "dcndl:titleTranscription": "アート ブレイキー ジダイ",
+            "dc:publisher": "ユニバーサルミュージック",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2019"
+            },
+            "dcterms:issued": "2019.12",
+            "dcndl:price": "2000円",
+            "dc:extent": "録音ディスク 2枚 (159分)",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "UCCU-1619"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "029994662"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23327533"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=3001303007358"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I029994662"
+              }
+            ],
+            "dc:description": "2019"
+          },
+          {
+            "title": "アーバン熊の脅威 : 人間を恐れず都市部を歩く新世代が急増中!",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033263502",
+            "description": "<p>宝島社,2024,978-4-299-05197-4<p><ul><li>タイトル：アーバン熊の脅威 : 人間を恐れず都市部を歩く新世代が急増中!</li><li>タイトル（読み）：アーバングマ ノ キョウイ : ニンゲン オ オソレズ トシブ オ アルク シンセダイ ガ キュウゾウチュウ</li><li>責任表示：別冊宝島編集部 編</li><li>NDC(10)：654.8</li></ul>",
+            "author": "宝島社,別冊宝島編集部 編",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I033263502"
+            },
+            "pubDate": "Fri, 9 Feb 2024 20:43:42 +0900",
+            "dc:title": "アーバン熊の脅威 : 人間を恐れず都市部を歩く新世代が急増中!",
+            "dcndl:titleTranscription": "アーバングマ ノ キョウイ : ニンゲン オ オソレズ トシブ オ アルク シンセダイ ガ キュウゾウチュウ",
+            "dc:creator": "宝島社",
+            "dcndl:creatorTranscription": "タカラジマシャ",
+            "dc:publisher": "宝島社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2024"
+            },
+            "dcterms:issued": "2024.2",
+            "dcndl:price": "1300円",
+            "dc:extent": "111p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-299-05197-4"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "033263502"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23940786"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34565859"
+              }
+            ],
+            "dc:subject": [
+              "鳥獣害--日本",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "RB364"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "654.8"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "2024"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.plib.pref.aomori.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1120158455"
+              },
+              {
+                "@rdf:resource": "https://www.apl.pref.akita.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009921073098"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"
+              },
+              {
+                "@rdf:resource": "https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2764126"
+              },
+              {
+                "@rdf:resource": "https://www.tosyokan.pref.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1006000795160"
+              },
+              {
+                "@rdf:resource": "https://www.toshokan.city.shizuoka.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001103979539"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015474662"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001362008"
+              },
+              {
+                "@rdf:resource": "http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120420081"
+              },
+              {
+                "@rdf:resource": "http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110721700"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I033263502"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971430859807091766"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784299051974"
+              }
+            ]
+          },
+          {
+            "title": "アームド・フォーセス",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007411346",
+            "description": "<p>ビクターエンタテインメント,2004,<p><ul><li>タイトル：アームド・フォーセス</li><li>タイトル（読み）：アームド フォーセス</li><li>責任表示：エルヴィス・コステロ&ジ・アトラクションズ</li></ul>",
+            "author": "エルヴィス・コステロ&ジ・アトラクションズ",
+            "category": [
+              "録音資料",
+              "記録メディア"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007411346"
+            },
+            "pubDate": "Sat, 1 Oct 2005 01:04:53 +0900",
+            "dc:title": "アームド・フォーセス",
+            "dcndl:titleTranscription": "アームド フォーセス",
+            "dc:publisher": "ビクターエンタテインメント",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2004"
+            },
+            "dcterms:issued": "2004.5",
+            "dcndl:price": "3150円 (税込)",
+            "dc:extent": "録音ディスク 2枚 (93分)",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:RIS502",
+                "#text": "VICP-62705"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007411346"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20612436"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "YMC11"
+            },
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007411346"
+            },
+            "dc:description": "2004"
+          },
+          {
+            "title": "R&R",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I023799637",
+            "description": "<p>アスキー・メディアワークス,2012,978-4-04-886812-9<p><ul><li>タイトル：R&R</li><li>タイトル（読み）：アール アール</li><li>責任表示：静月遠火 [著]</li><li>シリーズ名：メディアワークス文庫 ; し2-3</li><li>シリーズ名（読み）：メディア ワークス ブンコ ; シ-2-3</li><li>NDC(9)：913.6</li></ul>",
+            "author": "静月, 遠火,静月遠火 [著]",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I023799637"
+            },
+            "pubDate": "Wed, 10 Oct 2012 20:59:11 +0900",
+            "dc:title": "R&R",
+            "dcndl:titleTranscription": "アール アール",
+            "dc:creator": "静月, 遠火",
+            "dcndl:creatorTranscription": "シズキ, トオカ",
+            "dcndl:seriesTitle": "メディアワークス文庫 ; し2-3",
+            "dcndl:seriesTitleTranscription": "メディア ワークス ブンコ ; シ-2-3",
+            "dc:publisher": [
+              "アスキー・メディアワークス",
+              "角川グループパブリッシング (発売)"
+            ],
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2012"
+            },
+            "dcterms:issued": "2012.7",
+            "dcndl:price": "590円",
+            "dc:extent": "303p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-04-886812-9"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "023799637"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "22135328"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "32786372"
+              }
+            ],
+            "dc:subject": [
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "KH561"
+              },
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "913.6"
+              }
+            ],
+            "dc:description": [
+              "著作目録あり",
+              "2012"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=255379&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000012562569"
+              },
+              {
+                "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009811575973"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I023799637"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971712334834892202"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/04886812A03787500000"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784048868129"
+              }
+            ]
+          },
+          {
+            "title": "Ｒの刻印　犯人当てミステリー　【電子オリジナル】解決編つき",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000137-I06A0000000001036112N",
+            "description": "<p>講談社,2026-07-30,<p><ul><li>タイトル：Ｒの刻印　犯人当てミステリー　【電子オリジナル】解決編つき</li><li>タイトル（読み）：アールノコクイン ハンニンアテミステリー デンシオリジナル カイケツヘンツキ</li><li>責任表示：ふじしろ　やまと 著・文・その他</li></ul>",
+            "author": "ふじしろ　やまと,ふじしろ　やまと 著・文・その他",
+            "category": [
+              "図書",
+              "電子書籍・電子雑誌",
+              "デジタル"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000137-I06A0000000001036112N"
+            },
+            "pubDate": "Wed, 5 Aug 2026 19:20:00 +0900",
+            "dc:title": "Ｒの刻印　犯人当てミステリー　【電子オリジナル】解決編つき",
+            "dcndl:titleTranscription": "アールノコクイン ハンニンアテミステリー デンシオリジナル カイケツヘンツキ",
+            "dc:creator": "ふじしろ　やまと",
+            "dcndl:creatorTranscription": "フジシロヤマト",
+            "dc:publisher": "講談社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2026-07-30"
+            },
+            "dcterms:issued": "2026-07-30",
+            "dc:description": [
+              "発売",
+              "2026-07-30"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://www.books.or.jp/book-details/06A0000000001036112N"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "query": "Pyth　初心者　短め",
+  "search_parameters": {
+    "langRestrict": "ja",
+    "printType": "books",
+    "orderBy": "relevance",
+    "maxResults": 20
+  },
+  "response": {
+    "kind": "books#volumes",
+    "totalItems": 1,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "9kdcEQAAQBAJ",
+        "etag": "Tore8T0P/X8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9kdcEQAAQBAJ",
+        "volumeInfo": {
+          "title": "生成AIと一緒に学ぶ Pythonふりがなプログラミング",
+          "authors": [
+            "リブロワークス"
+          ],
+          "publisher": "インプレス",
+          "publishedDate": "2025-03-19",
+          "description": "◆---------------------------------◆ AIが生成したプログラムを読んで、 しくみを理解して仕事に使おう!! ◆---------------------------------◆ 『生成AIと一緒に学ぶ Pythonふりがなプログラミング』は、生成AIを活用してPythonの基本を楽しく学べる新しいスタイルの学習書です。企業のDX推進課を舞台に、「AIでプログラムを生成する」→「生成されたコードを読んで、ふりがなをふってみる」→「しくみを理解する」という実践的な流れで進行。プログラムにふりがなをふることで理解が深まり、Pythonの基礎をしっかり身につけられます。 AI生成のコードは、意図通りに動かないこともありますが、それを修正したりカスタマイズしたりする力を養えるのがこの本の大きな魅力。「Pythonを仕事で使いたい」「入門書で挫折した経験がある」という方にぴったりです。具体的なミッションを解決しながら、プログラミングスキルを楽しくステップアップできます。生成AIと一緒に、Pythonの世界に飛び込んでみませんか？ 発行：インプレス",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9784295021414"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "4295021415"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 192,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9kdcEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9kdcEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=9kdcEQAAQBAJ&pg=PA3&dq=Pyth%E3%80%80%E5%88%9D%E5%BF%83%E8%80%85%E3%80%80%E7%9F%AD%E3%82%81&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=9kdcEQAAQBAJ&dq=Pyth%E3%80%80%E5%88%9D%E5%BF%83%E8%80%85%E3%80%80%E7%9F%AD%E3%82%81&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E7%94%9F%E6%88%90AI%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E5%AD%A6%E3%81%B6_Python%E3%81%B5%E3%82%8A.html?hl=&id=9kdcEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E7%94%9F%E6%88%90AI%E3%81%A8%E4%B8%80%E7%B7%92%E3%81%AB%E5%AD%A6%E3%81%B6_Python%E3%81%B5%E3%82%8A-sample-pdf.acsm?id=9kdcEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=9kdcEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>初心者</b>向けでありながら、業務での実用性も高い内容を目指した書籍です。生成 AI ... <b>Python</b>ふりがなプログラミング』は、オーソドックスに文法を説明する構成を採用しました。今回は文法説明は<b>短め</b> ... <b>Python</b>と生成 AIでDXして!」といわれて 002 003&nbsp;..."
+        }
+      }
+    ]
+  }
+}

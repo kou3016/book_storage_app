@@ -1,0 +1,1820 @@
+{
+  "query": "ホラー　コミック",
+  "search_parameters": {
+    "langRestrict": "ja",
+    "printType": "books",
+    "orderBy": "relevance",
+    "maxResults": 20
+  },
+  "response": {
+    "kind": "books#volumes",
+    "totalItems": 329,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "MTRuDwAAQBAJ",
+        "etag": "Byym+MKWIIY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MTRuDwAAQBAJ",
+        "volumeInfo": {
+          "title": "ホラーコミックレザレクション 1巻",
+          "authors": [
+            "星レン",
+            "呪みちる",
+            "西塚em",
+            "戸神重明",
+            "高港基資",
+            "高野美香",
+            "鯖玉弓",
+            "酒井康彰",
+            "財賀アカネ",
+            "GENk",
+            "黒川じょん",
+            "金風呂タロウ",
+            "オガツカヅオ",
+            "生熊奈央",
+            "晴風野田",
+            "鍋島真麻",
+            "ナチミサト",
+            "Charmal",
+            "祟山祟",
+            "高橋秀武",
+            "鯛夢",
+            "里見有",
+            "界賀巴里",
+            "五ノ井愛",
+            "黒実操",
+            "川勝徳重",
+            "駕籠真太郎",
+            "稲垣みさお",
+            "雨がっぱ少女群",
+            "谷口世磨"
+          ],
+          "publisher": "ビーグリー",
+          "description": "失われつつあるホラー漫画誌—…。その復活を目指し、インディーズによる新たな本格ホラー漫画専門誌『ホラーコミック レザレクション』の創刊プロジェクトが始動。創作ホラー･恐怖･怪奇･モダンホラー･幻想･心霊･都市伝説･サイコホラー…様々なホラージャンルを収録し、ホラー漫画の持つ可能性を追求した、禁断の魔書｢レザレクション｣。企画発案から制作まで約2年。クラウドファンディングFUNDIYでのプロジェクトにて、284名のサポートによって実現した、総勢30名の漫画家･作家･アーティストによる、ホラーコミック&ダークアートアンソロジーが、遂に誕生—…。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:R9JP03H_1_002gim4z"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 256,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MTRuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MTRuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=MTRuDwAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=MTRuDwAAQBAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%9B%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B6%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7.html?hl=&id=MTRuDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B6%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7-sample-epub.acsm?id=MTRuDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%83%AC%E3%82%B6%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7-sample-pdf.acsm?id=MTRuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=MTRuDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "失われつつあるホラー漫画誌—…。その復活を目指し、インディーズによる新たな本格ホラー漫画専門誌『ホラーコミック ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "64U7EAAAQBAJ",
+        "etag": "b4kJAXlIr4I",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/64U7EAAAQBAJ",
+        "volumeInfo": {
+          "title": "POPEYE(ポパイ) 2021年 9月号 [真夏のホラー大冒険。]",
+          "authors": [
+            "ポパイ編集部"
+          ],
+          "publisher": "マガジンハウス",
+          "publishedDate": "2021-08-06",
+          "description": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※本特集に掲載した情報は、2021年7月末日時点のものです。 ※特集『HORRORのABC・ぼくの好きなホラー・A HISTORY OF HORROR FILMS・30THINGS TO KNOW ABOUT STEPHENKING』で紹介されている一部写真は電子版では掲載されておりません。 ※電子版では、紙の雑誌と内容が一部異なる場合や、掲載されないページや特別付録が含まれない場合がございます。 ※本雑誌はカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。 今年の夏も暑いですね。そんな時は、じっくりひと夏かけて、ホラーの世界にはまってみるのはどうでしょうか。映画、ドラマ、文学、漫画、ゲーム・・・とさまざまなジャンルがありますが、手に汗握るドキドキ、ワクワク感はほかの何にも代えがたいもの。ヒヤッっとすると、ちょっとした納涼気分も味わえます。今年は気になる新作もたくさん発表されているし、あの名作が名作と言われる理由もじっくり確認したい。ホラーって、本当に深い世界です。さあ、夏のホラー大冒険へ。最高の夏の思い出に。 contents HORRORのABC 色あせない永遠の名作から最新ニュースまで。これだけは知っておきたい、ホラーの基本。 ぼくの好きなホラー こがけん、細野晴臣、藤原ヒロシ、小島秀夫、松本穂香、遠野遥（以上、敬称略）・・・ホラー好きの皆さんが教えてくれたオススメ作品と、その「見方」。 HORROR T-SHIRT CLUB ホラーＴシャツはいつの時代もかっこいいから、さりげなく着よう。 キーワードでめぐる20世紀ホラー映画史 ホラー映画はどのように進化してきたか？ 1919年の『カリガリ博士』から、ホラーの歴史を辿る。 まだまだ尽きないホラーの話 ホラーにまつわる気になることを徹底調査した、スペシャルなコラム集。 スティーヴン・キングについて知りたい30のこと 知ってそうで意外と知らない巨匠スティーヴン・キングについて、幻想文学研究家・翻訳家の風間賢二氏に聞く。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000054097103703701900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 131,
+          "printType": "BOOK",
+          "categories": [
+            "Design"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=64U7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=64U7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=64U7EAAAQBAJ&pg=PA19&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=64U7EAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=64U7EAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 700,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 630,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=64U7EAAAQBAJ&rdid=book-64U7EAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 700000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 630000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/POPEYE_%E3%83%9D%E3%83%91%E3%82%A4_2021%E5%B9%B4_9%E6%9C%88%E5%8F%B7_%E7%9C%9F%E5%A4%8F-sample-epub.acsm?id=64U7EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/POPEYE_%E3%83%9D%E3%83%91%E3%82%A4_2021%E5%B9%B4_9%E6%9C%88%E5%8F%B7_%E7%9C%9F%E5%A4%8F-sample-pdf.acsm?id=64U7EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=64U7EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ホラーコミック</b>出版社、 EC COMICS EC コミック。 HORROR FEATURING どれが嫌?やってはいけない D 「 DON&#39;T 」ホラー。 DON&#39;T 息をしてはいけない! EC コミック 1950 年に『 Tales from the Crypt The Haunt of Fear . The Vault of Horror 』の 3 誌&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "VxHFEAAAQBAJ",
+        "etag": "Ly5b+NfZvW4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/VxHFEAAAQBAJ",
+        "volumeInfo": {
+          "title": "BLエロ漫画家と少女漫画家とホラー漫画家のただれた日常【特典ペーパー付き】 (2)",
+          "authors": [
+            "あまおう"
+          ],
+          "publisher": "竹書房",
+          "publishedDate": "2023-06-15",
+          "description": "【読んでニンマリ！！ みんなで暮らして、みんなで働く漫画家男子ルームシェア！！（猫ちゃんが増えました！！）】 合コンに行ったり、取材旅行に出かけたり、猫ちゃんに襲来されたり・・・。 腐男子＋霊媒体質美少年＋大人なイケメンが3人寄れば・・・面白ハッピー指数は爆上がり！！ 漫画を応援してくれる友達も増えて、にぎやかライフは果てしなく――。 ジャンル違いの漫画家男子3人の本音だだ漏れ同居コメディ、完結！！ ※コミックス限定！！描き下ろし1コマ漫画×8p収録！！ 【pixivコミックのおすすめ30作品入り！】 ★単行本カバー下画像収録★ 特約店共通の描き下ろし特典ペーパーを収録しております。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000121559600200201900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 153,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.0.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "e714fa1b3e7fadd9_A",
+            "imageBubbleVersion": "e714fa1b3e7fadd9_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=VxHFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=VxHFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=VxHFEAAAQBAJ&pg=PA43&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=VxHFEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VxHFEAAAQBAJ",
+          "seriesInfo": {
+            "kind": "books#volume_series_info",
+            "bookDisplayNumber": "2",
+            "volumeSeries": [
+              {
+                "seriesId": "oAAxGwAAABCQGM",
+                "seriesBookType": "COLLECTED_EDITION",
+                "orderNumber": 2
+              }
+            ]
+          }
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 803,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 723,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=VxHFEAAAQBAJ&rdid=book-VxHFEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 803000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 723000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/BL%E3%82%A8%E3%83%AD%E6%BC%AB%E7%94%BB%E5%AE%B6%E3%81%A8%E5%B0%91%E5%A5%B3%E6%BC%AB%E7%94%BB%E5%AE%B6%E3%81%A8-sample-epub.acsm?id=VxHFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/BL%E3%82%A8%E3%83%AD%E6%BC%AB%E7%94%BB%E5%AE%B6%E3%81%A8%E5%B0%91%E5%A5%B3%E6%BC%AB%E7%94%BB%E5%AE%B6%E3%81%A8-sample-pdf.acsm?id=VxHFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=VxHFEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "あまおう. うわ!出版社からアンソロジー連絡来た... !<b>コミック</b>漫画複数の作者の短編作品を集めた漫画原作者デビューじゃん!やったな!!受信レ相互丸投げマッチングコミカライズの打診『幸せお嬢様アンソロジー<b>コミック</b>』使用させていただきたく、ご連絡&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "HyKfZwEACAAJ",
+        "etag": "ZqpDfHVZSLk",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HyKfZwEACAAJ",
+        "volumeInfo": {
+          "title": "赤んぼう少女",
+          "subtitle": "ホラーコミック傑作選第4集楳図かずお作品集",
+          "authors": [
+            "楳図かずお"
+          ],
+          "publishedDate": "1994",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4041608066"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784041608067"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 464,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=HyKfZwEACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=HyKfZwEACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%B5%A4%E3%82%93%E3%81%BC%E3%81%86%E5%B0%91%E5%A5%B3.html?hl=&id=HyKfZwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HyKfZwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "8bAvAQAAIAAJ",
+        "etag": "UsyZ61ZF7eg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/8bAvAQAAIAAJ",
+        "volumeInfo": {
+          "title": "怪奇幻想ホラーマンガ傑作選",
+          "subtitle": "名手13人が贈る恐怖の招待状",
+          "publishedDate": "1989",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "UCSD:31822004404786"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 520,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.8.2.0.preview.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=8bAvAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=8bAvAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=8bAvAQAAIAAJ&q=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=8bAvAQAAIAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E6%80%AA%E5%A5%87%E5%B9%BB%E6%83%B3%E3%83%9B%E3%83%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%AC%E5%82%91%E4%BD%9C%E9%81%B8.html?hl=&id=8bAvAQAAIAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=8bAvAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "名手13人が贈る恐怖の招待状. ギャッあなたっ。あなたっ。まてっどこへいく。またんかっ!!!終内なる仮面・ビッグ<b>コミック</b>増刊(小学館) / 1972 (昭和 47 )年 7 月 1 日号 288 殿様と奥様の間に女中が割って."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "plHxDwAAQBAJ",
+        "etag": "UZX4k/EXhQg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/plHxDwAAQBAJ",
+        "volumeInfo": {
+          "title": "小松左京の怖いはなし　ホラーコミック短編集",
+          "authors": [
+            "小松　左京",
+            "児嶋　都",
+            "稲垣　みさお",
+            "御茶漬　海苔",
+            "呪　みちる",
+            "未浩"
+          ],
+          "publisher": "KADOKAWA",
+          "description": "山歩きをしていた男が、何気なく踏み込んだ小道で、迷ってしまった。途中で出会う人は、「すぐそこ」というのだが……。「すぐそこ」／未浩 赤ん坊の夜泣きは「まめつま」という妖怪のせいだと祖母の助言に従い、母親の菊江は赤ん坊に米粒を投げると……。「まめつま」／御茶漬海苔 家の裏庭から出てきたのは、ナウマン象の化石だった。その後も掘り進めていくと、掘ればるほど、年代が新しくなっていく骨が見つかる。「骨」／呪みちる 霧が濃く立ち込めている山道で、家族4人で出かけた家族がいたが、妻と娘が消えてしまい……。「霧が晴れた時」／稲垣みさお 戦時中の芦屋で、空襲で家を失った僕は、ある邸宅に身を寄せることに。しかし、この家では、夜な夜な女の子の鳴き声が２階から聞こえてきて……「くだんのはは」／児嶋都 全５編＋解説付きで、思う存分、ＳＦの巨匠・小松左京のホラーの世界を堪能できます。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04000000A09463600000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 179,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.4.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "7cc1378f321b30ea_A",
+            "imageBubbleVersion": "7cc1378f321b30ea_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=plHxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=plHxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=plHxDwAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=plHxDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=plHxDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 660,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 594,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=plHxDwAAQBAJ&rdid=book-plHxDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 660000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 594000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B0%8F%E6%9D%BE%E5%B7%A6%E4%BA%AC%E3%81%AE%E6%80%96%E3%81%84%E3%81%AF%E3%81%AA%E3%81%97_%E3%83%9B%E3%83%A9%E3%83%BC-sample-epub.acsm?id=plHxDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%B0%8F%E6%9D%BE%E5%B7%A6%E4%BA%AC%E3%81%AE%E6%80%96%E3%81%84%E3%81%AF%E3%81%AA%E3%81%97_%E3%83%9B%E3%83%A9%E3%83%BC-sample-pdf.acsm?id=plHxDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=plHxDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "山歩きをしていた男が、何気なく踏み込んだ小道で、迷ってしまった。途中で出会う人は、「すぐそこ」というのだが……。「すぐそこ」／未浩 ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "D_snEAAAQBAJ",
+        "etag": "shtHa3fGkQg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/D_snEAAAQBAJ",
+        "volumeInfo": {
+          "title": "ＨＯＬＹ　ホラーコミック傑作選第１集",
+          "authors": [
+            "手塚　治虫",
+            "美内　すずえ",
+            "諸星　大二郎",
+            "日野　日出志",
+            "丸尾　末広",
+            "内田　春菊",
+            "花輪　和一",
+            "萩尾　望都"
+          ],
+          "publisher": "KADOKAWA",
+          "publishedDate": "1993-12-17",
+          "description": "1億円を強奪した男が深夜タクシーに乗り吉原に向かう途中、タクシー運転手が語りだした怪談が現実になり…虚構と現実のあわいの恐怖を描く手塚治虫「バイパスの夜」。 美内すずえ「白い影法師」は、転校した教室の空席に座った涼子は、徐々に空席の理由を知ることになり……学校の地縛霊、心霊現象の恐怖。唐の文宗の頃、長安に住む勤勉実直で豪傑な男が夜ごと怪異が起こるという廃墟で肝試しをすることに。そこで目にしたのは、ガミガミと怒る小さい自分の姿だった…諸星大二郎の幻想譚。徐々に巨大化・狂暴化するモンスターの恐怖を描いた日野日出志の「はつかねずみ」、花輪和一の「怨焔」はいわゆる「江戸怪談」を描く。味わいの違う８つの恐怖。決して古びることのない名人技を堪能できる一冊。 ※電子書籍には永井豪「霧の扉」は含まれていません。※電子書籍にのみ、著者のサインが収録されています（手塚治虫、美内すずえ、諸星大二郎、内田春菊、花輪和一、萩尾望都 敬称略6名） （C）Tezuka Productions 1969,2021 (C)Suzue Miuchi 1975,2021 (C)Daijiro Morohoshi 1988,2021 (C)Hideshi Hino 1970,2021 (C)Suehiro Maruo 1986,2021 (C)Shungicu Uchida 1989,2021 (C)Kazuichi Hanawa 1979,2021 (C)Moto Hagio 1971,2021",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04192401A09982000000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 321,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.4.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "51bad7d67cc0fd41_A",
+            "imageBubbleVersion": "51bad7d67cc0fd41_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=D_snEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=D_snEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=D_snEAAAQBAJ&printsec=frontcover&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=D_snEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=D_snEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 726,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 653,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=D_snEAAAQBAJ&rdid=book-D_snEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 726000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 653000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%A8%EF%BC%AF%EF%BC%AC%EF%BC%B9_%E3%83%9B%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E5%82%91%E4%BD%9C-sample-epub.acsm?id=D_snEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%EF%BC%A8%EF%BC%AF%EF%BC%AC%EF%BC%B9_%E3%83%9B%E3%83%A9%E3%83%BC%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E5%82%91%E4%BD%9C-sample-pdf.acsm?id=D_snEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=D_snEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "1億円を強奪した男が深夜タクシーに乗り吉原に向かう途中、タクシー運転手が語りだした怪談が現実になり…虚構と現実のあわいの恐怖を描く手塚治虫「バイパスの夜」。 ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "oTToEAAAQBAJ",
+        "etag": "s5PDWXhamtY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/oTToEAAAQBAJ",
+        "volumeInfo": {
+          "title": "POPEYE特別編集　若いうちにいい映画をたくさん観よう。",
+          "authors": [
+            "マガジンハウス"
+          ],
+          "publisher": "マガジンハウス",
+          "publishedDate": "2023-12-12",
+          "description": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 ※本ムックはカラーページを含みます。お使いの端末によっては、一部読みづらい場合がございます。 人生で大事なことはだいたい映画が教えてくれる。 だから、若いうちからたくさん観ておくに越したことはない。 「でも、どこから手を付けたら......」と悩む君のためのガイドブックがこちら。 ティーンムービー、韓流映画、MCU、そうそうホラーもお忘れなく。 すべて観ればシティライフがちょっとだけ豊かになるはず。 CONTENTS ■若いうちにいい映画をたくさん観よう。 ■これから映画を観る君へ。 バリー・ジェンキンス ■17歳の頃の自分に観せたい映画。 仲野太賀/木村和平/イシヅカユウ/ゆりやんレトリィバァ/友沢こたお/小野莉奈/ ermhoi/荘子/it/島口大樹/滝沢カレン/井之脇 海/福本莉子/甫木元 空/BIEN ■人生で大事なことは映画が教えてくれた。 ライムスター宇多丸/大島依提亜/増井岳人/大友良英/中田秀夫/真壁刀義/ みうらじゅん/石橋英子/森田るり ■青春映画スクラップブック ■そもそも青春って何ですか、ミスター PTA? ポール・トーマス・アンダーソン ■Kカルチャーとめくるめく韓国映画。 ■アメコミ映画でLET’S白熱教室! 王谷 晶/篠原雅武/河野真太郎/小川公代/井上太一/川野芽生/中村一成 ■男は黙ってシャイニング。 ■キーワードで巡る20世紀のホラー映画史。 ■ぼくの好きなホラー。 青木 柚/松本穂香/こがけん/小田原愛美/東郷清丸/ 細野晴臣/コンタン・シャンブリ/佐藤 拓/藤原ヒロシ ■ホラー1週間日記。 不吉霊二/徳利/後藤有哉 ■知ればもっと楽しくなるHORRORのキホン。 ■スティーヴン・キングについて知りたい30のこと。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000148051500100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 104,
+          "printType": "BOOK",
+          "categories": [
+            "Performing Arts"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=oTToEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=oTToEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=oTToEAAAQBAJ&pg=PA83&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=oTToEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oTToEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1100,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 990,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=oTToEAAAQBAJ&rdid=book-oTToEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1100000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 990000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/POPEYE%E7%89%B9%E5%88%A5%E7%B7%A8%E9%9B%86_%E8%8B%A5%E3%81%84%E3%81%86%E3%81%A1%E3%81%AB%E3%81%84%E3%81%84-sample-epub.acsm?id=oTToEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/POPEYE%E7%89%B9%E5%88%A5%E7%B7%A8%E9%9B%86_%E8%8B%A5%E3%81%84%E3%81%86%E3%81%A1%E3%81%AB%E3%81%84%E3%81%84-sample-pdf.acsm?id=oTToEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=oTToEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ホラーコミック</b>出版社、 EC コミック。 HORROR NO . 39 NOV THE VAULT OF 10 HORROR FEATURING M SCREAMING GEORGE DON&#39;T どれが嫌?やってはいけない「 DON&#39;T 」ホラー。息をしてはいけない! EC コミック 1950 年に『 Tales from the Crypt The Haunt&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "9HCiEAAAQBAJ",
+        "etag": "yJFMHvnIvw8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9HCiEAAAQBAJ",
+        "volumeInfo": {
+          "title": "ホラー シルキー Vol.19",
+          "authors": [
+            "永野あかね",
+            "大橋薫",
+            "松本夏実",
+            "楠桂",
+            "永久保貴一",
+            "冬森雪湖",
+            "仲村健史",
+            "石原苑子"
+          ],
+          "publisher": "白泉社",
+          "publishedDate": "2022-12-21",
+          "description": "オール新作・描き下ろしで、ホラー系コンテンツをお送りするweb雑誌ホラーシルキー、Vol.19をお届けします。永野あかね「みかんかっぱ」は、しおりの妹、大学生のいのりが、みかんかっぱと色違いの妖怪、ライムかっぱに出会います。佳境の大橋薫「禁忌怪談」は、ひらさか町を終わらせる、と、突如暴走し始めた山本充を黄泉香が体を張って止めようと立ち向かいます。松本夏実「夏実のゆるふわ怪談」は、怪談大好き松本夏実先生のいとこが人気霊能者の助手になって体験した興味深いお話を語って頂きます。楠桂先生はおれん家フォークロアがお休みで「聞き耳怪奇譚」の２作目です。刃物を持って死んだ青年とその死を哀しむ母親の秘密を、死者の語る言葉が聞こえるヒロインが聞き解いていきます。永久保貴一「変幻退魔夜行 カルラ舞う！」は、信州へ。松本の高校に潜入しようとする近江を怪しい敵が襲います。占い企画「マジメに占ってもらいました７」は、仲村さんの知り合いの漫画家・冬森雪湖先生が登場。ホロスコープから仕事運を占ってもらっています。読者体験談を募集した「石原苑子のふしぎなはなし」は、今回も読者の応募作品を２つ紹介しています。どの作品も個性的で読み応えがありますし、この雑誌版を購読されたほうが、４本分のお値段で６本も読め、３割引き以上の価値があってゼッタイにお得です。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000067861301901901900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 210,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "b0e7942202d1db71_A",
+            "imageBubbleVersion": "b0e7942202d1db71_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9HCiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9HCiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=9HCiEAAAQBAJ&pg=PT23&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=9HCiEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9HCiEAAAQBAJ",
+          "seriesInfo": {
+            "kind": "books#volume_series_info",
+            "bookDisplayNumber": "19",
+            "volumeSeries": [
+              {
+                "seriesId": "H3UqGwAAABA0bM",
+                "seriesBookType": "COLLECTED_EDITION",
+                "orderNumber": 19
+              }
+            ]
+          }
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 440,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 396,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=9HCiEAAAQBAJ&rdid=book-9HCiEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 440000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 396000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC_%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC_Vol_19-sample-epub.acsm?id=9HCiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC_%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC_Vol_19-sample-pdf.acsm?id=9HCiEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=9HCiEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... ホラー・ウェブ・マガジンから傑作集が登場!ホラーシルキー増刊「戦戦恐恐」 Vol.3 配信開始! vol . 3 ホラー増刊戦恋ホラー&amp;サスペンス傑作選!「からくりお嬢様』ドナドナの樹』<b>ホラーコミック</b>の名作・傑作を集めた増刊を配信!あのとき読んだ漫画は&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "749nDwAAQBAJ",
+        "etag": "W+XLFEuT3FA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/749nDwAAQBAJ",
+        "volumeInfo": {
+          "title": "All Over クトゥルー -クトゥルー神話作品大全-",
+          "authors": [
+            "森瀬繚"
+          ],
+          "publisher": "三才ブックス",
+          "publishedDate": "2018-06-28",
+          "description": "クトゥルー神話のだいたいすべてがここに! 「クトゥルー神話」はH・P・ラヴクラフトにより創造され、数々の作品を通じて語り継がれ、発展してきた。 本書では日本国内で発売された古今のクトゥルー神話作品を網羅すべく、1300作以上を解説! 小説のみならず、コミック・映画・ゲームなどもカバーし、現在に至るまでの神話体系の流れを総攬する。 長年クトゥルー神話を研究してきた著者の集大成! ●クリエイターインタビュー ラムジー・キャンベル ブライアン・ラムレイ 菊地秀行 ほか ●特別収録コミック 矢野健太郎「邪神伝説外伝 ティラム・バラム」 雑誌連載『ゲームジョッキー』において、PCゲーム『ティラムバラム』の紹介マンガとして制作された「邪神伝説」シリーズの外伝的な作品。 コミックス化されなかった幻の作品を書籍初収録! ●電子書籍版特典 「『クトゥルー神話作品総カタログ』掲載作品一覧」",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:SANSAGP0000000000647"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 508,
+          "printType": "BOOK",
+          "categories": [
+            "Fiction"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=749nDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=749nDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=749nDwAAQBAJ&pg=PA83&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=749nDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=749nDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2200,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1980,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=749nDwAAQBAJ&rdid=book-749nDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2200000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1980000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/All_Over_%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC_%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC-sample-epub.acsm?id=749nDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/All_Over_%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC_%E3%82%AF%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC-sample-pdf.acsm?id=749nDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=749nDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ホラーコミック</b>だった。 1950 年代、アメリカの青少年の間では、血生臭い事件でいっぱいのクライムコミックや、当時の基準で言えば残虐なゴア描写に溢れた<b>ホラーコミック</b>が大歓迎された。熱狂的な読者の中には、少年時代のスティーヴン・キングも含まれる&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "r3txDgAAQBAJ",
+        "etag": "Ao4YElDi8eE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/r3txDgAAQBAJ",
+        "volumeInfo": {
+          "title": "子どもというレトリック　無垢の誘惑",
+          "authors": [
+            "中河伸俊",
+            "永井良和"
+          ],
+          "publisher": "青弓社",
+          "publishedDate": "1993-07-20",
+          "description": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 子どもは無垢だから保護しなければならないというイメージは、近代社会の発明品だ──。有害図書・ポルノ追放運動から少年司法までの「まなざし」の読解をとおし、子どもを取り巻く現代社会の言説の政治性を浮き彫りにする。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000027015600100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 243,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.2.0.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=r3txDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=r3txDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=r3txDgAAQBAJ&pg=PA149&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=r3txDgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r3txDgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 2420,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 2178,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=r3txDgAAQBAJ&rdid=book-r3txDgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 2420000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 2178000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%A8%E3%81%84%E3%81%86%E3%83%AC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF_%E7%84%A1%E5%9E%A2-sample-epub.acsm?id=r3txDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%AD%90%E3%81%A9%E3%82%82%E3%81%A8%E3%81%84%E3%81%86%E3%83%AC%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF_%E7%84%A1%E5%9E%A2-sample-pdf.acsm?id=r3txDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=r3txDgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... ホラーとパロディの親しい関係に注意を喚起する。ホラーはこのうえなく自意識的なメディアで、自己を戯画化する傾向は、とくに読者との関係のなかに現われるというのだ。コミックの批判者たちは、<b>ホラー</b>・<b>コミック</b>が、良心を衰弱させ、無垢を破壊し、道徳&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "GamNEQAAQBAJ",
+        "etag": "Irzk2iRqHO8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/GamNEQAAQBAJ",
+        "volumeInfo": {
+          "title": "Nemuki+ (ネムキプラス) 2025年11月号 [雑誌]",
+          "authors": [
+            "Nemuki+編集部"
+          ],
+          "publisher": "朝日新聞出版",
+          "publishedDate": "2025-10-14",
+          "description": "※電子版では一部未収録の内容があります 漫画·星見ゆいか／原作·白川紺子 『花菱夫妻の退魔帖』 原作/化物·中山昌亮／漫画·さおとめ愛 『末裔のほのか』 高山しのぶ 『さきたま』 猪川朱美 『川辺のエヴァと異人たち』 今市子 『百鬼夜行抄』 漫画·AKRU／原作·護玄 『因と聿の事件簿 水漬』 吉川うたた 『すっくと狐 辰狐奇譚』 尾羊英 『落ちぶれゼウスと奴隷の子』 篠原烏童 『東京潮汐 トーキョー・タイド』 松浦はこ 『こよみごのみ』 増村十七 『花四段といっしょ』 せ ん 『そして善き王になる』",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:02582511111210010000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 404,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "d66781f61230e9b5_A",
+            "imageBubbleVersion": "d66781f61230e9b5_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=GamNEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=GamNEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=GamNEQAAQBAJ&pg=PA4&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=GamNEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GamNEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 660,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 594,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=GamNEQAAQBAJ&rdid=book-GamNEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 660000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 594000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/Nemuki+_%E3%83%8D%E3%83%A0%E3%82%AD%E3%83%97%E3%83%A9%E3%82%B9_2025%E5%B9%B411%E6%9C%88-sample-epub.acsm?id=GamNEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/Nemuki+_%E3%83%8D%E3%83%A0%E3%82%AD%E3%83%97%E3%83%A9%E3%82%B9_2025%E5%B9%B411%E6%9C%88-sample-pdf.acsm?id=GamNEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=GamNEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Nemuki+編集部. 第朝日<b>ホラーコミック</b>大賞台開催中!!応募期間: 8 月 7 日(木) ~ 10 月 31 日(金)第 4 回目を迎えた朝日<b>ホラーコミック</b>大賞最恐に怖い話をお待ちしております!!!イラスト投稿サイト pixiv にて「マンガ部門」か「原作部門」へ作品を投稿する&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "CzZsEQAAQBAJ",
+        "etag": "MO4PBggzH8k",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/CzZsEQAAQBAJ",
+        "volumeInfo": {
+          "title": "ホラー シルキー Vol.42",
+          "authors": [
+            "永久保貴一",
+            "楠桂",
+            "大橋薫",
+            "さちみりほ",
+            "愛田真夕美",
+            "緒形裕美",
+            "かずはしとも",
+            "松本夏実",
+            "中津賢也",
+            "仲村健史",
+            "桑原水菜",
+            "浜田翔子",
+            "白井幸子",
+            "美中"
+          ],
+          "publisher": "白泉社",
+          "publishedDate": "2025-07-13",
+          "description": "☆ホラー・ダーク系コンテンツをお送りするweb雑誌ホラーシルキーvol.42 永久保貴一「幽世の扉」 さちみりほ「夢やしきへようこそ～花里編～」新連載！ 桑原水菜×浜田翔子「炎の蜃気楼 【新装版】」再録集中掲載再開！ 大橋薫「呪殺ナビ～ラッキー神田守の呪われ備忘録～」 松本夏実「晴明様のＪＫ花嫁」 中津賢也×仲村健史「占人に聞いてみよう」 楠桂「怪物は泣きじゃくる」 美中「人魚と逃避リーマンのあまい海暮らし」 緒形裕美「信奴受胎」 かずはしとも「狼と赤ずきんちゃん」 白井幸子「エターナルグリーン」 愛田真夕美「チャイナ・ドール」（前） 表紙：永久保貴一",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000067861304204201900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 433,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "70f0bb37fa39acd8_A",
+            "imageBubbleVersion": "70f0bb37fa39acd8_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CzZsEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CzZsEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=CzZsEQAAQBAJ&pg=PT34&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=CzZsEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CzZsEQAAQBAJ",
+          "seriesInfo": {
+            "kind": "books#volume_series_info",
+            "bookDisplayNumber": "42",
+            "volumeSeries": [
+              {
+                "seriesId": "H3UqGwAAABA0bM",
+                "seriesBookType": "COLLECTED_EDITION",
+                "orderNumber": 42
+              }
+            ]
+          }
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 440,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 396,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=CzZsEQAAQBAJ&rdid=book-CzZsEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 440000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 396000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC_%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC_Vol_42-sample-epub.acsm?id=CzZsEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC_%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC_Vol_42-sample-pdf.acsm?id=CzZsEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=CzZsEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... , 美中. 永久保貴一の描く実話怪談<b>コミック</b>! Horro Silky 見聞きした恐怖の実話体験談が<b>マンガ</b>に!<b>ホラー</b>漫画の巨匠・永久保貴一が実際に恐怖耳袋永久保貴一 Takakazu Nagakubo 電子<b>コミック</b>「恐怖耳袋」大好評配信中!!! ある日美食家の王は大好評配."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "FF1jDwAAQBAJ",
+        "etag": "xkv8X/iioQA",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/FF1jDwAAQBAJ",
+        "volumeInfo": {
+          "title": "伊藤潤二研究　ホラーの深淵から",
+          "authors": [
+            "Nemuki+編集部"
+          ],
+          "publisher": "株式会社朝日新聞出版",
+          "publishedDate": "2017-12-20",
+          "description": "2018年１月７日からテレビアニメ（TOKYO MX）の放映も決定し、ますます注目を浴びるホラー漫画界の異才・伊藤潤二。その作品世界を網羅した完全読本が画業30周年を記念して発売。ロングインタビュー、単行本未収録作品、特別寄稿の記事など豪華掲載!!",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:02214244111210010000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 250,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.6.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=FF1jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=FF1jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=FF1jDwAAQBAJ&pg=PA12&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=FF1jDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FF1jDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1430,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1287,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=FF1jDwAAQBAJ&rdid=book-FF1jDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1430000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1287000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E4%BC%8A%E8%97%A4%E6%BD%A4%E4%BA%8C%E7%A0%94%E7%A9%B6_%E3%83%9B%E3%83%A9%E3%83%BC%E3%81%AE%E6%B7%B1%E6%B7%B5%E3%81%8B-sample-epub.acsm?id=FF1jDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E4%BC%8A%E8%97%A4%E6%BD%A4%E4%BA%8C%E7%A0%94%E7%A9%B6_%E3%83%9B%E3%83%A9%E3%83%BC%E3%81%AE%E6%B7%B1%E6%B7%B5%E3%81%8B-sample-pdf.acsm?id=FF1jDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=FF1jDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ホラー</b>漫画界を牽引する存在になっていた。見た者を一瞬で恐怖に包み、虜にしてきた「富江」「うずまき」などの、美しくも ... <b>コミック</b>スピリッツ』にて「ギョ」の連載開始。 2008 年「伊藤潤二の猫日記よん&amp;むー」を執筆。 2010 年『ビッグ<b>コミック</b>&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "HjP7EAAAQBAJ",
+        "etag": "eFkyGD8B7q4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/HjP7EAAAQBAJ",
+        "volumeInfo": {
+          "title": "ホラー シルキー Vol.27",
+          "authors": [
+            "亜月亮",
+            "大橋薫",
+            "中津賢也",
+            "仲村健史",
+            "永久保貴一",
+            "楠桂",
+            "永野あかね",
+            "桑原水菜",
+            "浜田翔子",
+            "愛田真夕美"
+          ],
+          "publisher": "白泉社",
+          "publishedDate": "2024-03-20",
+          "description": "☆ホラー・ダーク系コンテンツをお送りするweb雑誌ホラーシルキーvol.27 亜月亮「東京都市伝説」 大人気御礼！ 中津賢也＆仲村健史「占人に聞いてみよう」新企画スタート！ 永久保貴一「幽世の扉」 楠桂「おれん家フォークロア」 大橋薫「呪殺ナビ～ラッキー神田守の呪われ備忘録～」 永野あかね「みかんかっぱ」 桑原水菜×浜田翔子「炎の蜃気楼【新装版】」 愛田真夕美「狙われた女」",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000067861302702701900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 249,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "a6896ebc837127ec_A",
+            "imageBubbleVersion": "a6896ebc837127ec_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=HjP7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=HjP7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=HjP7EAAAQBAJ&pg=PT23&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=HjP7EAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HjP7EAAAQBAJ",
+          "seriesInfo": {
+            "kind": "books#volume_series_info",
+            "bookDisplayNumber": "27",
+            "volumeSeries": [
+              {
+                "seriesId": "H3UqGwAAABA0bM",
+                "seriesBookType": "COLLECTED_EDITION",
+                "orderNumber": 27
+              }
+            ]
+          }
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 440,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 396,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=HjP7EAAAQBAJ&rdid=book-HjP7EAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 440000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 396000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC_%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC_Vol_27-sample-epub.acsm?id=HjP7EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%83%9B%E3%83%A9%E3%83%BC_%E3%82%B7%E3%83%AB%E3%82%AD%E3%83%BC_Vol_27-sample-pdf.acsm?id=HjP7EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=HjP7EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... 貴一の描く実話怪談<b>コミック</b>! Horro Silky 見聞きした恐怖の実話体験談が<b>マンガ</b>に!<b>ホラー</b>漫画の巨匠・永久保貴一が実際に恐怖耳袋永久保貴一 Takakazu Nagakubo 電子<b>コミック</b>「恐怖耳袋」大好評配信中!!! Kaoru Ohashi ~ラッキー神田守の呪われ備忘録."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "hQzcXwAACAAJ",
+        "etag": "FlvPmqffwj8",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/hQzcXwAACAAJ",
+        "volumeInfo": {
+          "title": "Holy(ホーリー)",
+          "subtitle": "ホラーコミック傑作選 1",
+          "authors": [
+            "手塚治虫"
+          ],
+          "publishedDate": "1993",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4041924014"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784041924013"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 384,
+          "printType": "BOOK",
+          "categories": [
+            "Comic books, strips, etc"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=hQzcXwAACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=hQzcXwAACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Holy_%E3%83%9B%E3%83%BC%E3%83%AA%E3%83%BC.html?hl=&id=hQzcXwAACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=hQzcXwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "nwnQEAAAQBAJ",
+        "etag": "Y/mVV9zk+Ds",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nwnQEAAAQBAJ",
+        "volumeInfo": {
+          "title": "Nemuki+ (ネムキプラス) 2023年9月号 [雑誌]",
+          "authors": [
+            "Nemuki+編集部"
+          ],
+          "publisher": "朝日新聞出版",
+          "publishedDate": "2023-08-12",
+          "description": "※電子版では一部未収録の内容があります 今市子 『百鬼夜行抄』 カロ 『居酒屋バイトのしばさん』 原作・まさみ／漫画・伊藤三巳華 『ストロベリーミルクゴースト』 秋乃茉莉 『神苑の狩人』 猪川朱美 『鵼の絵師』 松本英子 『初老の娘と老母と老猫』 茂木清香 『ガールミートガール』 内田春菊 『呪いのワンピース』 トキワセイイチ 『ニョニャエニ ニョーニャン』 尾羊英 『落ちぶれゼウスと奴隷の子』 高山しのぶ 『さきたま』 明治カナ子 『使い魔サンマイと白の魔導師』 TONO 『アデライトの花』 吉富昭仁 『漂流日和』 魚住かおる 『伊集院月丸の残念な霊能稼業』",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:02582309111210010000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 456,
+          "printType": "BOOK",
+          "categories": [
+            "Comics & Graphic Novels"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.0.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": true,
+            "containsImageBubbles": true,
+            "epubBubbleVersion": "8a5ce06efd73e941_A",
+            "imageBubbleVersion": "8a5ce06efd73e941_A"
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nwnQEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nwnQEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=nwnQEAAAQBAJ&pg=PA2&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=nwnQEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nwnQEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 630,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 567,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=nwnQEAAAQBAJ&rdid=book-nwnQEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 630000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 567000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/Nemuki+_%E3%83%8D%E3%83%A0%E3%82%AD%E3%83%97%E3%83%A9%E3%82%B9_2023%E5%B9%B49%E6%9C%88-sample-epub.acsm?id=nwnQEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/Nemuki+_%E3%83%8D%E3%83%A0%E3%82%AD%E3%83%97%E3%83%A9%E3%82%B9_2023%E5%B9%B49%E6%9C%88-sample-pdf.acsm?id=nwnQEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=nwnQEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ホラーコミック</b>大賞」を開催中!!応募部門マンガ部門実体験、もしくはあなたの考えた怖い話をマンガで描いてください。賞原作 ... <b>ホラーコミック</b>大賞( 1 名)賞金 100 万円/『 Nemuki + 』または『 HONKOWA 』へ掲載/担当がつき連載を検討☆第 3 回&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "dTS8oAEACAAJ",
+        "etag": "UOUHo4hMhpU",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/dTS8oAEACAAJ",
+        "volumeInfo": {
+          "title": "閲覧注異",
+          "subtitle": "リアル実話ホラーコミック : グラフィック・ドキュメント",
+          "authors": [
+            "DAY WALKER."
+          ],
+          "publishedDate": "2014",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4253151485"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784253151481"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 204,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=dTS8oAEACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=dTS8oAEACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E9%96%B2%E8%A6%A7%E6%B3%A8%E7%95%B0.html?hl=&id=dTS8oAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=dTS8oAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "U5tnDwAAQBAJ",
+        "etag": "OH2xpT3Zizw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/U5tnDwAAQBAJ",
+        "volumeInfo": {
+          "title": "サイゾー 2015年 2月号",
+          "authors": [
+            "サイゾー編集部"
+          ],
+          "publisher": "サイゾー",
+          "publishedDate": "2015-01-19",
+          "description": "※紙版とは一部、記事の内容が異なります。 「なぜ、国民的アイドルのゴシップは、一部の週刊誌でしか報じられないのか？」巷に溢れる情報を独自の切り口で検証し、既存のマスメディアが報道してこなかった記事を提供する月刊誌です。横並びになりがちな通り一遍の情報では物足りない方は、ぜひともサイゾーによるニュースの真相・深層に迫る記事をお楽しみください。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:CYZOJGP0000000000024"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 135,
+          "printType": "BOOK",
+          "categories": [
+            "Social Science"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.4.3.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=U5tnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=U5tnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=U5tnDwAAQBAJ&pg=PA41&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=U5tnDwAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=U5tnDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 798,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 718,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=U5tnDwAAQBAJ&rdid=book-U5tnDwAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 798000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 718000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B5%E3%82%A4%E3%82%BE%E3%83%BC_2015%E5%B9%B4_2%E6%9C%88%E5%8F%B7-sample-epub.acsm?id=U5tnDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E3%82%B5%E3%82%A4%E3%82%BE%E3%83%BC_2015%E5%B9%B4_2%E6%9C%88%E5%8F%B7-sample-pdf.acsm?id=U5tnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=U5tnDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>ホラーマンガ</b>の枠にとらわれない斬新な表現方法は一読の価値あり。呪みちる/ソフトマジック( 01 年) / 1080 円○『青空の ... コミック誌「ハロウィン」(朝日ソノラマ)で&quot;楳図賞”の募集があったので、マンガ家になりたいというより「楳図先生に作品&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Je56zgEACAAJ",
+        "etag": "KJlhFd4YWdw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Je56zgEACAAJ",
+        "volumeInfo": {
+          "title": "閲覧注異",
+          "subtitle": "リアル実話ホラーコミック : グラフィック・ドキュメント",
+          "authors": [
+            "阿鬼乱太"
+          ],
+          "publishedDate": "2013",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4253151469"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784253151467"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "categories": [
+            "Comic books, strips, etc"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=Je56zgEACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=Je56zgEACAAJ&dq=%E3%83%9B%E3%83%A9%E3%83%BC%E3%80%80%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E9%96%B2%E8%A6%A7%E6%B3%A8%E7%95%B0.html?hl=&id=Je56zgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Je56zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      }
+    ]
+  }
+}

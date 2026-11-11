@@ -1,0 +1,98 @@
+{
+  "rss": {
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+    "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+    "@xmlns:dcterms": "http://purl.org/dc/terms/",
+    "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "@version": "2.0",
+    "channel": {
+      "title": "9784757442764 - 国立国会図書館サーチ OpenSearch",
+      "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?isbn=9784757442764",
+      "description": "Search results for isbn=9784757442764",
+      "language": "ja",
+      "openSearch:totalResults": "1",
+      "openSearch:startIndex": "1",
+      "openSearch:itemsPerPage": "200",
+      "item": {
+        "title": "英文「解釈」演習99〈発展レベル〉 : 正確に意味を把握するための",
+        "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034367707",
+        "description": "<p>アルク,2025,978-4-7574-4276-4<p><ul><li>タイトル：英文「解釈」演習99〈発展レベル〉 : 正確に意味を把握するための</li><li>タイトル（読み）：エイブン カイシャク エンシュウ キュウジュウキュウ ハッテン レベル : セイカク ニ イミ オ ハアク スル タメ ノ</li><li>責任表示：山崎竜成 著</li><li>シリーズ名：Realize : 気づきを得て夢を実現する</li><li>シリーズ名（読み）：リアライズ キズキ オ エテ ユメ オ ジツゲン スル</li><li>NDC(10)：837.5</li></ul>",
+        "author": "山崎竜成 著",
+        "category": [
+          "図書",
+          "紙"
+        ],
+        "guid": {
+          "@isPermaLink": "true",
+          "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034367707"
+        },
+        "pubDate": "Wed, 12 Nov 2025 20:34:52 +0900",
+        "dc:title": "英文「解釈」演習99〈発展レベル〉 : 正確に意味を把握するための",
+        "dcndl:titleTranscription": "エイブン カイシャク エンシュウ キュウジュウキュウ ハッテン レベル : セイカク ニ イミ オ ハアク スル タメ ノ",
+        "dcndl:seriesTitle": "Realize : 気づきを得て夢を実現する",
+        "dcndl:seriesTitleTranscription": "リアライズ キズキ オ エテ ユメ オ ジツゲン スル",
+        "dc:publisher": "アルク",
+        "dcndl:publicationPlace": "JP",
+        "dc:date": {
+          "@xsi:type": "dcterms:W3CDTF",
+          "#text": "2025"
+        },
+        "dcterms:issued": "2025.10",
+        "dcndl:price": "2000円",
+        "dc:extent": "222p",
+        "dc:identifier": [
+          {
+            "@xsi:type": "dcndl:ISBN",
+            "#text": "978-4-7574-4276-4"
+          },
+          {
+            "@xsi:type": "dcndl:NDLBibID",
+            "#text": "034367707"
+          },
+          {
+            "@xsi:type": "dcndl:JPNO",
+            "#text": "24185648"
+          },
+          {
+            "@xsi:type": "dcndl:TOHANMARCNO",
+            "#text": "34799169"
+          }
+        ],
+        "dc:subject": [
+          "英語 和訳",
+          {
+            "@xsi:type": "dcndl:NDLC",
+            "#text": "Y42"
+          },
+          {
+            "@xsi:type": "dcndl:NDC10",
+            "#text": "837.5"
+          }
+        ],
+        "dc:description": [
+          "出版",
+          "音声付 アプリ付",
+          "2025"
+        ],
+        "rdfs:seeAlso": [
+          {
+            "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120907462"
+          },
+          {
+            "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034367707"
+          },
+          {
+            "@rdf:resource": "https://cir.nii.ac.jp/crid/1970306686473123088"
+          },
+          {
+            "@rdf:resource": "https://www.books.or.jp/book-details/9784757442764"
+          }
+        ]
+      }
+    }
+  }
+}

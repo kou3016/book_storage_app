@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "SvKm0QEACAAJ",
+      "etag": "dToiumn3A9Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SvKm0QEACAAJ",
+      "volumeInfo": {
+        "title": "英文「解釈」演習99",
+        "subtitle": "発展レベル",
+        "authors": [
+          "山崎竜成"
+        ],
+        "publisher": "アルク",
+        "publishedDate": "2025-10",
+        "description": "正確に意味を把握するための英文「解釈」。豊富な問題演習で読解力を鍛える。ハイレベルな項目も徹底解説。重要な項目が繰り返し登場。手強い英文と向き合う99問の問題演習。",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "4757442769"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9784757442764"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SvKm0QEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SvKm0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ja",
+        "previewLink": "http://books.google.co.jp/books?id=SvKm0QEACAAJ&dq=isbn:4757442769&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.jp/books?id=SvKm0QEACAAJ&dq=isbn:4757442769&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87_%E8%A7%A3%E9%87%88_%E6%BC%94%E7%BF%9299.html?hl=&id=SvKm0QEACAAJ"
+      },
+      "saleInfo": {
+        "country": "JP",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "JP",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SvKm0QEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "正確に意味を把握するための英文「解釈」。豊富な問題演習で読解力を鍛える。ハイレベルな項目も徹底解説。重要な項目が繰り返し登場。手強い英文と向き合う99問の問題演習 ..."
+      }
+    }
+  ]
+}

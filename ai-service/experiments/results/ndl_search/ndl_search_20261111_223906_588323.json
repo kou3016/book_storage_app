@@ -1,0 +1,1011 @@
+{
+  "query": "英文解釈",
+  "search_parameters": {
+    "any": "英文解釈",
+    "cnt": 20
+  },
+  "response": {
+    "rss": {
+      "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+      "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+      "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+      "@xmlns:dcterms": "http://purl.org/dc/terms/",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "@version": "2.0",
+      "channel": {
+        "title": "英文解釈 - 国立国会図書館サーチ OpenSearch",
+        "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?any=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&cnt=20",
+        "description": "Search results for any=英文解釈 cnt=20",
+        "language": "ja",
+        "openSearch:totalResults": "3274",
+        "openSearch:startIndex": "1",
+        "openSearch:itemsPerPage": "20",
+        "item": [
+          {
+            "title": "アート式英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007426191",
+            "description": "<p>泰文堂,1976,<p><ul><li>タイトル：アート式英文解釈</li><li>タイトル（読み）：アートシキ エイブン カイシャク</li><li>責任表示：熊沢佐夫, 新村勝幸 共編</li></ul>",
+            "author": "熊沢佐夫, 新村勝幸 共編",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007426191"
+            },
+            "pubDate": "Thu, 5 Aug 2004 19:13:44 +0900",
+            "dc:title": "アート式英文解釈",
+            "dcndl:titleTranscription": "アートシキ エイブン カイシャク",
+            "dc:publisher": "泰文堂",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1976"
+            },
+            "dcterms:issued": "1976.11",
+            "dc:extent": "115p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007426191"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20625112"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "Y42"
+            },
+            "dc:description": [
+              "付属資料: 36p : 解答",
+              "1976"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007426191"
+            }
+          },
+          {
+            "title": "アート式英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428304",
+            "description": "<p>泰文堂,1979,<p><ul><li>タイトル：アート式英文解釈</li><li>タイトル（読み）：アートシキ エイブン カイシャク</li><li>責任表示：熊沢佐夫, 新村勝幸 共著</li></ul>",
+            "author": "熊沢佐夫, 新村勝幸 共著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428304"
+            },
+            "pubDate": "Thu, 5 Aug 2004 23:47:32 +0900",
+            "dc:title": "アート式英文解釈",
+            "dcndl:titleTranscription": "アートシキ エイブン カイシャク",
+            "dc:publisher": "泰文堂",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1979"
+            },
+            "dcterms:issued": "1979.12",
+            "dc:extent": "115p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007428304"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20625649"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "Y42"
+            },
+            "dc:description": [
+              "付属資料: 36p : 解答",
+              "1979"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428304"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14597366"
+              }
+            ]
+          },
+          {
+            "title": "愛国学園短期大学紀要",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000037618-i6845171",
+            "description": "<p>18(1)-21(1) 20010000-20040000,愛国学園短期大学,2001-2004,<p><ul><li>タイトル：愛国学園短期大学紀要</li><li>タイトル（読み）：アイコク ガクエン タンキ ダイガク キヨウ</li><li>責任表示：愛国学園短期大学紀要編集委員会 編</li></ul>",
+            "author": "愛国学園短期大学,愛国学園短期大学紀要編集委員会 編",
+            "category": [
+              "雑誌",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000037618-i6845171"
+            },
+            "pubDate": "Tue, 19 Jan 2010 08:59:59 +0900",
+            "dc:title": "愛国学園短期大学紀要",
+            "dcndl:titleTranscription": "アイコク ガクエン タンキ ダイガク キヨウ",
+            "dc:creator": "愛国学園短期大学",
+            "dcndl:creatorTranscription": "アイコク ガクエン タンキ ダイガク",
+            "dcndl:volume": "18(1)-21(1) 20010000-20040000",
+            "dc:publisher": "愛国学園短期大学",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2001-2004"
+            },
+            "dcterms:issued": "2001-2004",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLBibID",
+              "#text": "000000037618"
+            },
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "ZV1"
+            },
+            "dc:description": [
+              "本タイトル等は最新号による",
+              "1巻1号から23巻1号までの並列タイトル: Journal of Aikoku Gakuen Junior College",
+              "大きさの変更あり",
+              "2001-2004"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000037618-i6845171"
+            }
+          },
+          {
+            "title": "「赤毛」の英文解釈上の2つの問題箇所",
+            "link": "https://ndlsearch.ndl.go.jp/books/R000000004-I027431155",
+            "description": "<p><p><ul><li>タイトル：「赤毛」の英文解釈上の2つの問題箇所</li><li>タイトル（読み）：「 アカゲ 」 ノ エイブン カイシャク ジョウ ノ 2ツ ノ モンダイ カショ</li><li>責任表示：行方 昭夫</li></ul>",
+            "author": "行方 昭夫,行方 昭夫",
+            "category": [
+              "記事",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R000000004-I027431155"
+            },
+            "pubDate": "Sat, 25 Jun 2016 02:04:00 +0900",
+            "dc:title": "「赤毛」の英文解釈上の2つの問題箇所",
+            "dcndl:titleTranscription": "「 アカゲ 」 ノ エイブン カイシャク ジョウ ノ 2ツ ノ モンダイ カショ",
+            "dc:creator": "行方 昭夫",
+            "dcndl:publicationPlace": "JP",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLBibID",
+              "#text": "027431155"
+            },
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "ZK31"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R000000004-I027431155"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1523106604946378368"
+              }
+            ],
+            "dc:description": "掲載誌：Cap Ferrat : 日本モーム協会会誌 12 p.30-35"
+          },
+          {
+            "title": "アクティブ英語リーディング : 英文解釈革命・入門講座",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001836810",
+            "description": "<p>アルク,1985,4-900105-20-1<p><ul><li>タイトル：アクティブ英語リーディング : 英文解釈革命・入門講座</li><li>タイトル（読み）：アクティブ エイゴ リーディング</li><li>責任表示：吉田研作, 森田勝之 著</li><li>シリーズ名：アルクCBシリーズ</li></ul>",
+            "author": "吉田, 研作, 1948-,吉田研作, 森田勝之 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001836810"
+            },
+            "pubDate": "Thu, 12 Mar 1987 09:00:00 +0900",
+            "dc:title": "アクティブ英語リーディング : 英文解釈革命・入門講座",
+            "dcndl:titleTranscription": "アクティブ エイゴ リーディング",
+            "dc:creator": "吉田, 研作, 1948-",
+            "dcndl:creatorTranscription": "ヨシダ, ケンサク, 1948-",
+            "dcndl:seriesTitle": "アルクCBシリーズ",
+            "dc:publisher": "アルク",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1985"
+            },
+            "dcterms:issued": "1985.12",
+            "dcndl:price": "1300円",
+            "dc:extent": "213p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-900105-20-1"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-900105-20-1"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000001836810"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "87014262"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "http://websv.aichi-pref-library.jp/winj/opac/switch-detail-iccap.do?bibid=1100299601"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001836810"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14741659"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971430859775996675"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784900105201"
+              }
+            ],
+            "dc:description": "1985"
+          },
+          {
+            "title": "芦川の「基礎貫徹」英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002259898",
+            "description": "<p>三省堂,1993,4-385-22677-6<p><ul><li>タイトル：芦川の「基礎貫徹」英文解釈</li><li>タイトル（読み）：アシカワ ノ キソカン エイブン カイシャク</li><li>責任表示：芦川進一 著</li><li>シリーズ名：Juken library</li></ul>",
+            "author": "芦川, 進一, 1948-,芦川進一 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002259898"
+            },
+            "pubDate": "Fri, 4 Jul 2008 08:59:59 +0900",
+            "dc:title": "芦川の「基礎貫徹」英文解釈",
+            "dcndl:titleTranscription": "アシカワ ノ キソカン エイブン カイシャク",
+            "dc:creator": "芦川, 進一, 1948-",
+            "dcndl:creatorTranscription": "アシカワ, シンイチ, 1948-",
+            "dcndl:seriesTitle": "Juken library",
+            "dc:publisher": "三省堂",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1993"
+            },
+            "dcterms:issued": "1993.6",
+            "dcndl:price": "1200円 (税込)",
+            "dc:extent": "256p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-385-22677-6"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-385-22677-6"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000002259898"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "93052970"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002259898"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14740393"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784385226774"
+              }
+            ],
+            "dc:description": "1993"
+          },
+          {
+            "title": "新らしい英文解釈の研究",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I17111005010008367",
+            "description": "<p>盛林堂,1927,<p><ul><li>タイトル：新らしい英文解釈の研究</li><li>タイトル（読み）：アタラシイ エイブン カイシャク ノ ケンキュウ</li><li>責任表示：鈴木 得二 著</li><li>NDC(9)：837.5</li></ul>",
+            "author": "鈴木 得二,鈴木 得二 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000001-I17111005010008367"
+            },
+            "pubDate": "Thu, 21 Mar 2002 09:00:00 +0900",
+            "dc:title": "新らしい英文解釈の研究",
+            "dcndl:titleTranscription": "アタラシイ エイブン カイシャク ノ ケンキュウ",
+            "dc:creator": "鈴木 得二",
+            "dcndl:creatorTranscription": "スズキ トクジ",
+            "dc:publisher": "盛林堂",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1927"
+            },
+            "dcndl:price": "\\1.50(税込)",
+            "dc:extent": "357p ; 17cm",
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDC9",
+              "#text": "837.5"
+            },
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1005010008367/"
+            },
+            "dc:description": "1927"
+          },
+          {
+            "title": "新しい英文解釈法",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033591392",
+            "description": "<p>法文社,1947,<p><ul><li>タイトル：新しい英文解釈法</li><li>タイトル（読み）：アタラシイ エイブン カイシャクホウ</li><li>責任表示：[著者 山邊吉也], [池永勝雅]</li></ul>",
+            "author": "[著者 山邊吉也], [池永勝雅]",
+            "category": [
+              "図書",
+              "デジタル"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I033591392"
+            },
+            "pubDate": "Wed, 30 Oct 2024 00:45:06 +0900",
+            "dc:title": "新しい英文解釈法",
+            "dcndl:titleTranscription": "アタラシイ エイブン カイシャクホウ",
+            "dc:publisher": "法文社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1947"
+            },
+            "dcterms:issued": "昭和22 [1947]",
+            "dc:extent": "203 p.",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLBibID",
+              "#text": "033591392"
+            },
+            "dc:description": [
+              "出版",
+              "原資料所蔵機関: メリーランド大学プランゲ文庫",
+              "プランゲ文庫請求記号: 283-0018",
+              "CCD番号: B-571",
+              "CCD受入又は検閲日: 1948-06-29",
+              "検閲官印: J-5002",
+              "1947"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I033591392"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/13737194"
+              }
+            ]
+          },
+          {
+            "title": "新しい英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428294",
+            "description": "<p>問題編,三省堂,1980,<p><ul><li>タイトル：新しい英文解釈</li><li>タイトル（読み）：アタラシイ エイブン カイシャク</li><li>責任表示：杉山忠一 著</li><li>シリーズ名：ビーコン研究</li><li>シリーズ名（読み）：ビーコン ケンキュウ</li></ul>",
+            "author": "杉山忠一 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428294"
+            },
+            "pubDate": "Thu, 5 Aug 2004 23:59:23 +0900",
+            "dc:title": "新しい英文解釈",
+            "dcndl:titleTranscription": "アタラシイ エイブン カイシャク",
+            "dcndl:volume": "問題編",
+            "dcndl:seriesTitle": "ビーコン研究",
+            "dcndl:seriesTitleTranscription": "ビーコン ケンキュウ",
+            "dc:publisher": "三省堂",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1980"
+            },
+            "dcterms:issued": "1980.3",
+            "dc:extent": "98, 36p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007428294"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20625683"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "Y42"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428294"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14855234"
+              }
+            ],
+            "dc:description": "1980"
+          },
+          {
+            "title": "新しい英文解釈 : ビーコン研究",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428112",
+            "description": "<p>三省堂,1979,<p><ul><li>タイトル：新しい英文解釈 : ビーコン研究</li><li>タイトル（読み）：アタラシイ エイブン カイシャク</li><li>責任表示：杉山忠一 著</li><li>シリーズ名：Beacon series</li></ul>",
+            "author": "杉山忠一 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428112"
+            },
+            "pubDate": "Thu, 5 Aug 2004 23:15:37 +0900",
+            "dc:title": "新しい英文解釈 : ビーコン研究",
+            "dcndl:titleTranscription": "アタラシイ エイブン カイシャク",
+            "dcndl:seriesTitle": "Beacon series",
+            "dc:publisher": "三省堂",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1979"
+            },
+            "dcterms:issued": "1979.10",
+            "dc:extent": "330p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007428112"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20625582"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "Y42"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007428112"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14568381"
+              }
+            ],
+            "dc:description": "1979"
+          },
+          {
+            "title": "『嵐が丘』第9章を英文解釈する―I am Heathcliff を中心に",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1390855988801483904",
+            "description": "<p>2011-12-01,<p><ul><li>タイトル：『嵐が丘』第9章を英文解釈する―I am Heathcliff を中心に</li></ul>",
+            "author": "岩上 はる子",
+            "category": [
+              "記事",
+              "デジタル"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000136-I1390855988801483904"
+            },
+            "pubDate": "Fri, 25 Sep 2026 11:13:32 +0900",
+            "dc:title": "『嵐が丘』第9章を英文解釈する―I am Heathcliff を中心に",
+            "dc:creator": "岩上 はる子",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2011-12-01"
+            },
+            "dcterms:issued": "2011-12-01",
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://doi.org/10.57383/brontesocietyjapan.5.3_85"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1390855988801483904"
+              }
+            ],
+            "dc:description": "掲載誌：ブロンテ・スタディーズ 3 2011-12-01 p.85-96"
+          },
+          {
+            "title": "医系学部にでた英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796444",
+            "description": "<p>1,トーコー企画,1998,4-925151-05-3<p><ul><li>タイトル：医系学部にでた英文解釈</li><li>タイトル（読み）：イケイ ガクブ ニ デタ エイブン カイシャク</li><li>責任表示：小林公夫 著</li><li>シリーズ名：医系学部合格講義シリーズ ; 6</li><li>シリーズ名（読み）：イケイ ガクブ ゴウカク コウギ シリーズ</li></ul>",
+            "author": "小林, 公夫, 1956-,小林公夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796444"
+            },
+            "pubDate": "Thu, 14 Jun 2001 20:40:00 +0900",
+            "dc:title": "医系学部にでた英文解釈",
+            "dcndl:titleTranscription": "イケイ ガクブ ニ デタ エイブン カイシャク",
+            "dc:creator": "小林, 公夫, 1956-",
+            "dcndl:creatorTranscription": "コバヤシ, キミオ, 1956-",
+            "dcndl:volume": "1",
+            "dcndl:seriesTitle": "医系学部合格講義シリーズ ; 6",
+            "dcndl:seriesTitleTranscription": "イケイ ガクブ ゴウカク コウギ シリーズ",
+            "dc:publisher": "トーコー企画",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1998"
+            },
+            "dcterms:issued": "1998.10",
+            "dcndl:price": "2380円",
+            "dc:extent": "117p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-925151-05-3"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-925151-05-3"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000002796444"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "99108532"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796444"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14740870"
+              }
+            ],
+            "dc:description": "1998"
+          },
+          {
+            "title": "医系学部にでた英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796445",
+            "description": "<p>2,トーコー企画,1998,4-925151-06-1<p><ul><li>タイトル：医系学部にでた英文解釈</li><li>タイトル（読み）：イケイ ガクブ ニ デタ エイブン カイシャク</li><li>責任表示：小林公夫 著</li><li>シリーズ名：医系学部合格講義シリーズ ; 7</li><li>シリーズ名（読み）：イケイ ガクブ ゴウカク コウギ シリーズ</li></ul>",
+            "author": "小林, 公夫, 1956-,小林公夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796445"
+            },
+            "pubDate": "Thu, 14 Jun 2001 20:41:00 +0900",
+            "dc:title": "医系学部にでた英文解釈",
+            "dcndl:titleTranscription": "イケイ ガクブ ニ デタ エイブン カイシャク",
+            "dc:creator": "小林, 公夫, 1956-",
+            "dcndl:creatorTranscription": "コバヤシ, キミオ, 1956-",
+            "dcndl:volume": "2",
+            "dcndl:seriesTitle": "医系学部合格講義シリーズ ; 7",
+            "dcndl:seriesTitleTranscription": "イケイ ガクブ ゴウカク コウギ シリーズ",
+            "dc:publisher": "トーコー企画",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1998"
+            },
+            "dcterms:issued": "1998.10",
+            "dcndl:price": "2380円",
+            "dc:extent": "137p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-925151-06-1"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-925151-06-1"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000002796445"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "99108533"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796445"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14740871"
+              }
+            ],
+            "dc:description": "1998"
+          },
+          {
+            "title": "医系学部にでた英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796446",
+            "description": "<p>3,トーコー企画,1998,4-925151-07-X<p><ul><li>タイトル：医系学部にでた英文解釈</li><li>タイトル（読み）：イケイ ガクブ ニ デタ エイブン カイシャク</li><li>責任表示：小林公夫 著</li><li>シリーズ名：医系学部合格講義シリーズ ; 8</li><li>シリーズ名（読み）：イケイ ガクブ ゴウカク コウギ シリーズ</li></ul>",
+            "author": "小林, 公夫, 1956-,小林公夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796446"
+            },
+            "pubDate": "Thu, 14 Jun 2001 20:42:00 +0900",
+            "dc:title": "医系学部にでた英文解釈",
+            "dcndl:titleTranscription": "イケイ ガクブ ニ デタ エイブン カイシャク",
+            "dc:creator": "小林, 公夫, 1956-",
+            "dcndl:creatorTranscription": "コバヤシ, キミオ, 1956-",
+            "dcndl:volume": "3",
+            "dcndl:seriesTitle": "医系学部合格講義シリーズ ; 8",
+            "dcndl:seriesTitleTranscription": "イケイ ガクブ ゴウカク コウギ シリーズ",
+            "dc:publisher": "トーコー企画",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1998"
+            },
+            "dcterms:issued": "1998.10",
+            "dcndl:price": "2380円",
+            "dc:extent": "123p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-925151-07-X"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-925151-07-X"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000002796446"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "99108534"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000002796446"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/14740872"
+              }
+            ],
+            "dc:description": "1998"
+          },
+          {
+            "title": "一日一題英文解釈の研究",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000134-IB00227391",
+            "description": "<p>三省堂,1958-08-15,<p><ul><li>タイトル：一日一題英文解釈の研究</li><li>責任表示：宮田明夫 著</li></ul>",
+            "author": "宮田明夫,宮田明夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000134-IB00227391"
+            },
+            "pubDate": "Thu, 9 Mar 2023 00:05:11 +0900",
+            "dc:title": "一日一題英文解釈の研究",
+            "dc:creator": "宮田明夫",
+            "dc:publisher": "三省堂",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1958-08-15"
+            },
+            "dcterms:issued": "1958.8.15(昭33)（６版）",
+            "dc:extent": "viii，335p ; 19cm",
+            "dc:description": [
+              "初版：昭３１．１．１０",
+              "1958-08-15"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://www.kanabun.or.jp/CARIN/CARINOPACLINK.HTM?ID=B00227391"
+            }
+          },
+          {
+            "title": "一日一題英文解釈の研究",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I23211001110127080",
+            "description": "<p>三省堂,1956-01,<p><ul><li>タイトル：一日一題英文解釈の研究</li><li>タイトル（読み）：イチニチ イチダイ エイブン カイシヤク ノ ケンキユウ</li><li>責任表示：宮田明夫／著</li><li>NDC(9)：8375</li></ul>",
+            "author": "宮田明夫,宮田明夫／著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000001-I23211001110127080"
+            },
+            "pubDate": "Thu, 15 Dec 2022 09:50:27 +0900",
+            "dc:title": "一日一題英文解釈の研究",
+            "dcndl:titleTranscription": "イチニチ イチダイ エイブン カイシヤク ノ ケンキユウ",
+            "dc:creator": "宮田明夫",
+            "dcndl:creatorTranscription": "ミヤタ ハルオ",
+            "dc:publisher": "三省堂",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1956-01"
+            },
+            "dcterms:issued": "1956.1",
+            "dcndl:price": "¥200",
+            "dc:extent": "335p",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:TRCMARCNO",
+              "#text": "U400074746"
+            },
+            "dc:subject": [
+              "英語-解釈",
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "8375"
+              },
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "8375"
+              }
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001110127080"
+            },
+            "dc:description": "1956-01"
+          },
+          {
+            "title": "一日一題英文解釈の研究",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007882913",
+            "description": "<p>三省堂出版,1956,<p><ul><li>タイトル：一日一題英文解釈の研究</li><li>タイトル（読み）：イチニチ イチダイ エイブン カイシャク ノ ケンキュウ</li><li>責任表示：宮田明夫 著</li></ul>",
+            "author": "宮田明夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007882913"
+            },
+            "pubDate": "Thu, 8 Sep 2005 01:55:01 +0900",
+            "dc:title": "一日一題英文解釈の研究",
+            "dcndl:titleTranscription": "イチニチ イチダイ エイブン カイシャク ノ ケンキュウ",
+            "dc:publisher": "三省堂出版",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1956"
+            },
+            "dcterms:issued": "1956",
+            "dc:extent": "335p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007882913"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20851994"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDC",
+              "#text": "837.5"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007882913"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/2435768"
+              }
+            ],
+            "dc:description": "1956"
+          },
+          {
+            "title": "一日一題英文解釈の研究",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007882926",
+            "description": "<p>三省堂,1960,<p><ul><li>タイトル：一日一題英文解釈の研究</li><li>タイトル（読み）：イチニチ イチダイ エイブン カイシャク ノ ケンキュウ</li><li>責任表示：宮田明夫 著</li></ul>",
+            "author": "宮田明夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007882926"
+            },
+            "pubDate": "Thu, 8 Sep 2005 01:56:22 +0900",
+            "dc:title": "一日一題英文解釈の研究",
+            "dcndl:titleTranscription": "イチニチ イチダイ エイブン カイシャク ノ ケンキュウ",
+            "dcndl:edition": "改訂版",
+            "dc:publisher": "三省堂",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1960"
+            },
+            "dcterms:issued": "1960",
+            "dc:extent": "293p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007882926"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20851999"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDC",
+              "#text": "837.5"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007882926"
+              },
+              {
+                "@rdf:resource": "https://dl.ndl.go.jp/pid/2435770"
+              }
+            ],
+            "dc:description": "1960"
+          },
+          {
+            "title": "一夜の宿",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I42111000002006757",
+            "description": "<p>開隆堂出版,1949-08,<p><ul><li>タイトル：一夜の宿</li><li>タイトル（読み）：イチヤ ノ ヤド</li><li>責任表示：法邑清藏／著,R.L.Stevenson／〔著〕</li><li>シリーズ名：英語の新しい味い方・学び方叢書　：　考え方・解釈・単語・文法・作文　：　第3編</li><li>シリーズ名（読み）：エイゴ ノ アタラシイ アジワイ カタ マナビ カタ ソウショ　カンガエカタ カイシャク タンゴ ブンポウ サクブン　0003-00</li><li>NDC(9)：837.5</li></ul>",
+            "author": "法邑 清蔵,R.L.Stevenson,法邑清藏／著,R.L.Stevenson／〔著〕",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000001-I42111000002006757"
+            },
+            "pubDate": "Sun, 14 Jun 2026 05:02:02 +0900",
+            "dc:title": "一夜の宿",
+            "dcndl:titleTranscription": "イチヤ ノ ヤド",
+            "dc:creator": [
+              "法邑 清蔵",
+              "R.L.Stevenson"
+            ],
+            "dcndl:creatorTranscription": [
+              "ホウムラ セイゾウ",
+              "R L Stevenson"
+            ],
+            "dcndl:seriesTitle": "英語の新しい味い方・学び方叢書　：　考え方・解釈・単語・文法・作文　：　第3編",
+            "dcndl:seriesTitleTranscription": "エイゴ ノ アタラシイ アジワイ カタ マナビ カタ ソウショ　カンガエカタ カイシャク タンゴ ブンポウ サクブン　0003-00",
+            "dc:publisher": "開隆堂出版",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1949-08"
+            },
+            "dcterms:issued": "1949.8",
+            "dcndl:price": "￥１００",
+            "dc:extent": "2,152p",
+            "dc:subject": [
+              "英語－解釈",
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "Grammar index : p.〔151〕-152",
+              "原タイトル: A lodging for the night",
+              "1949-08"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002006757"
+            }
+          },
+          {
+            "title": "一冊で突破!SPI3&テストセンター",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I030666888",
+            "description": "<p>2022年入社用,成美堂出版,2020,978-4-415-23173-0<p><ul><li>タイトル：一冊で突破!SPI3&テストセンター</li><li>タイトル（読み）：イッサツ デ トッパ エスピーアイ スリー アンド テスト センター</li><li>シリーズ名：スマート就活</li><li>シリーズ名（読み）：スマート シュウカツ</li><li>NDC(10)：307.8</li></ul>",
+            "author": null,
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I030666888"
+            },
+            "pubDate": "Thu, 22 Oct 2020 19:09:17 +0900",
+            "dc:title": "一冊で突破!SPI3&テストセンター",
+            "dcndl:titleTranscription": "イッサツ デ トッパ エスピーアイ スリー アンド テスト センター",
+            "dcndl:volume": "2022年入社用",
+            "dcndl:seriesTitle": "スマート就活",
+            "dcndl:seriesTitleTranscription": "スマート シュウカツ",
+            "dc:publisher": "成美堂出版",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2020"
+            },
+            "dcterms:issued": "2020.11",
+            "dcndl:price": "1200円",
+            "dc:extent": "271p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-415-23173-0"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "030666888"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23436740"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34125160"
+              }
+            ],
+            "dc:subject": [
+              "就職試験",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y51"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "307.8"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I030666888"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971430859812821416"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784415231730"
+              }
+            ],
+            "dc:description": "2020"
+          }
+        ]
+      }
+    }
+  }
+}

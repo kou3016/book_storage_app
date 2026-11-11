@@ -1,0 +1,1400 @@
+{
+  "query": "英文解釈",
+  "search_parameters": {
+    "langRestrict": "ja",
+    "printType": "books",
+    "orderBy": "relevance",
+    "maxResults": 20
+  },
+  "response": {
+    "kind": "books#volumes",
+    "totalItems": 418,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "I6wCyAEACAAJ",
+        "etag": "qmj3EwzJMrQ",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/I6wCyAEACAAJ",
+        "volumeInfo": {
+          "title": "英文解体新書",
+          "subtitle": "構造と論理を読み解く英文解釈",
+          "authors": [
+            "北村一真"
+          ],
+          "publishedDate": "2019-07",
+          "description": "大学受験レベルの英語読解力をさらに伸ばして、日常のなかでバリバリ英語を読みこなすことができるようにするための英文解釈参考書。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4327452920"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784327452926"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 274,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=I6wCyAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=I6wCyAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=I6wCyAEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=I6wCyAEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E4%BD%93%E6%96%B0%E6%9B%B8.html?hl=&id=I6wCyAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=I6wCyAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "大学受験レベルの英語読解力をさらに伸ばして、日常のなかでバリバリ英語を読みこなすことができるようにするための英文解釈参考書。"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "a6ESEQAAQBAJ",
+        "etag": "w5+ioaxlJfM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/a6ESEQAAQBAJ",
+        "volumeInfo": {
+          "title": "難関大に合格する　英文解釈　Code 70",
+          "authors": [
+            "杉村年彦"
+          ],
+          "publisher": "かんき出版",
+          "publishedDate": "2024-07-10",
+          "description": "※この商品はタブレットなど大きいディスプレイを備えた端末で読むことに適しています。また、文字だけを拡大することや、文字列のハイライト、検索、辞書の参照、引用などの機能が使用できません。 英文解釈の「思考の過程」を身につければ、早慶や東大、京大の難しい英文も正確に読めるようになります。本書では「精読と速読の使い分け」を含む70のテーマに分けて、難しい英文の読み方をあなたに伝授します。英語を得点源にして、第一志望合格を勝ち取りましょう！ 【本書の5つの特長】 1．クイズ形式で英文解釈のポイントが学べる 自分で英文解釈を勉強した際に「訳をチェックするだけの勉強になりがちで、あまり効果を感じられなかった」という経験はありませんか？ 本書では、英文に対するクイズを作りました。クイズに答えていくことで、英文解釈の力を伸ばすのに必要なポイントと思考の過程が、順を追ってわかります。 2．出題データの徹底分析に基づいた内容構成 難関大学の問題を過去20年間にわたり、選択肢の英文まで徹底的に分析しました。「教えたいこと」ではなく、「繰り返し出題されていること」に徹底的にこだわりました。難関大合格のために必ず身につけるべき内容に集中して取り組むことができます。 3．例文を含めほぼすべて、難関大学で出題された英文を引用 第2講を除き、問題としている英文はすべて難関大で和訳問題として出題された箇所です。さらに、説明の中で用いる英文も、ほぼすべて難関大で和訳問題として出題された箇所です。すべてのページで、難関大のレベルを肌で感じることができます。 4. 「間違えた読み方」にあえて言及した解説 英文解釈に重要な技能の1つは、読み間違いに自分で気づき、正しい読み方へと修正する能力です。本書では、なぜその読み方ではいけないのか、どのように頭を働かせれば正しい読み方にたどり着けるのかを解説しました。読みの「結果」ではなく「プロセス」を重視した解説を理解することで、自分の力で英語を正しく読む力を養成することができます。 5. 速読につながる「よく使われる形」への言及 単語や熟語の範疇に収まらない、「よく使われる形」（定型表現）を積極的に紹介しました。頭の使い方を学ぶだけでなく、よく使われる形も同時に覚えていくことで、正確に読む精読力とともに速読力も向上させることができます。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000162041700100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 258,
+          "printType": "BOOK",
+          "categories": [
+            "Reference"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=a6ESEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=a6ESEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=a6ESEQAAQBAJ&pg=PA2&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=a6ESEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=a6ESEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1760,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1584,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=a6ESEQAAQBAJ&rdid=book-a6ESEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1760000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1584000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E9%9B%A3%E9%96%A2%E5%A4%A7%E3%81%AB%E5%90%88%E6%A0%BC%E3%81%99%E3%82%8B_%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88_Co-sample-epub.acsm?id=a6ESEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E9%9B%A3%E9%96%A2%E5%A4%A7%E3%81%AB%E5%90%88%E6%A0%BC%E3%81%99%E3%82%8B_%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88_Co-sample-pdf.acsm?id=a6ESEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=a6ESEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>英文解釈</b>の力をさらに伸ばしたいという人でしょう。そんなあなたにとって、きっと本書が力になるはずです!本書『難関大に合格する<b>英文解釈</b> Code 70 』は、難関大学レベルの英語を正確に読めるようになることを目標に設計されています。本書の 5 つの&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "l-fJEAAAQBAJ",
+        "etag": "l+QLBXIgeR0",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/l-fJEAAAQBAJ",
+        "volumeInfo": {
+          "title": "大学入試問題集 関正生の英文解釈ポラリス［１ 標準〜応用レベル］",
+          "authors": [
+            "関　正生"
+          ],
+          "publisher": "KADOKAWA",
+          "publishedDate": "2023-07-21",
+          "description": "英語の先生は「英文解釈は大事だ」と言いますが、「そもそも英文解釈って何？」「英文解釈をするメリットはあるの？」という疑問を持ったことはないでしょうか。 また、徐々に英語の学習が進んでくると「直訳ではなくて意訳をしなさい」と言われることもしばしばありますが、「意訳がうまくできない」「どこまで意訳してよいかわからない」と感じたことはありませんか。 本書は、最初は句・節の基本から解説。標準レベル（日東駒専レベル）の英文から入り、メインとしてはGMARCH・国公立大学（旧帝大を除く）レベルの英文を正しく読める力を養成していきます。 「英文解釈」の真の姿に目を開こう。",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04606239A13887600000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 277,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.7.6.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=l-fJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=l-fJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=l-fJEAAAQBAJ&pg=PA15&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=l-fJEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=l-fJEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1540,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1386,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=l-fJEAAAQBAJ&rdid=book-l-fJEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1540000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1386000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%95%8F%E9%A1%8C%E9%9B%86_%E9%96%A2%E6%AD%A3%E7%94%9F%E3%81%AE%E8%8B%B1%E6%96%87-sample-epub.acsm?id=l-fJEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%95%8F%E9%A1%8C%E9%9B%86_%E9%96%A2%E6%AD%A3%E7%94%9F%E3%81%AE%E8%8B%B1%E6%96%87-sample-pdf.acsm?id=l-fJEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=l-fJEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>英文</b>を読むときの正しい頭の使い方」が習得できるわけです)。さらに、<b>英文</b>をあっちこっち見るような「逆算式」の発想を ... <b>解釈</b>」とも言える<b>英文</b>を解説してみましょう。まずは以下の<b>英文</b>がどういう意味になるのか、じっくり考えてみてください&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "yUKTPgAACAAJ",
+        "etag": "v90TnWiNeR4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/yUKTPgAACAAJ",
+        "volumeInfo": {
+          "title": "入門英文解釈の技術70",
+          "authors": [
+            "桑原信淑"
+          ],
+          "publishedDate": "2008-10-20",
+          "description": "英文の構造を見抜く基本70のテクニックを徹底解説。わかりやすい構文図解で理解を完全サポート。ポイントを復習できる演習問題70題と詳しい解説で定着を図る。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4342742845"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784342742842"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 197,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=yUKTPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yUKTPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=yUKTPgAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=yUKTPgAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E5%85%A5%E9%96%80%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%81%AE%E6%8A%80%E8%A1%9370.html?hl=&id=yUKTPgAACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=yUKTPgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "英文の構造を見抜く基本70のテクニックを徹底解説。わかりやすい構文図解で理解を完全サポート。ポイントを復習できる演習問題70題と詳しい解説で定着を図る。"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wQXFHAAACAAJ",
+        "etag": "boV7z0/9DE4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wQXFHAAACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈の完成",
+          "authors": [
+            "勝田義郎"
+          ],
+          "publishedDate": "1962",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:34067634"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 331,
+          "printType": "BOOK",
+          "categories": [
+            "English language"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=wQXFHAAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=wQXFHAAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%81%AE%E5%AE%8C%E6%88%90.html?hl=&id=wQXFHAAACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wQXFHAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "RlPqZwEACAAJ",
+        "etag": "5qWBcVfs5Jo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/RlPqZwEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈法",
+          "subtitle": "新式分類",
+          "authors": [
+            "只一·日高"
+          ],
+          "publishedDate": "1909",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:672582690"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 196,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=RlPqZwEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=RlPqZwEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E6%B3%95.html?hl=&id=RlPqZwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=RlPqZwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "pcEQtAEACAAJ",
+        "etag": "RwfYTLYGtIw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/pcEQtAEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈ナビ",
+          "subtitle": "",
+          "authors": [
+            "清水建二"
+          ],
+          "publishedDate": "2017-07",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4816814035"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784816814037"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 275,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=pcEQtAEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=pcEQtAEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%83%8A%E3%83%93.html?hl=&id=pcEQtAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=pcEQtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "UUwmMwEACAAJ",
+        "etag": "tyfsZbZSZgg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/UUwmMwEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈法",
+          "publishedDate": "2012",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4760880135"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784760880133"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 317,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=UUwmMwEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=UUwmMwEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E6%B3%95.html?hl=&id=UUwmMwEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=UUwmMwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "Whb_NAEACAAJ",
+        "etag": "p4dYgsDXN2s",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/Whb_NAEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈",
+          "publishedDate": "1956",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:676341771"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 393,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=Whb_NAEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=Whb_NAEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88.html?hl=&id=Whb_NAEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=Whb_NAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "aUU-LgEACAAJ",
+        "etag": "wuOJ/zXmjMc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/aUU-LgEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈",
+          "subtitle": "5文型を本当に理解すればあなたの読解力は飛躍的に伸びる",
+          "authors": [
+            "English Factory編集部"
+          ],
+          "publishedDate": "2012-06-15",
+          "description": "あなたは5文型の真の力を知らない。誰もが学校で5文型を習いますが、ほとんどの人がその本当の力を理解できていません。英文読解力UPの最大の鍵は5文型の真の理解にあった。5文型の真の意味を理解し文型を見抜く訓練を続けることで、あなたの英文読解力は飛躍的に伸びます。5文型を本当にマスターすれば長文もスラスラ読める。TOEICテストPart7の得点が伸び悩んでいる、大学入試の長文読解問題が苦手、そんな悩みを本書が吹き飛ばします。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4434168142"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784434168147"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 199,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=aUU-LgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=aUU-LgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=aUU-LgEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=aUU-LgEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88.html?hl=&id=aUU-LgEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=aUU-LgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "あなたは5文型の真の力を知らない。誰もが学校で5文型を習いますが、ほとんどの人がその本当の力を理解できていません。英文読解力UPの最大の鍵は5文型の真の理解にあった。5 ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "4PoEEgAAQBAJ",
+        "etag": "dho1ILulGro",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4PoEEgAAQBAJ",
+        "volumeInfo": {
+          "title": "大学入試　肘井学の読解のための英文法が面白いほどわかる本　構文制覇編",
+          "authors": [
+            "肘井　学"
+          ],
+          "publisher": "KADOKAWA",
+          "publishedDate": "2026-09-07",
+          "description": "肘井学の学参シリーズ50万部突破。「読解のための英文法が面白いほどわかる本」シリーズに「構文制覇編」が登場。 様々な構文の知識を必要とする最難関レベルの50題を精選。 シリーズの「必修編」「難関大編」で培った実力の腕試しができる1冊。 最難関大合格に必要な、解釈の根拠を見つける力が身につく。 ＜本書の特長＞ 1.複数の知識が問われる難解な英文を50題厳選！ 2.構文のポイントを英文と対応する形で掲載。問われているポイントが一目でわかる。 3.英文解釈の判断の根拠をしっかり説明！ 4.上級者が無意識に行っている、「予測 ⇒ 修正のプロセス」を随所に紹介！ 5.「読解のための英文法」シリーズおなじみの「英文図解」を全問掲載。 6.意訳のコツも解説。本番で通用する解答作成力を養う。 7.試験直前で見直せるファイナルチェックリスト付き！",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04607625A22162000000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 215,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4PoEEgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4PoEEgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=4PoEEgAAQBAJ&pg=PA6&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=4PoEEgAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4PoEEgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1815,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1634,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=4PoEEgAAQBAJ&rdid=book-4PoEEgAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1815000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1634000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6_%E8%82%98%E4%BA%95%E5%AD%A6%E3%81%AE%E8%AA%AD%E8%A7%A3%E3%81%AE%E3%81%9F%E3%82%81-sample-epub.acsm?id=4PoEEgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6_%E8%82%98%E4%BA%95%E5%AD%A6%E3%81%AE%E8%AA%AD%E8%A7%A3%E3%81%AE%E3%81%9F%E3%82%81-sample-pdf.acsm?id=4PoEEgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=4PoEEgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... 英文を 50 題厳選!本書では、複数の構文の知識が必要になる、難解な英文を 50 題厳選しました。この 50 題をマスターすれば、<b>英文解釈</b>の最高峰の力が身につき、あらゆる大学で出題される、いかなる英文も読み解く力がつきます。特長その 2 構文ポイント Q&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "jn2QQgAACAAJ",
+        "etag": "c4vviugWMyI",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/jn2QQgAACAAJ",
+        "volumeInfo": {
+          "title": "新々英文解釈研究復刻版",
+          "authors": [
+            "山崎貞",
+            "佐山栄太郎"
+          ],
+          "publishedDate": "2008-12",
+          "description": "「山貞」(やまてい)の名で親しまれ、長年多くの受験生のバイブルとされてきた伝説の参考書の復刊です。大正元年(1912)の初版『公式応用英文解釈研究』より、多くのリーダーや知識人、教育者たちがかつて学んだ伝説の参考書をご堪能ください。格調高い例文、品格のあるレイアウトとボリューム感は別格の趣きです。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4327751022"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784327751029"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 496,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=jn2QQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=jn2QQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=jn2QQgAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=jn2QQgAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E6%96%B0%E3%80%85%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E7%A0%94%E7%A9%B6%E5%BE%A9%E5%88%BB%E7%89%88.html?hl=&id=jn2QQgAACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=jn2QQgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "「山貞」(やまてい)の名で親しまれ、長年多くの受験生のバイブルとされてきた伝説の参考書の復刊です。大正元年(1912)の初版『公式応用英文解釈研究』より、多くのリーダーや ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "vmIjBQAAQBAJ",
+        "etag": "pDE7GYv1yKc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/vmIjBQAAQBAJ",
+        "volumeInfo": {
+          "title": "英語を本気でモノにするための学習法",
+          "authors": [
+            "石渡 誠"
+          ],
+          "publisher": "プチ・レトル",
+          "publishedDate": "2013-02-01",
+          "description": "これだけ長く英語を勉強してきて、なぜ英語が話せないのだろう。 本書はそう思っている方に、ぜひ読んでいただきたい本です。 日本人の英語学習の間違いを指摘し、そのような学習を続けてきた私たちが、どうしたら英語をモノにすることができるのか、具体的な学習法をご紹介しています。 英語上達のためには、「英語を英語で学習すること」と「インプット・アウトプットの両方で、質・量ともに豊かな英語学習を行うこと」が必要です。 本書では、この具体的な方法として、「英語脳をつくる」基礎学習法、「朗唱」を通して行うインプット学習法、そして「プロジェクトワーク」によるアウトプット学習法を中心にご紹介。 さらに、これまで英語学習者からブログ等に寄せられた様々な質問への答えも、書かれています。 本書の前には、シリーズ第１巻「英語を本気でモノにするための心構え」をお読みいただくことを、強くお勧めします。正しい「心構え」を持ち、本書で本当に効果のある英語学習法を知って、英語をモノにするための第一歩を踏み出しましょう。 【目次】 はじめに 第１章．「非常識」な日本人の英語学習法 １－１．日本人は「日本人英語」を使うべき？ １－２．「留学」と英語 １－３．「非常識」な日本独自の英語学習法 １－４． 日本人は英語を学んでいない？ １－５．「英会話」の非常識 １－６．「書く力」の非常識 １－７．「英作文」の非常識 １－８．「英文解釈」の非常識 １－９．「英語力」の非常識 １－１０．英語で考えるのは無理？ 第２章．基礎学習：英語脳を作る ２－１．１日１０分３ヶ月で達成する英語脳の作り方 ２－２．知っている単語を１日５語から２０語（知らない単語は調べない） ２－３．英語で単語の意味を声に出して説明してみる。 ２－４．英英辞典を引き、定義を確かめる（ひとつだけでいい） ２－５．辞書を棒読みしないで、会話して覚える（１分ルール） ２－６．わからない単語が定義にあっても調べない（意味を想像する） ２－７．覚えたものを書きだして、間違いをチェック（最低５語） ２－８．定義はずっと覚えていなくてもいいので、毎日新たに続ける ２－９．まとめ 第３章．インプット学習：聞く・話す・書く・読むを同時に学べる朗唱学習 ３－１．世界をかえた名演説の朗唱 ３－２．朗唱と暗記の違い ３－３．スピーチによる英語学習の効果 ３－４．雪だるま式学習法 ３－５．反復練習の意味 ３－６．朗唱学習によって成果が出るまでの道のり ３－７．独学でのスピーチの朗唱練習方法 ３－８．ケネディ大統領の就任演説 ３－９．リンカーン ゲティズバーグ演説 ３－１０．オバマ ２００８年指名受諾演説 コラム：朗唱による脳の活性化 第４章．アウトプット学習 ４－１．独学でのアウトプット学習 ４－２．Twitterを利用したアウトプット学習 ４－３．プロジェクトワークのご紹介 ４－４．プロジェクトワークの素晴らしさ（１）：アウトプット機会 ４－５．プロジェクトワークの素晴らしさ（２）：純粋な人間関係・気づき・柔軟性 ４－６．プロジェクトワークの素晴らしさ（３）：コミュニケーション ４－７．プロジェクトワークの素晴らしさ（４）：継続力 第５章．英語学習へのQ&A ５－１．読解力の上げ方 ５－２．英文解釈・構文・文法の学習は必要か ５－３．難易度の高い英文を理解するには ５－４．独学の壁 ５－５．読む・聞くは同時に進行するべき？ ５－６．英語力を伸ばすには単語力が必要か ５－７．リスニング力アップに欠かせないこと ５－８．英語ディベートは英語の学習に役に立つか ５－９．洋書による英語学習 ５－１０．英語の仕事につくには 出版日：2013年2月1日 最終更新日：2015年6月25日 DRM：なし",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9784907278038"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "4907278039"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 112,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.5.5.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=vmIjBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=vmIjBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=vmIjBQAAQBAJ&pg=SA1-PA8&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=vmIjBQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vmIjBQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 550,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 495,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=vmIjBQAAQBAJ&rdid=book-vmIjBQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 550000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 495000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=vmIjBQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... 英語学習法が定着したのです。日本人特有の学習法の典型例が、まさに<b>英文解釈</b>だと言っても過言ではありません。この時代に何が起こったかというと、正則法が消えて変則法による英語指導が始まったのです。正則法というのは、英語で英語を教える方法であり&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "acnHlQEACAAJ",
+        "etag": "J9rpPCsAtUw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/acnHlQEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈",
+          "subtitle": "重要公式中心",
+          "publishedDate": "1957",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:676375322"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 470,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=acnHlQEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=acnHlQEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88.html?hl=&id=acnHlQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=acnHlQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "LJVBywAACAAJ",
+        "etag": "awC6ibA8JRc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LJVBywAACAAJ",
+        "volumeInfo": {
+          "title": "最新英文解釈の基礎",
+          "authors": [
+            "実麿·岡田"
+          ],
+          "publishedDate": "1925",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:673315903"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=LJVBywAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=LJVBywAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E6%9C%80%E6%96%B0%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%81%AE%E5%9F%BA%E7%A4%8E.html?hl=&id=LJVBywAACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=LJVBywAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "bzpHNQEACAAJ",
+        "etag": "hnb0EXDi76U",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/bzpHNQEACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈の図解研究",
+          "publishedDate": "1954",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:676376410"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 350,
+          "printType": "BOOK",
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=bzpHNQEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=bzpHNQEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%81%AE%E5%9B%B3%E8%A7%A3%E7%A0%94%E7%A9%B6.html?hl=&id=bzpHNQEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=bzpHNQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "CL2zEAAAQBAJ",
+        "etag": "okZsAFV7bWg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/CL2zEAAAQBAJ",
+        "volumeInfo": {
+          "title": "読解力をきたえる英語名文３０",
+          "authors": [
+            "行方昭夫"
+          ],
+          "publisher": "岩波書店",
+          "publishedDate": "2022-11-18",
+          "description": "英語力の基本は「読む力」．上達のコツは良い例題にくり返し取り組んで，日本語に訳してみることです．新聞コラムや心に響くエッセイ，あの小説の名シーンまで，この一冊で英語を読む力が身につく，とっておきの例文３０題．和訳にチャレンジする生徒と先生の対話形式で，英文読解の基礎から応用までじっくり学べます．",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:BT000132037200100101900209"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 114,
+          "printType": "BOOK",
+          "categories": [
+            "Foreign Language Study"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.3.4.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=CL2zEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=CL2zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=CL2zEAAAQBAJ&pg=PT5&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=CL2zEAAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CL2zEAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 880,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 792,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=CL2zEAAAQBAJ&rdid=book-CL2zEAAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 880000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 792000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E8%AA%AD%E8%A7%A3%E5%8A%9B%E3%82%92%E3%81%8D%E3%81%9F%E3%81%88%E3%82%8B%E8%8B%B1%E8%AA%9E%E5%90%8D%E6%96%87%EF%BC%93-sample-epub.acsm?id=CL2zEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E8%AA%AD%E8%A7%A3%E5%8A%9B%E3%82%92%E3%81%8D%E3%81%9F%E3%81%88%E3%82%8B%E8%8B%B1%E8%AA%9E%E5%90%8D%E6%96%87%EF%BC%93-sample-pdf.acsm?id=CL2zEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=CL2zEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "... <b>英文解釈</b>・翻訳さて、英文をよく理解したかどうか、それを確かめるのに最適な手段が日本語に訳すことです。これがもっとも確実に、文の構造と、全体の意味と、書き手の姿勢を、どこまで理解しているかを判断する方法です。訳す作業を英文和訳、英文&nbsp;..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "wBMQPwAACAAJ",
+        "etag": "LgEHUJ46a64",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/wBMQPwAACAAJ",
+        "volumeInfo": {
+          "title": "英文解釈と文法",
+          "authors": [
+            "西尾孝"
+          ],
+          "publishedDate": "1948",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "OCLC:48801654"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 128,
+          "printType": "BOOK",
+          "categories": [
+            "English language"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "language": "en",
+          "previewLink": "http://books.google.co.jp/books?id=wBMQPwAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=wBMQPwAACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88%E3%81%A8%E6%96%87%E6%B3%95.html?hl=&id=wBMQPwAACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=wBMQPwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "KtmP0AEACAAJ",
+        "etag": "tD0/FM1P300",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/KtmP0AEACAAJ",
+        "volumeInfo": {
+          "title": "大学入試基礎からの英文解釈クラシック",
+          "authors": [
+            "久保田智大"
+          ],
+          "publishedDate": "2024-03",
+          "description": "『英文解釈クラシック』シリーズ待望の基礎編。基礎を徹底演習すれば、難しい英文も読み解ける。共通テスト~難関大の入試対策に。",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_10",
+              "identifier": "4327764973"
+            },
+            {
+              "type": "ISBN_13",
+              "identifier": "9784327764975"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 0,
+          "printType": "BOOK",
+          "categories": [
+            "Literary Collections"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=KtmP0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=KtmP0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=KtmP0AEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+          "infoLink": "http://books.google.co.jp/books?id=KtmP0AEACAAJ&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6%E5%9F%BA%E7%A4%8E%E3%81%8B%E3%82%89%E3%81%AE%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88.html?hl=&id=KtmP0AEACAAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "NO_PAGES",
+          "embeddable": false,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=KtmP0AEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "NONE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "『英文解釈クラシック』シリーズ待望の基礎編。基礎を徹底演習すれば、難しい英文も読み解ける。共通テスト~難関大の入試対策に。"
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "L4OTEQAAQBAJ",
+        "etag": "vhRG1hplFlc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/L4OTEQAAQBAJ",
+        "volumeInfo": {
+          "title": "大学入試　くり返し解いて身につく　英文解釈１冊目のドリル",
+          "authors": [
+            "杉山　一志"
+          ],
+          "publisher": "KADOKAWA",
+          "publishedDate": "2025-11-13",
+          "description": "1回10分、大学入試に必要な「英文を正しく読む力」が1冊で身につくドリルが登場しました。 全83あるドリルはダウンロードできるから、くり返し、手を動かして取り組めます。 春先から夏にかけての日常学習にも、秋から冬にかけての入試対策にも使える1冊です。 【本書の4つの特長】 1．「深く読むための英文法」が身につく！ 入試問題に取り組む前に復習しておきたい「解釈のための英文法」を、簡単な例文で習得、復習できます。 2. 特典音声と「くり返し取り組める」ドリルPDF付！ 解釈を学ぶ必修例文と、ドリル形式の確認問題にはすべて音声が付いています。 ドリルPDFは印刷すれば何度も解くことができますし、お手持ちのタブレットでもくり返し書きこみながら取り組めます。 3. 1テーマ2ページ完成、「1回10分」で終えられる！ 1テーマ2ページ完成、完投目標時間は10分なので、忙しくてもすきま時間に取り組めます。 1日3テーマずつ取り組めば、1か月で完成させることもできます。 4. 全83テーマで「もれなく」学べる！ 重要なテーマをもれなく扱っているので、入試に向けて万全の基礎力を身につけられます。 網羅性があるからこそ、日常学習にも直前の復習にも使える1冊です。 第1章から第9章では入試レベルの問題にも挑戦できます。 【目標とする大学の例】 春〜夏に取り組む場合…地方国公立大学、学習院大学、明治大学、青山学院大学、立教大学、中央大学、法政大学など 秋以降に取り組む場合…日本大学、東洋大学、駒澤大学、専修大学など",
+          "industryIdentifiers": [
+            {
+              "type": "OTHER",
+              "identifier": "PKEY:04607619A22161400000"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 199,
+          "printType": "BOOK",
+          "categories": [
+            "Education"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "1.1.1.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=L4OTEQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=L4OTEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "ja",
+          "previewLink": "http://books.google.co.jp/books?id=L4OTEQAAQBAJ&printsec=frontcover&dq=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+          "infoLink": "https://play.google.com/store/books/details?id=L4OTEQAAQBAJ&source=gbs_api",
+          "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L4OTEQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "JP",
+          "saleability": "FOR_SALE",
+          "isEbook": true,
+          "listPrice": {
+            "amount": 1540,
+            "currencyCode": "JPY"
+          },
+          "retailPrice": {
+            "amount": 1386,
+            "currencyCode": "JPY"
+          },
+          "buyLink": "https://play.google.com/store/books/details?id=L4OTEQAAQBAJ&rdid=book-L4OTEQAAQBAJ&rdot=1&source=gbs_api",
+          "offers": [
+            {
+              "finskyOfferType": 1,
+              "listPrice": {
+                "amountInMicros": 1540000000,
+                "currencyCode": "JPY"
+              },
+              "retailPrice": {
+                "amountInMicros": 1386000000,
+                "currencyCode": "JPY"
+              }
+            }
+          ]
+        },
+        "accessInfo": {
+          "country": "JP",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6_%E3%81%8F%E3%82%8A%E8%BF%94%E3%81%97%E8%A7%A3%E3%81%84%E3%81%A6%E8%BA%AB%E3%81%AB-sample-epub.acsm?id=L4OTEQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.co.jp/books/download/%E5%A4%A7%E5%AD%A6%E5%85%A5%E8%A9%A6_%E3%81%8F%E3%82%8A%E8%BF%94%E3%81%97%E8%A7%A3%E3%81%84%E3%81%A6%E8%BA%AB%E3%81%AB-sample-pdf.acsm?id=L4OTEQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=L4OTEQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "1回10分、大学入試に必要な「英文を正しく読む力」が1冊で身につくドリルが登場しました。 全83あるドリルはダウンロードできるから、くり返し、手を動かして取り組めます。 ..."
+        }
+      }
+    ]
+  }
+}

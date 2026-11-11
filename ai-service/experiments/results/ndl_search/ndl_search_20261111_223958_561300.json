@@ -1,0 +1,29 @@
+{
+  "query": "ndlのキーワードって空白で複数入れれる？",
+  "search_parameters": {
+    "any": "ndlのキーワードって空白で複数入れれる？",
+    "cnt": 20
+  },
+  "response": {
+    "rss": {
+      "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+      "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+      "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+      "@xmlns:dcterms": "http://purl.org/dc/terms/",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "@version": "2.0",
+      "channel": {
+        "title": "ndlのキーワードって空白で複数入れれる？ - 国立国会図書館サーチ OpenSearch",
+        "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?any=ndl%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%AF%E3%83%BC%E3%83%89%E3%81%A3%E3%81%A6%E7%A9%BA%E7%99%BD%E3%81%A7%E8%A4%87%E6%95%B0%E5%85%A5%E3%82%8C%E3%82%8C%E3%82%8B%EF%BC%9F&cnt=20",
+        "description": "Search results for any=ndlのキーワードって空白で複数入れれる？ cnt=20",
+        "language": "ja",
+        "openSearch:totalResults": "0",
+        "openSearch:startIndex": "1",
+        "openSearch:itemsPerPage": "20"
+      }
+    }
+  }
+}

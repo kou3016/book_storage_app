@@ -1,0 +1,103 @@
+[
+  {
+    "onix": {
+      "CollateralDetail": {},
+      "RecordReference": "9784167741013",
+      "NotificationType": "03",
+      "ProductIdentifier": {
+        "ProductIDType": "15",
+        "IDValue": "9784167741013"
+      },
+      "DescriptiveDetail": {
+        "TitleDetail": {
+          "TitleType": "01",
+          "TitleElement": {
+            "TitleElementLevel": "01",
+            "TitleText": {
+              "collationkey": "カラフル",
+              "content": "カラフル"
+            }
+          }
+        },
+        "Contributor": [
+          {
+            "SequenceNumber": "1",
+            "ContributorRole": [],
+            "PersonName": {
+              "content": "森, 絵都, 1968-",
+              "collationkey": "モリ, エト, 1968-"
+            }
+          }
+        ],
+        "Collection": {
+          "CollectionType": "10",
+          "TitleDetail": {
+            "TitleType": "01",
+            "TitleElement": [
+              {
+                "TitleElementLevel": "02",
+                "PartNumber": "",
+                "TitleText": {
+                  "collationkey": "",
+                  "content": "文春文庫"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "PublishingDetail": {
+        "Imprint": {
+          "ImprintName": "文藝春秋"
+        },
+        "PublishingDate": [
+          {
+            "PublishingDateRole": "11",
+            "Date": "200709"
+          }
+        ]
+      },
+      "ProductSupply": {
+        "SupplyDetail": {
+          "ProductAvailability": "99",
+          "Price": [
+            {
+              "PriceType": "01",
+              "CurrencyCode": "JPY",
+              "PriceAmount": "505"
+            }
+          ]
+        }
+      }
+    },
+    "hanmoto": {
+      "datemodified": "2025-04-30 11:08:50",
+      "datecreated": "2016-04-28 14:23:08",
+      "reviews": [
+        {
+          "post_user": "genkina",
+          "reviewer": "",
+          "source_id": 20,
+          "kubun_id": 1,
+          "source": "読売新聞",
+          "choyukan": "朝刊",
+          "han": "",
+          "link": "",
+          "appearance": "2022-07-31",
+          "gou": ""
+        }
+      ],
+      "dateshuppan": "2007-09"
+    },
+    "summary": {
+      "isbn": "9784167741013",
+      "title": "カラフル",
+      "volume": "",
+      "series": "文春文庫",
+      "publisher": "文藝春秋",
+      "pubdate": "200709",
+      "cover": "",
+      "author": "森,絵都,1968-"
+    }
+  }
+]

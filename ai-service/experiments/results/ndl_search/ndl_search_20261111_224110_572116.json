@@ -1,0 +1,1529 @@
+{
+  "query": "英文解釈 難関",
+  "search_parameters": {
+    "any": "英文解釈 難関",
+    "cnt": 20
+  },
+  "response": {
+    "rss": {
+      "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "@xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+      "@xmlns:dcndl": "http://ndl.go.jp/dcndl/terms/",
+      "@xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+      "@xmlns:dcterms": "http://purl.org/dc/terms/",
+      "@xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "@xmlns:rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+      "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+      "@version": "2.0",
+      "channel": {
+        "title": "英文解釈 難関 - 国立国会図書館サーチ OpenSearch",
+        "link": "https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?any=%E8%8B%B1%E6%96%87%E8%A7%A3%E9%87%88+%E9%9B%A3%E9%96%A2&cnt=20",
+        "description": "Search results for any=英文解釈 難関 cnt=20",
+        "language": "ja",
+        "openSearch:totalResults": "40",
+        "openSearch:startIndex": "1",
+        "openSearch:itemsPerPage": "20",
+        "item": [
+          {
+            "title": "英語教育",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000002063-d4433840",
+            "description": "<p>34(8),大修館書店,1985-10,<p><ul><li>タイトル：英語教育</li><li>タイトル（読み）：エイゴ キョウイク</li><li>責任表示：『英語教育』編集部 編</li></ul>",
+            "author": "大修館書店,研究社出版株式会社,『英語教育』編集部 編",
+            "category": [
+              "雑誌",
+              "デジタル"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000002063-d4433840"
+            },
+            "pubDate": "Tue, 24 Mar 2020 20:36:17 +0900",
+            "dc:title": "英語教育",
+            "dcndl:titleTranscription": "エイゴ キョウイク",
+            "dc:creator": [
+              "大修館書店",
+              "研究社出版株式会社"
+            ],
+            "dcndl:creatorTranscription": [
+              "タイシュウカン ショテン",
+              "ケンキュウシャ シュッパン カブシキ ガイシャ"
+            ],
+            "dcndl:volume": "34(8)",
+            "dc:publisher": "大修館書店",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1985-10"
+            },
+            "dcterms:issued": "1985-10",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLJP",
+              "#text": "info:ndljp/pid/4433840"
+            },
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "ZK31"
+            },
+            "dc:description": [
+              "本タイトル等は最新号による",
+              "31巻2号以降の編者: 大修館書店「英語教育」編集部",
+              "別冊, 増刊号あり",
+              "1985-10"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://dl.ndl.go.jp/pid/4433840"
+            }
+          },
+          {
+            "title": "英文解釈教室",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I028019701",
+            "description": "<p>研究社,2017,978-4-327-76487-6<p><ul><li>タイトル：英文解釈教室</li><li>タイトル（読み）：エイブン カイシャク キョウシツ</li><li>責任表示：伊藤和夫 著</li><li>NDC(9)：837.5</li></ul>",
+            "author": "伊藤和夫 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I028019701"
+            },
+            "pubDate": "Tue, 4 Apr 2017 19:00:59 +0900",
+            "dc:title": "英文解釈教室",
+            "dcndl:titleTranscription": "エイブン カイシャク キョウシツ",
+            "dcndl:edition": "新装版",
+            "dc:publisher": "研究社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2017"
+            },
+            "dcterms:issued": "2017.3",
+            "dcndl:price": "1600円",
+            "dc:extent": "311p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-327-76487-6"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "028019701"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "22866227"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "33578823"
+              }
+            ],
+            "dc:subject": [
+              "英語 読解",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y42"
+              },
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "837.5"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113521422"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120480975"
+              },
+              {
+                "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002550411"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I028019701"
+              },
+              {
+                "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=4191965"
+              },
+              {
+                "@rdf:resource": "https://mina.ndl.go.jp/books/R100000073-I14842819"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784327764876"
+              }
+            ],
+            "dc:description": "2017"
+          },
+          {
+            "title": "英文解釈10日間 : 難関大突破の最短コース!",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007429527",
+            "description": "<p>聖文社,1986,<p><ul><li>タイトル：英文解釈10日間 : 難関大突破の最短コース!</li><li>タイトル（読み）：エイブン カイシャク トオカカン</li><li>責任表示：千葉兼太郎 著</li></ul>",
+            "author": "千葉兼太郎 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007429527"
+            },
+            "pubDate": "Mon, 9 Aug 2004 22:47:42 +0900",
+            "dc:title": "英文解釈10日間 : 難関大突破の最短コース!",
+            "dcndl:titleTranscription": "エイブン カイシャク トオカカン",
+            "dc:publisher": "聖文社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1986"
+            },
+            "dcterms:issued": "1986.4",
+            "dc:extent": "100p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000007429527"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "20627037"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "Y42"
+            },
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000007429527"
+            },
+            "dc:description": "1986"
+          },
+          {
+            "title": "英文解釈の技術100",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452786",
+            "description": "<p>桐原書店,2024,978-4-342-21012-9<p><ul><li>タイトル：英文解釈の技術100</li><li>タイトル（読み）：エイブン カイシャク ノ ギジュツ ヒャク</li><li>責任表示：杉野隆, 桑原信淑 共著</li><li>シリーズ名：大学受験スーパーゼミ. 徹底攻略 : きっちりわかる</li><li>シリーズ名（読み）：ダイガク ジュケン スーパー ゼミ. テッテイ コウリャク キッチリ ワカル</li><li>NDC(10)：837.5</li></ul>",
+            "author": "杉野隆, 桑原信淑 共著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452786"
+            },
+            "pubDate": "Mon, 20 May 2024 20:40:30 +0900",
+            "dc:title": "英文解釈の技術100",
+            "dcndl:titleTranscription": "エイブン カイシャク ノ ギジュツ ヒャク",
+            "dcndl:edition": "音声オンライン提供版",
+            "dcndl:seriesTitle": "大学受験スーパーゼミ. 徹底攻略 : きっちりわかる",
+            "dcndl:seriesTitleTranscription": "ダイガク ジュケン スーパー ゼミ. テッテイ コウリャク キッチリ ワカル",
+            "dc:publisher": "桐原書店",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2024"
+            },
+            "dcterms:issued": "2024.3",
+            "dcndl:price": "1500円",
+            "dc:extent": "230p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-342-21012-9"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "033452786"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23977652"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34604032"
+              }
+            ],
+            "dc:subject": [
+              "英語 和訳",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y42"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "2024"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452786"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784342210129"
+              }
+            ]
+          },
+          {
+            "title": "英文解釈の技術100",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000001-I39111116003950",
+            "description": "<p>桐原書店,2009,4-342-80311-6<p><ul><li>タイトル：英文解釈の技術100</li><li>タイトル（読み）：エイブン カイシャク ノ ギジュツ ヒャク</li><li>責任表示：杉野隆 共著 ; 桑原信淑 共著</li><li>シリーズ名：大学受験スーパーゼミ</li><li>シリーズ名（読み）：ダイガク ジュケン スーパー ゼミ</li><li>NDC(10)：837.5</li><li>NDC(9)：837.5</li></ul>",
+            "author": "杉野, 隆,桑原, 信淑,杉野隆 共著 ; 桑原信淑 共著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000001-I39111116003950"
+            },
+            "pubDate": "Fri, 28 Aug 2026 15:01:24 +0900",
+            "dc:title": "英文解釈の技術100",
+            "dcndl:titleTranscription": "エイブン カイシャク ノ ギジュツ ヒャク",
+            "dc:creator": [
+              "杉野, 隆",
+              "桑原, 信淑"
+            ],
+            "dcndl:creatorTranscription": [
+              "スギノ, タカシ",
+              "クワハラ, ノブヨシ"
+            ],
+            "dcndl:edition": "新装改訂版",
+            "dcndl:seriesTitle": "大学受験スーパーゼミ",
+            "dcndl:seriesTitleTranscription": "ダイガク ジュケン スーパー ゼミ",
+            "dc:publisher": "桐原書店",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2009"
+            },
+            "dcterms:issued": "2009.2",
+            "dcndl:price": "¥1350",
+            "dc:extent": "18,230p ; 21cm + 録音ディスク(1枚 12cm)",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "4-342-80311-6"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "4-342-80311-6"
+              },
+              {
+                "@xsi:type": "dcndl:TRCMARCNO",
+                "#text": "09701246"
+              }
+            ],
+            "dc:subject": [
+              "英語-解釈",
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              },
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "837.5"
+              },
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "837.5"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1116003950"
+              },
+              {
+                "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=1571232"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784342803116"
+              }
+            ],
+            "dc:description": "2009"
+          },
+          {
+            "title": "英文解釈のトレーニング　実戦編",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000038-I1264251",
+            "description": "<p>Ｚ会出版,2004-09,<p><ul><li>タイトル：英文解釈のトレーニング　実戦編</li><li>タイトル（読み）：エイブン　カイシャクノ　トレーニング　ジッセンヘン</li><li>責任表示：中澤幸夫 訳</li><li>NDC(9)：830</li></ul>",
+            "author": "中澤／幸夫,中澤幸夫 訳",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000038-I1264251"
+            },
+            "pubDate": "Wed, 10 Jan 2024 09:00:00 +0900",
+            "dc:title": "英文解釈のトレーニング　実戦編",
+            "dcndl:titleTranscription": "エイブン　カイシャクノ　トレーニング　ジッセンヘン",
+            "dc:creator": "中澤／幸夫",
+            "dcndl:creatorTranscription": "ナカザワ　ユキオ",
+            "dc:publisher": "Ｚ会出版",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2004-09"
+            },
+            "dcterms:issued": "2004年9月",
+            "dc:extent": "9巻",
+            "dc:subject": [
+              "英語",
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "830"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=1264251"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784860661625"
+              }
+            ],
+            "dc:description": "2004-09"
+          },
+          {
+            "title": "英文解体新書 : 構造と論理を読み解く英文解釈",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I029777188",
+            "description": "<p>研究社,2019,978-4-327-45292-6<p><ul><li>タイトル：英文解体新書 : 構造と論理を読み解く英文解釈</li><li>タイトル（読み）：エイブン カイタイ シンショ : コウゾウ ト ロンリ オ ヨミトク エイブン カイシャク</li><li>責任表示：北村一真 著</li><li>NDC(10)：837.5</li></ul>",
+            "author": "北村一真 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I029777188"
+            },
+            "pubDate": "Mon, 26 Aug 2019 18:12:33 +0900",
+            "dc:title": "英文解体新書 : 構造と論理を読み解く英文解釈",
+            "dcndl:titleTranscription": "エイブン カイタイ シンショ : コウゾウ ト ロンリ オ ヨミトク エイブン カイシャク",
+            "dc:publisher": "研究社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2019"
+            },
+            "dcterms:issued": "2019.7",
+            "dcndl:price": "2200円",
+            "dc:extent": "274p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-327-45292-6"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "029777188"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23253620"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "33946632"
+              }
+            ],
+            "dc:subject": [
+              "英語 読解",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y45"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "索引あり",
+              "2019"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000455983"
+              },
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=2925521&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.chiba.jp/licsxp-opac/WOpacTifSchCmpdDispAction.do"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113706873"
+              },
+              {
+                "@rdf:resource": "https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2397179"
+              },
+              {
+                "@rdf:resource": "https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1120232644"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001244166/"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1001910037608"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.osaka.jp/bib/?B13711418"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000014716093"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007000949457"
+              },
+              {
+                "@rdf:resource": "http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120052613"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120279470"
+              },
+              {
+                "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812326309"
+              },
+              {
+                "@rdf:resource": "https://www2.hplibra.pref.hiroshima.jp/bib/?B12563941"
+              },
+              {
+                "@rdf:resource": "http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110352213"
+              },
+              {
+                "@rdf:resource": "https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110367626"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130148641"
+              },
+              {
+                "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120393800"
+              },
+              {
+                "@rdf:resource": "http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111548653"
+              },
+              {
+                "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002768016"
+              },
+              {
+                "@rdf:resource": "https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110173422"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.okinawa.jp/winj/opac/switch-detail-iccap.do?bibid=1140073959"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I029777188"
+              },
+              {
+                "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=4213212"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1970304959895829004"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971430859727086506"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784327452926"
+              }
+            ]
+          },
+          {
+            "title": "英文解体新書",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I031391407",
+            "description": "<p>2,研究社,2021,978-4-327-45299-5<p><ul><li>タイトル：英文解体新書</li><li>タイトル（読み）：エイブン カイタイ シンショ</li><li>責任表示：北村一真 著</li><li>NDC(10)：837.5</li></ul>",
+            "author": "北村一真 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I031391407"
+            },
+            "pubDate": "Mon, 24 May 2021 18:18:47 +0900",
+            "dc:title": "英文解体新書",
+            "dcndl:titleTranscription": "エイブン カイタイ シンショ",
+            "dcndl:volume": "2",
+            "dc:publisher": "研究社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2021"
+            },
+            "dcterms:issued": "2021.4",
+            "dcndl:price": "2200円",
+            "dc:extent": "264p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-327-45299-5"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "031391407"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23527039"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34197845"
+              }
+            ],
+            "dc:subject": [
+              "英語 読解",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y45"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "文献あり 索引あり",
+              "2021"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000613655"
+              },
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=3099804&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113871687"
+              },
+              {
+                "@rdf:resource": "https://www.lib.sagamihara.kanagawa.jp/TOSHOW/asp/WwShousaiKen.aspx?FCode=2545087"
+              },
+              {
+                "@rdf:resource": "https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1120383301"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001411299/"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002110006770"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.osaka.jp/bib/?B13925262"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000015026483"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001119298"
+              },
+              {
+                "@rdf:resource": "http://www.lib.wakayama-c.ed.jp/winj/opac/switch-detail-iccap.do?bibid=1120205605"
+              },
+              {
+                "@rdf:resource": "http://www.library.pref.tottori.jp/winj/opac/switch-detail-iccap.do?bibid=1120403308"
+              },
+              {
+                "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812488736"
+              },
+              {
+                "@rdf:resource": "http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110503835"
+              },
+              {
+                "@rdf:resource": "https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1110603640"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130299609"
+              },
+              {
+                "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120545643"
+              },
+              {
+                "@rdf:resource": "http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1111700455"
+              },
+              {
+                "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000002938426"
+              },
+              {
+                "@rdf:resource": "https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110323426"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I031391407"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1970586434905561007"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971712334812473098"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784327452995"
+              }
+            ]
+          },
+          {
+            "title": "英文解体新書",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034184365",
+            "description": "<p>3,研究社,2025,978-4-327-45324-4<p><ul><li>タイトル：英文解体新書</li><li>タイトル（読み）：エイブン カイタイ シンショ</li><li>責任表示：北村一真 著</li><li>NDC(10)：837.5</li></ul>",
+            "author": "北村一真 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034184365"
+            },
+            "pubDate": "Wed, 13 Aug 2025 00:58:55 +0900",
+            "dc:title": "英文解体新書",
+            "dcndl:titleTranscription": "エイブン カイタイ シンショ",
+            "dcndl:volume": "3",
+            "dc:publisher": "研究社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2025"
+            },
+            "dcterms:issued": "2025.7",
+            "dcndl:price": "2200円",
+            "dc:extent": "264p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-327-45324-4"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "034184365"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24149559"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34759863"
+              }
+            ],
+            "dc:subject": [
+              "英語 読解",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y45"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "文献あり 索引あり",
+              "2025"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.pref.ibaraki.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1003000970092"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1125021282"
+              },
+              {
+                "@rdf:resource": "https://opac.pref-lib.niigata.niigata.jp/winj/opac/switch-detail-iccap.do?bibid=1120716623"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.ishikawa.lg.jp/wo/opc_srh/srh_detail/1000001761903/"
+              },
+              {
+                "@rdf:resource": "https://www.library.city.nagoya.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002510027472"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.osaka.jp/bib/?B17166875"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000051737"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001498158"
+              },
+              {
+                "@rdf:resource": "https://opac.libnet.pref.okayama.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1009812860906"
+              },
+              {
+                "@rdf:resource": "http://www.library.city.hiroshima.jp/winj/opac/switch-detail-iccap.do?bibid=1110840166"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130632387"
+              },
+              {
+                "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120886132"
+              },
+              {
+                "@rdf:resource": "http://www.lib.pref.fukuoka.jp/winj/opac/switch-detail-iccap.do?bibid=1112035311"
+              },
+              {
+                "@rdf:resource": "https://opac.miraionlibrary.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1000003301266"
+              },
+              {
+                "@rdf:resource": "https://library.pref.oita.jp/winj/opac/switch-detail-iccap.do?bibid=1110655897"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034184365"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971993987394347378"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784327453244"
+              }
+            ]
+          },
+          {
+            "title": "基礎英文解釈の技術100",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452787",
+            "description": "<p>桐原書店,2024,978-4-342-21011-2<p><ul><li>タイトル：基礎英文解釈の技術100</li><li>タイトル（読み）：キソ エイブン カイシャク ノ ギジュツ ヒャク</li><li>責任表示：桑原信淑, 杉野隆 共著</li><li>シリーズ名：大学受験スーパーゼミ. 徹底攻略 : きっちりわかる</li><li>シリーズ名（読み）：ダイガク ジュケン スーパー ゼミ. テッテイ コウリャク キッチリ ワカル</li><li>NDC(10)：837.5</li></ul>",
+            "author": "桑原信淑, 杉野隆 共著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452787"
+            },
+            "pubDate": "Mon, 20 May 2024 20:39:36 +0900",
+            "dc:title": "基礎英文解釈の技術100",
+            "dcndl:titleTranscription": "キソ エイブン カイシャク ノ ギジュツ ヒャク",
+            "dcndl:edition": "音声オンライン提供版",
+            "dcndl:seriesTitle": "大学受験スーパーゼミ. 徹底攻略 : きっちりわかる",
+            "dcndl:seriesTitleTranscription": "ダイガク ジュケン スーパー ゼミ. テッテイ コウリャク キッチリ ワカル",
+            "dc:publisher": "桐原書店",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2024"
+            },
+            "dcterms:issued": "2024.3",
+            "dcndl:price": "1500円",
+            "dc:extent": "228p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-342-21011-2"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "033452787"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "23977651"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34604033"
+              }
+            ],
+            "dc:subject": [
+              "英語 和訳",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y42"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "2024"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I033452787"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971151421384036101"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784342210112"
+              }
+            ]
+          },
+          {
+            "title": "基礎英文解釈の技術100",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809795568179",
+            "description": "<p>桐原書店,2008,9784342724619<p><ul><li>タイトル：基礎英文解釈の技術100</li><li>タイトル（読み）：キソ エイブン カイシャク ノ ギジュツ 100</li><li>責任表示：桑原信淑, 杉野隆共著</li><li>NDC(9)：837.5</li></ul>",
+            "author": "桑原, 信淑,杉野, 隆 (英語),桑原信淑, 杉野隆共著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000136-I1971993809795568179"
+            },
+            "pubDate": "Fri, 25 Sep 2026 11:13:32 +0900",
+            "dc:title": "基礎英文解釈の技術100",
+            "dcndl:titleTranscription": "キソ エイブン カイシャク ノ ギジュツ 100",
+            "dc:creator": [
+              "桑原, 信淑",
+              "杉野, 隆 (英語)"
+            ],
+            "dcndl:creatorTranscription": [
+              "クワハラ, ノブヨシ",
+              "スギノ, タカシ"
+            ],
+            "dcndl:edition": "新装改訂版",
+            "dc:publisher": "桐原書店",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2008"
+            },
+            "dcterms:issued": "2008.12",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "9784342724619"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "9784342724619"
+              },
+              {
+                "@xsi:type": "dcndl:NIIBibID",
+                "#text": "BB08682222"
+              }
+            ],
+            "dc:subject": [
+              "英語 -- 解釈",
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "837.5"
+              },
+              {
+                "@xsi:type": "dcndl:NDC8",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "付属資料: 録音ディスク (1枚 12cm)",
+              "別冊付録: 演習問題/解説・解答 (63p)",
+              "2008"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1115989245"
+              },
+              {
+                "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=4667601"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971993809795568179"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784342724619"
+              }
+            ]
+          },
+          {
+            "title": "基礎からの新々総合英語 : GRAND EARTH",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I033935254",
+            "description": "<p>チャート研究所,2025,978-4-410-11156-3<p><ul><li>タイトル：基礎からの新々総合英語 : GRAND EARTH</li><li>タイトル（読み）：キソ カラ ノ シンシン ソウゴウ エイゴ : グランド アース</li><li>責任表示：高橋潔, 根岸雅史 共編</li><li>シリーズ名：チャート式シリーズ</li><li>シリーズ名（読み）：チャートシキ シリーズ</li><li>NDC(10)：830</li></ul>",
+            "author": "高橋潔, 根岸雅史 共編",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I033935254"
+            },
+            "pubDate": "Fri, 14 Mar 2025 19:33:12 +0900",
+            "dc:title": "基礎からの新々総合英語 : GRAND EARTH",
+            "dcndl:titleTranscription": "キソ カラ ノ シンシン ソウゴウ エイゴ : グランド アース",
+            "dcndl:edition": "新訂版",
+            "dcndl:seriesTitle": "チャート式シリーズ",
+            "dcndl:seriesTitleTranscription": "チャートシキ シリーズ",
+            "dc:publisher": [
+              "チャート研究所",
+              "数研出版"
+            ],
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2025"
+            },
+            "dcterms:issued": "2025.2",
+            "dcndl:price": "1550円",
+            "dc:extent": "572p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-410-11156-3"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "033935254"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24088894"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34707907"
+              }
+            ],
+            "dc:subject": [
+              "英語",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y42"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "830"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "音声付 動画解説付",
+              "2025"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I033935254"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784410111563"
+              }
+            ]
+          },
+          {
+            "title": "『君の名は。』『天気の子』『すずめの戸締まり』で　中・高6年間の英語をゼロから一気に学べる本",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000137-I9784046080103",
+            "description": "<p>ＫＡＤＯＫＡＷＡ,2026-11-26,9784046080103<p><ul><li>タイトル：『君の名は。』『天気の子』『すずめの戸締まり』で　中・高6年間の英語をゼロから一気に学べる本</li><li>タイトル（読み）：『キミノナハ。』『テンキノコ』『スズメノトジマリ』デ　チュウ・コウロクネンカンノエイゴヲゼロカライッキニマナベルホン</li><li>責任表示：新海　誠 原著,杉村　年彦 解説</li></ul>",
+            "author": "新海　誠,杉村　年彦,新海　誠 原著,杉村　年彦 解説",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000137-I9784046080103"
+            },
+            "pubDate": "Sat, 7 Nov 2026 18:39:00 +0900",
+            "dc:title": "『君の名は。』『天気の子』『すずめの戸締まり』で　中・高6年間の英語をゼロから一気に学べる本",
+            "dcndl:titleTranscription": "『キミノナハ。』『テンキノコ』『スズメノトジマリ』デ　チュウ・コウロクネンカンノエイゴヲゼロカライッキニマナベルホン",
+            "dc:creator": [
+              "新海　誠",
+              "杉村　年彦"
+            ],
+            "dcndl:creatorTranscription": [
+              "シンカイ　マコト",
+              "スギムラ　トシヒコ"
+            ],
+            "dc:publisher": [
+              "ＫＡＤＯＫＡＷＡ",
+              "ＫＡＤＯＫＡＷＡ"
+            ],
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2026-11-26"
+            },
+            "dcterms:issued": "2026-11-26",
+            "dcndl:price": "1800",
+            "dc:extent": "224p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "9784046080103"
+              },
+              {
+                "@xsi:type": "dcndl:ISBN13",
+                "#text": "9784046080103"
+              }
+            ],
+            "dc:subject": "君の名は",
+            "dc:description": [
+              "発売",
+              "2026-11-26"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://www.books.or.jp/book-details/9784046080103"
+            }
+          },
+          {
+            "title": "9割受かる英語勉強法",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034660765",
+            "description": "<p>ダイヤモンド社,2026,978-4-478-10976-2<p><ul><li>タイトル：9割受かる英語勉強法</li><li>タイトル（読み）：キュウワリ ウカル エイゴ ベンキョウホウ</li><li>責任表示：松原一樹 著,森田鉄也 監修</li><li>NDC(10)：830.79</li></ul>",
+            "author": "松原一樹 著,森田鉄也 監修",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034660765"
+            },
+            "pubDate": "Wed, 13 May 2026 01:27:26 +0900",
+            "dc:title": "9割受かる英語勉強法",
+            "dcndl:titleTranscription": "キュウワリ ウカル エイゴ ベンキョウホウ",
+            "dc:publisher": "ダイヤモンド社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2026"
+            },
+            "dcterms:issued": "2026.4",
+            "dcndl:price": "1600円",
+            "dc:extent": "351p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-478-10976-2"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "034660765"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24252128"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34858203"
+              }
+            ],
+            "dc:subject": [
+              "英語",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y45"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "830.79"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "2026"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=3550660&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001564234"
+              },
+              {
+                "@rdf:resource": "https://alislibopac.bunmori.tokushima.jp/winj/opac/switch-detail-iccap.do?bibid=1111709098"
+              },
+              {
+                "@rdf:resource": "https://opac.library.kochi.jp/winj/opac/switch-detail-iccap.do?bibid=1120944157"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034660765"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971152892110579202"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/47810976000000000000"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784478109762"
+              }
+            ]
+          },
+          {
+            "title": "教養と英語力が身につく英文読解STANDARD : 大学入試英文で鍛える大人のための英語精読",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034609048",
+            "description": "<p>Gakken,2026,978-4-05-306382-3<p><ul><li>タイトル：教養と英語力が身につく英文読解STANDARD : 大学入試英文で鍛える大人のための英語精読</li><li>タイトル（読み）：キョウヨウ ト エイゴリョク ガ ミ ニ ツク エイブン ドッカイ スタンダード</li><li>責任表示：北村一真 著</li><li>NDC(10)：837.5</li></ul>",
+            "author": "北村一真 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034609048"
+            },
+            "pubDate": "Thu, 9 Apr 2026 22:52:20 +0900",
+            "dc:title": "教養と英語力が身につく英文読解STANDARD : 大学入試英文で鍛える大人のための英語精読",
+            "dcndl:titleTranscription": "キョウヨウ ト エイゴリョク ガ ミ ニ ツク エイブン ドッカイ スタンダード",
+            "dc:publisher": "Gakken",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2026"
+            },
+            "dcterms:issued": "2026.4",
+            "dcndl:price": "2300円",
+            "dc:extent": "239p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-05-306382-3"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "034609048"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24241300"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34848679"
+              }
+            ],
+            "dc:subject": [
+              "英語 読解",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y45"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "カバーによる情報あり",
+              "文献あり 索引あり",
+              "2026"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://www.lib.city.saitama.jp/bookdetail?num=3543819&ctg=1"
+              },
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1125069875"
+              },
+              {
+                "@rdf:resource": "https://www.oml.city.osaka.lg.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1002000113728"
+              },
+              {
+                "@rdf:resource": "https://www.lib-sakai.jp/licsxp-opac/WOpacMsgNewListToTifTilDetailAction.do?tilcod=1007001557152"
+              },
+              {
+                "@rdf:resource": "https://www.library.pref.kagawa.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1130683533"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034609048"
+              },
+              {
+                "@rdf:resource": "https://cir.nii.ac.jp/crid/1971997471667967476"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784053063823"
+              }
+            ]
+          },
+          {
+            "title": "くり返し解いて身につく英文解釈1冊目のドリル : 大学入試",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034387376",
+            "description": "<p>KADOKAWA,2025,978-4-04-607619-9<p><ul><li>タイトル：くり返し解いて身につく英文解釈1冊目のドリル : 大学入試</li><li>タイトル（読み）：クリカエシ トイテ ミ ニ ツク エイブン カイシャク イッサツメ ノ ドリル : ダイガク ニュウシ</li><li>責任表示：杉山一志 著</li><li>NDC(10)：837.5</li></ul>",
+            "author": "杉山一志 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034387376"
+            },
+            "pubDate": "Thu, 4 Dec 2025 18:31:24 +0900",
+            "dc:title": "くり返し解いて身につく英文解釈1冊目のドリル : 大学入試",
+            "dcndl:titleTranscription": "クリカエシ トイテ ミ ニ ツク エイブン カイシャク イッサツメ ノ ドリル : ダイガク ニュウシ",
+            "dc:publisher": "KADOKAWA",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2025"
+            },
+            "dcterms:issued": "2025.11",
+            "dcndl:price": "1400円",
+            "dc:extent": "191p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-04-607619-9"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "034387376"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24195094"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34802727"
+              }
+            ],
+            "dc:subject": [
+              "英語 和訳",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y42"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "837.5"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "音声付 資料ダウンロード アプリ付",
+              "2025"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034387376"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/04607619A22161400000"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784046076199"
+              }
+            ]
+          },
+          {
+            "title": "減点されない英文解釈 : 大学受験",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010778713",
+            "description": "<p>学研教育出版,2010,978-4-05-303014-6<p><ul><li>タイトル：減点されない英文解釈 : 大学受験</li><li>タイトル（読み）：ゲンテン サレナイ エイブン カイシャク</li><li>責任表示：福崎伍郎, 柴田卓也 著</li></ul>",
+            "author": "福崎, 伍郎,福崎伍郎, 柴田卓也 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010778713"
+            },
+            "pubDate": "Mon, 5 Apr 2010 23:00:44 +0900",
+            "dc:title": "減点されない英文解釈 : 大学受験",
+            "dcndl:titleTranscription": "ゲンテン サレナイ エイブン カイシャク",
+            "dc:creator": "福崎, 伍郎",
+            "dcndl:creatorTranscription": "フクザキ, ゴロウ",
+            "dc:publisher": [
+              "学研教育出版",
+              "学研マーケティング (発売)"
+            ],
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2010"
+            },
+            "dcterms:issued": "2010.3",
+            "dcndl:price": "1000円",
+            "dc:extent": "163p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-05-303014-6"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "000010778713"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "21729034"
+              }
+            ],
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "Y42"
+            },
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://opac.lib.city.yokohama.lg.jp/winj/opac/switch-detail-iccap.do?bibid=1113977954"
+              },
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I000010778713"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784053030146"
+              }
+            ],
+            "dc:description": "2010"
+          },
+          {
+            "title": "「差がつく300語」を1ヵ月で制する大学入試英単語OVERSIGHT",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I034797215",
+            "description": "<p>KADOKAWA,2026,978-4-04-811801-9<p><ul><li>タイトル：「差がつく300語」を1ヵ月で制する大学入試英単語OVERSIGHT</li><li>タイトル（読み）：サ ガ ツク サンビャクゴ オ イッカゲツ デ セイスル ダイガク ニュウシ エイタンゴ オーバーサイト</li><li>責任表示：杉村年彦 著</li><li>NDC(10)：834</li></ul>",
+            "author": "杉村年彦 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I034797215"
+            },
+            "pubDate": "Fri, 14 Aug 2026 20:56:34 +0900",
+            "dc:title": "「差がつく300語」を1ヵ月で制する大学入試英単語OVERSIGHT",
+            "dcndl:titleTranscription": "サ ガ ツク サンビャクゴ オ イッカゲツ デ セイスル ダイガク ニュウシ エイタンゴ オーバーサイト",
+            "dc:publisher": "KADOKAWA",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2026"
+            },
+            "dcterms:issued": "2026.7",
+            "dcndl:price": "1800円",
+            "dc:extent": "269p",
+            "dc:identifier": [
+              {
+                "@xsi:type": "dcndl:ISBN",
+                "#text": "978-4-04-811801-9"
+              },
+              {
+                "@xsi:type": "dcndl:NDLBibID",
+                "#text": "034797215"
+              },
+              {
+                "@xsi:type": "dcndl:JPNO",
+                "#text": "24288271"
+              },
+              {
+                "@xsi:type": "dcndl:TOHANMARCNO",
+                "#text": "34883079"
+              }
+            ],
+            "dc:subject": [
+              "英語 語彙",
+              {
+                "@xsi:type": "dcndl:NDLC",
+                "#text": "Y42"
+              },
+              {
+                "@xsi:type": "dcndl:NDC10",
+                "#text": "834"
+              }
+            ],
+            "dc:description": [
+              "出版",
+              "音声付 資料ダウンロード アプリ付",
+              "2026"
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://ndlsearch.ndl.go.jp/books/R100000002-I034797215"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784048118019"
+              }
+            ]
+          },
+          {
+            "title": "受験と學生",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000010970-d3554884",
+            "description": "<p>37(6),研究社,1952-10,<p><ul><li>タイトル：受験と學生</li><li>タイトル（読み）：ジュケン ト ガクセイ</li></ul>",
+            "author": "研究社",
+            "category": [
+              "雑誌",
+              "デジタル"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000002-I000000010970-d3554884"
+            },
+            "pubDate": "Mon, 6 Mar 2023 20:43:01 +0900",
+            "dc:title": "受験と學生",
+            "dcndl:titleTranscription": "ジュケン ト ガクセイ",
+            "dc:creator": "研究社",
+            "dcndl:creatorTranscription": "ケンキュウシャ",
+            "dcndl:volume": "37(6)",
+            "dc:publisher": "研究社",
+            "dcndl:publicationPlace": "JP",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "1952-10"
+            },
+            "dcterms:issued": "1952-10",
+            "dc:identifier": {
+              "@xsi:type": "dcndl:NDLJP",
+              "#text": "info:ndljp/pid/3554884"
+            },
+            "dcndl:genre": "児童雑誌",
+            "dcndl:genreTranscription": "ジドウ ザッシ",
+            "dc:subject": {
+              "@xsi:type": "dcndl:NDLC",
+              "#text": "ZY3"
+            },
+            "dc:description": [
+              "本タイトル等は最新号による",
+              "26巻から27巻までは「学生」, 28巻から29巻までは「中學生」, 30巻から35巻までは「学生」として刊行",
+              "1952-10"
+            ],
+            "rdfs:seeAlso": {
+              "@rdf:resource": "https://dl.ndl.go.jp/pid/3554884"
+            }
+          },
+          {
+            "title": "大学入試最難関大への英文解釈 : 正確に読み解くストラテジー",
+            "link": "https://ndlsearch.ndl.go.jp/books/R100000038-I1386525",
+            "description": "<p>桐原書店,2008-02,<p><ul><li>タイトル：大学入試最難関大への英文解釈 : 正確に読み解くストラテジー</li><li>タイトル（読み）：ダイガク　ニュウシ　サイナンカンダイ　エノ　エイブン　カイシャク : セイカク　ニ　ヨミトク　ストラテジー</li><li>責任表示：大矢復 著</li><li>NDC(9)：837.5</li></ul>",
+            "author": "大矢／復,大矢復 著",
+            "category": [
+              "図書",
+              "紙"
+            ],
+            "guid": {
+              "@isPermaLink": "true",
+              "#text": "https://ndlsearch.ndl.go.jp/books/R100000038-I1386525"
+            },
+            "pubDate": "Thu, 23 Jun 2016 09:00:00 +0900",
+            "dc:title": "大学入試最難関大への英文解釈 : 正確に読み解くストラテジー",
+            "dcndl:titleTranscription": "ダイガク　ニュウシ　サイナンカンダイ　エノ　エイブン　カイシャク : セイカク　ニ　ヨミトク　ストラテジー",
+            "dc:creator": "大矢／復",
+            "dcndl:creatorTranscription": "オオヤ，タダシ",
+            "dc:publisher": "桐原書店",
+            "dc:date": {
+              "@xsi:type": "dcterms:W3CDTF",
+              "#text": "2008-02"
+            },
+            "dcterms:issued": "2008年2月",
+            "dc:extent": "7巻",
+            "dc:subject": [
+              "英語－解釈",
+              {
+                "@xsi:type": "dcndl:NDC9",
+                "#text": "837.5"
+              }
+            ],
+            "rdfs:seeAlso": [
+              {
+                "@rdf:resource": "https://library.sapie.or.jp/cgi-bin/CN1MN1?S00101=J00DTL04&S00222=1386525"
+              },
+              {
+                "@rdf:resource": "https://www.books.or.jp/book-details/9784342742811"
+              }
+            ],
+            "dc:description": "2008-02"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "query": "subject:ミステリー",
+  "search_parameters": {
+    "langRestrict": "ja",
+    "printType": "books",
+    "orderBy": "relevance",
+    "maxResults": 20
+  },
+  "response": {
+    "kind": "books#volumes",
+    "totalItems": 0
+  }
+}
